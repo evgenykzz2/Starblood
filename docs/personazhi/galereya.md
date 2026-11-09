@@ -83,6 +83,15 @@
 </figure>
 </div>
 
+## Винсент «Винс» Кассиди
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Винсент Кассиди: Пленник Колонны Безвременья](../assets/portrety/017_s.webp){ loading=lazy }](../assets/portrety/017.webp)
+  <figcaption><a href="../vinsent/">Пленник Колонны Безвременья</a><br><small>ЗК-2, гл. 22 — ЗК-6, гл. 19</small></figcaption>
+</figure>
+</div>
+
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный
 
 <div class="portrait-grid" markdown>

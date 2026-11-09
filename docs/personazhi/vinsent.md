@@ -1,6 +1,17 @@
 # Винсент «Винс» Кассиди
 
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Винсент Кассиди: Пленник Колонны Безвременья](../assets/portrety/017_s.webp){ loading=lazy }](../assets/portrety/017.webp)
+  <figcaption>Пленник Колонны Безвременья<br><small>ЗК-2, гл. 22 — ЗК-6, гл. 19</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Шапка
 
 | | |
