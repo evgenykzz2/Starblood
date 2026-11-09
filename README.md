@@ -21,6 +21,7 @@ mkdocs serve
 | `docs/personazhi/` | Досье персонажей и указатели |
 | `docs/karta/` | Интерактивная карта мира |
 | `docs/slovar.md` | Словарь терминов |
+| `docs/knigi/` | Фанатские книги: чтение в браузере и FB2 (генерируются `tools/build_book.py` в star-blood) |
 | `docs/assets/personazhi/` | Иллюстрации персонажей (подставляются на страницы автоматически, см. «О вики») |
 | `hooks/character_images.py` | Вставка иллюстраций на страницы персонажей |
 

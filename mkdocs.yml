@@ -35,6 +35,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.tracking
@@ -160,5 +161,11 @@ nav:
         - "Эрин Ледяная Искра": personazhi/erin.md
         - "Юки (Танцующая-в-Тени → Тень → Тень-из-Неба)": personazhi/yuki.md
   - Словарь: slovar.md
+  - Книги:
+      - "Все книги": knigi/index.md
+      - "Буря моя":
+          - "О книге": knigi/burya-moya/index.md
+          - "Пролог": knigi/burya-moya/00-prolog.md
+          - "Глава 1": knigi/burya-moya/01-glava-01.md
   - "Обозначения и книги": oboznacheniya.md
   - "О вики": o-vike.md

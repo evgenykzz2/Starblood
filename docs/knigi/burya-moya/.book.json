@@ -1,0 +1,17 @@
+{
+ "slug": "burya-moya",
+ "title": "Буря моя",
+ "index": "knigi/burya-moya/index.md",
+ "pages": [
+  [
+   "Пролог",
+   "knigi/burya-moya/00-prolog.md"
+  ],
+  [
+   "Глава 1",
+   "knigi/burya-moya/01-glava-01.md"
+  ]
+ ],
+ "subtitle": "Фанфик-приквел по циклу Романа Прокофьева «Звездная Кровь»",
+ "status": "Черновик. Готовы пролог и глава 1 из 32 частей."
+}
