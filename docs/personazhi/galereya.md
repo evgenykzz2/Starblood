@@ -129,6 +129,19 @@
   [![Минос (доктор Матиас Амин): Восходящий-«маг»](../assets/portrety/024_s.webp){ loading=lazy }](../assets/portrety/024.webp)
   <figcaption><a href="../minos/">Восходящий-«маг»</a><br><small>ЗК-1, гл. 19–20; в рейдах ЗК-4, ЗК-6</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Минос (доктор Матиас Амин): Учёный / фламин](../assets/portrety/025_s.webp){ loading=lazy }](../assets/portrety/025.webp)
+  <figcaption><a href="../minos/">Учёный / фламин</a><br><small>ЗК-1, гл. 22; ЗК-7 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Фьюри (Кристина Фальк / Лилия ван дер Саар)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Телохранительница рикса](../assets/portrety/026_s.webp){ loading=lazy }](../assets/portrety/026.webp)
+  <figcaption><a href="../fyuri/">Телохранительница рикса</a><br><small>ЗК-4 — ЗК-6</small></figcaption>
+</figure>
 </div>
 
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный

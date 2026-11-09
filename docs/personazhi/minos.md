@@ -20,6 +20,10 @@
   [![Минос (доктор Матиас Амин): Восходящий-«маг»](../assets/portrety/024_s.webp){ loading=lazy }](../assets/portrety/024.webp)
   <figcaption>Восходящий-«маг»<br><small>ЗК-1, гл. 19–20; в рейдах ЗК-4, ЗК-6</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Минос (доктор Матиас Амин): Учёный / фламин](../assets/portrety/025_s.webp){ loading=lazy }](../assets/portrety/025.webp)
+  <figcaption>Учёный / фламин<br><small>ЗК-1, гл. 22; ЗК-7 — ЗК-11</small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
