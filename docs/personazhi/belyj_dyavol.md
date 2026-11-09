@@ -3,6 +3,17 @@
 > Главный герой цикла «Тысяча Братьев» (ТБ-1…ТБ-5) и «голос в голове» Сигурда в основной серии (ЗК-1…ЗК-6). Самое подробное досье базы.
 > Связанные досье: [Кейнор](../personazhi/kejnor.md) · [Морвейн](../personazhi/morvejn.md) · [Азимандия](../personazhi/azimandiya.md) · [Тысяча Братьев](../personazhi/tysyacha_bratev.md) · [Моргейн](../personazhi/morgejn.md) · [Предатель Арвейн](../personazhi/arvejn_predatel.md) · [Орин](../personazhi/orin.md) · [Псы Вечности / Всполох](../personazhi/psy_vechnosti.md) · [Хранители](../personazhi/hraniteli.md) · [Найтфир](../personazhi/najtfir.md) · [Каласса](../personazhi/kalassa.md) · [Народ Теней](../personazhi/narod_tenej.md) · [Существа Скрижали](../personazhi/sushchestva_skrizhali.md) · [Сигурд](../personazhi/sigurd.md) · [Марк «Мрак» Кассиди](../personazhi/mark-mrak.md) · [Винсент Кассиди](../personazhi/vinsent.md) · [Мико](../personazhi/miko.md) (досье основной серии, другой автор).
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)](../assets/portrety/072_s.webp){ loading=lazy }](../assets/portrety/072.webp)
+  <figcaption>Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Шапка
 
 | Поле | Значение |

@@ -1,6 +1,29 @@
 # Травинка-на-Ветру (Адель Кассиди)
 
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Травинка (Травинка-на-Ветру, Адель Кассиди): Медком фригольда](../assets/portrety/011_s.webp){ loading=lazy }](../assets/portrety/011.webp)
+  <figcaption>Медком фригольда<br><small>ЗК-1, гл. 19 — ЗК-3</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Травинка (Травинка-на-Ветру, Адель Кассиди): Тайное свидание / вечер в «Виски»](../assets/portrety/012_s.webp){ loading=lazy }](../assets/portrety/012.webp)
+  <figcaption>Тайное свидание / вечер в «Виски»<br><small>ЗК-2, гл. 9 — ЗК-4, гл. 3</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Травинка (Травинка-на-Ветру, Адель Кассиди): Медик боевого копья](../assets/portrety/013_s.webp){ loading=lazy }](../assets/portrety/013.webp)
+  <figcaption>Медик боевого копья<br><small>ЗК-4, гл. 5 — ЗК-5</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Травинка (Травинка-на-Ветру, Адель Кассиди): Цветущая Восходящая, жена](../assets/portrety/014_s.webp){ loading=lazy }](../assets/portrety/014.webp)
+  <figcaption>Цветущая Восходящая, жена<br><small>ЗК-6, гл. 26 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Шапка
 
 | | |

@@ -1,6 +1,21 @@
 # Вероника «Ника» Максвелл
 
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Вероника Максвелл: Рикс в золотом комбинезоне](../assets/portrety/015_s.webp){ loading=lazy }](../assets/portrety/015.webp)
+  <figcaption>Рикс в золотом комбинезоне<br><small>ЗК-1, гл. 16 — ЗК-5</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Вероника Максвелл: В поле: серебряная Восходящая на тауро; Аспект-глаз](../assets/portrety/016_s.webp){ loading=lazy }](../assets/portrety/016.webp)
+  <figcaption>В поле: серебряная Восходящая на тауро; Аспект-глаз<br><small>ЗК-6</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Шапка
 
 | | |

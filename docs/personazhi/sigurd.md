@@ -6,6 +6,53 @@
 
 ---
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Колонист после падения](../assets/portrety/001_s.webp){ loading=lazy }](../assets/portrety/001.webp)
+  <figcaption>Колонист после падения<br><small>ЗК-1, гл. 1–15</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Фригольдер, ученик копья Динамита](../assets/portrety/002_s.webp){ loading=lazy }](../assets/portrety/002.webp)
+  <figcaption>Фригольдер, ученик копья Динамита<br><small>ЗК-1, гл. 16 — ЗК-2</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): После Домена Азимандии: «очень крепкий мужчина» в одежде Кел](../assets/portrety/003_s.webp){ loading=lazy }](../assets/portrety/003.webp)
+  <figcaption>После Домена Азимандии: «очень крепкий мужчина» в одежде Кел<br><small>ЗК-3</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): «Молодой волк», пилот «Грифона»](../assets/portrety/004_s.webp){ loading=lazy }](../assets/portrety/004.webp)
+  <figcaption>«Молодой волк», пилот «Грифона»<br><small>ЗК-4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): В доспехе Небесного Ястреба](../assets/portrety/005_s.webp){ loading=lazy }](../assets/portrety/005.webp)
+  <figcaption>В доспехе Небесного Ястреба<br><small>ЗК-5 — ЗК-9; конфискован в ЗК-10, гл. 1</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Отражение в Вечности «Звездный Флот»](../assets/portrety/006_s.webp){ loading=lazy }](../assets/portrety/006.webp)
+  <figcaption>Отражение в Вечности «Звездный Флот»<br><small>ЗК-5; ЗК-6, гл. 12–16; ЗК-8–ЗК-9 в Вечности</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Серебряный Восходящий, «не Геракл, но Аполлон»; инкогнито](../assets/portrety/007_s.webp){ loading=lazy }](../assets/portrety/007.webp)
+  <figcaption>Серебряный Восходящий, «не Геракл, но Аполлон»; инкогнито<br><small>ЗК-6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Командир в лед-доспехе Эргиаля](../assets/portrety/008_s.webp){ loading=lazy }](../assets/portrety/008.webp)
+  <figcaption>Командир в лед-доспехе Эргиаля<br><small>ЗК-8, эпилог — ЗК-10</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сигурд (Сигварт Морозов): Анимафикация: черты Воглера](../assets/portrety/009_s.webp){ loading=lazy }](../assets/portrety/009.webp)
+  <figcaption>Анимафикация: черты Воглера<br><small>ЗК-11</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Аспект «Дракон Звездного Света» и экипировка Сигурда: Дракон Звездного Света (Аспект; пробуждён SK-05, гл. 4)](../assets/portrety/010_s.webp){ loading=lazy }](../assets/portrety/010.webp)
+  <figcaption>Дракон Звездного Света (Аспект; пробуждён SK-05, гл. 4)<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Шапка: имена, природа, статус
 
 ### 1.1. Карточка
