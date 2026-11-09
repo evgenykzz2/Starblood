@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руны Мерзости">
+<defs><radialGradient id="bg-runy-merzosti" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runy-merzosti" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runy-merzosti)" stroke="#5d2b8f" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5d2b8f" stroke-width="1" opacity=".7"/>
+<path d="M101.2 97.5 L95.2 92.1 M83.0 110.3 L81.4 106.6 M61.0 113.9 L61.5 105.9 M39.7 107.7 L41.6 104.2 M23.1 92.8 L29.7 88.2 M14.7 72.2 L18.6 71.5 M16.0 50.0 L23.7 52.2 M26.8 30.5 L29.8 33.2 M45.0 17.7 L48.1 25.1 M67.0 14.1 L66.8 18.1 M88.3 20.3 L84.5 27.3 M104.9 35.2 L101.6 37.5 M113.3 55.8 L105.4 57.1 M112.0 78.0 L108.2 76.9" stroke="#5d2b8f" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#c08cff" color="#c08cff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runy-merzosti)"><ellipse cx="64" cy="66" rx="14" ry="22"/><path d="M64 44 L64 88 M56 42 L46 26 M72 42 L82 26 M50 54 L30 46 M50 66 L28 66 M50 78 L30 88 M78 54 L98 46 M78 66 L100 66 M78 78 L98 88"/></g>
+<path d="M30 40 L44 52 L40 64 M98 86 L84 78 L88 66 M54 104 L60 92" stroke="#e0405a" stroke-width="2.5" fill="none"/>
+</svg>

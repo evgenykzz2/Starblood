@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Азимандии">
+<defs><radialGradient id="bg-runa-azimandii" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-azimandii" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-azimandii)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M49.4 16.2 L50.6 20.0 M68.8 14.2 L68.0 22.2 M87.5 19.9 L85.6 23.4 M102.6 32.2 L96.4 37.3 M111.8 49.4 L104.2 51.7 M113.8 68.8 L105.8 68.0 M108.1 87.5 L104.6 85.6 M95.8 102.6 L90.7 96.4 M78.6 111.8 L77.4 108.0 M59.2 113.8 L60.0 105.8 M40.5 108.1 L42.4 104.6 M25.4 95.8 L31.6 90.7 M16.2 78.6 L23.8 76.3 M14.2 59.2 L22.2 60.0 M19.9 40.5 L23.4 42.4 M32.2 25.4 L37.3 31.6" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-azimandii)"><circle cx="64" cy="42" r="8"/><path d="M56 40 Q50 64 46 80 M72 40 Q78 64 82 80 M64 50 L54 98 L74 98 Z M58 62 L46 72 M70 62 L82 72"/><path d="M107.3 68.4 L110.5 71.6 L107.3 74.8 L104.1 71.6 Z"/><path d="M85.0 99.4 L88.2 102.6 L85.0 105.8 L81.8 102.6 Z"/><path d="M46.9 101.3 L50.1 104.5 L46.9 107.7 L43.7 104.5 Z"/><path d="M21.6 72.7 L24.8 75.9 L21.6 79.1 L18.4 75.9 Z"/><path d="M28.3 35.1 L31.5 38.3 L28.3 41.5 L25.1 38.3 Z"/><path d="M61.8 16.9 L65.0 20.1 L61.8 23.3 L58.6 20.1 Z"/><path d="M97.0 31.7 L100.2 34.9 L97.0 38.1 L93.8 34.9 Z"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#d8a43a"/>
+</svg>

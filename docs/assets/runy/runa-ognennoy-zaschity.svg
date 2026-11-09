@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Огненной Защиты">
+<defs><radialGradient id="bg-runa-ognennoy-zaschity" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ognennoy-zaschity" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ognennoy-zaschity)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M53.6 112.9 L55.3 105.1 M34.6 104.5 L39.3 98.0 M20.7 89.0 L24.2 87.0 M14.3 69.2 L18.3 68.8 M16.4 48.5 L20.3 49.8 M26.8 30.5 L29.8 33.2 M43.7 18.3 L45.3 22.0 M64.0 14.0 L64.0 18.0 M84.3 18.3 L81.1 25.6 M101.2 30.5 L95.2 35.9 M111.6 48.5 L107.7 49.8 M113.7 69.2 L109.7 68.8 M107.3 89.0 L103.8 87.0 M93.4 104.5 L91.0 101.2 M74.4 112.9 L73.6 109.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ognennoy-zaschity)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 28 L92 38 L88 72 Q80 92 64 100 Q48 92 40 72 L36 38 Z"/><path d="M64 40 L64 88"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 102 Q38 84 50 58 Q54 72 62 68 Q56 46 72 26 Q74 50 86 60 Q94 86 64 102 Z"/></g></g></g>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Зеленого Листа">
+<defs><radialGradient id="bg-runa-zelenogo-lista" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-zelenogo-lista" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-zelenogo-lista)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M15.5 51.9 L23.2 53.8 M25.5 32.1 L28.6 34.6 M43.2 18.5 L44.9 22.2 M65.0 14.0 L64.8 22.0 M86.6 19.4 L84.8 23.0 M103.7 33.6 L97.4 38.5 M113.0 53.8 L109.0 54.7 M112.5 76.1 L108.6 75.1 M102.5 95.9 L96.3 90.8 M84.8 109.5 L83.1 105.8 M63.0 114.0 L63.1 110.0 M41.4 108.6 L45.0 101.5 M24.3 94.4 L27.5 92.0 M15.0 74.2 L22.9 72.5" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-zelenogo-lista)"><path d="M42 102 Q56 70 86 30"/><path d="M58 72 Q44 64 40 50 Q54 52 58 72 Z M70 54 Q84 54 92 66 Q78 70 70 54 Z M78 40 Q70 30 72 20 Q82 28 78 40 Z"/></g>
+
+</svg>

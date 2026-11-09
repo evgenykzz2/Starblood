@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Капля Звездной Крови">
+<defs><radialGradient id="bg-kaplya-zvezdnoy-krovi" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-kaplya-zvezdnoy-krovi" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-kaplya-zvezdnoy-krovi)" stroke="#6f9aa6" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#6f9aa6" stroke-width="1" opacity=".7"/>
+<path d="M14.1 60.5 L22.1 61.1 M19.9 40.5 L23.4 42.4 M33.2 24.6 L38.1 30.9 M51.9 15.5 L52.9 19.4 M72.7 14.8 L72.0 18.7 M92.0 22.5 L89.7 25.9 M106.4 37.5 L99.6 41.7 M113.5 57.0 L105.6 58.2 M112.1 77.8 L104.4 75.6 M102.3 96.1 L99.2 93.6 M85.9 108.9 L82.4 101.7 M65.7 114.0 L65.6 110.0 M45.3 110.4 L46.8 106.7 M28.0 98.7 L30.9 96.0 M17.0 81.1 L24.5 78.4" stroke="#6f9aa6" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#bfe9f2" color="#bfe9f2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-kaplya-zvezdnoy-krovi)"><path d="M64 24 Q92 62 88 78 Q84 102 64 102 Q44 102 40 78 Q36 62 64 24 Z"/><path d="M64 60 L67 72 L78 75 L67 78 L64 90 L61 78 L50 75 L61 72 Z"/></g>
+
+</svg>

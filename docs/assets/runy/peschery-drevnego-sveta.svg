@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Пещеры Древнего Света">
+<defs><radialGradient id="bg-peschery-drevnego-sveta" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-peschery-drevnego-sveta" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-peschery-drevnego-sveta)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M71.0 113.5 L70.4 109.6 M37.5 106.4 L39.6 103.0 M16.4 79.5 L20.3 78.2 M17.6 45.3 L21.3 46.8 M40.5 19.9 L44.3 26.9 M74.4 15.1 L72.7 22.9 M103.4 33.2 L97.1 38.1 M114.0 65.7 L106.0 65.5 M101.2 97.5 L98.2 94.8" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-peschery-drevnego-sveta)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M48 102 L52 46 L76 46 L80 102 Z M46 46 L46 30 L54 30 L54 37 L60 37 L60 30 L68 30 L68 37 L74 37 L74 30 L82 30 L82 46"/><path d="M60 102 L60 84 Q64 78 68 84 L68 102"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="64" r="16"/><path d="M64 26 L64 38 M64 90 L64 102 M26 64 L38 64 M90 64 L102 64 M37 37 L46 46 M82 82 L91 91 M37 91 L46 82 M82 46 L91 37"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#9fb0c4"/>
+</svg>

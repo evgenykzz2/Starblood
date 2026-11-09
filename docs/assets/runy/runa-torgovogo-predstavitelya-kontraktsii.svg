@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Торгового Представителя Контракции">
+<defs><radialGradient id="bg-runa-torgovogo-predstavi" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-torgovogo-predstavi" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-torgovogo-predstavi)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M18.3 43.7 L22.0 45.3 M42.1 19.1 L43.8 22.7 M76.1 15.5 L74.2 23.2 M104.5 34.6 L98.0 39.3 M113.9 67.5 L109.9 67.2 M100.0 98.7 L97.1 96.0 M69.2 113.7 L68.4 105.8 M36.0 105.5 L38.3 102.1 M15.9 77.8 L19.8 76.7" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-torgovogo-predstavi)"><g transform="translate(-6 0)"><path d="M64 30 Q48 34 46 54 Q44 70 40 100 L88 100 Q84 70 82 54 Q80 34 64 30 Z"/><path d="M54 56 Q64 44 74 56 Q72 66 64 68 Q56 66 54 56 Z"/></g><circle cx="88" cy="88" r="11"/><path d="M88 82 L88 94"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#d8a43a"/>
+</svg>

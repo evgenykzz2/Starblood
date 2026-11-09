@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Энергии">
+<defs><radialGradient id="bg-runa-energii" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-energii" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-energii)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M103.9 94.1 L100.7 91.7 M89.4 107.1 L87.3 103.6 M71.0 113.5 L69.8 105.6 M51.5 112.4 L52.5 108.5 M33.9 103.9 L38.7 97.5 M20.9 89.4 L24.4 87.3 M14.5 71.0 L22.4 69.8 M15.6 51.5 L19.5 52.5 M24.1 33.9 L27.3 36.3 M38.6 20.9 L40.7 24.4 M57.0 14.5 L58.2 22.4 M76.5 15.6 L75.5 19.5 M94.1 24.1 L89.3 30.5 M107.1 38.6 L103.6 40.7 M113.5 57.0 L105.6 58.2 M112.4 76.5 L108.5 75.5" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-energii)"><path d="M64 26 L70 58 L102 64 L70 70 L64 102 L58 70 L26 64 L58 58 Z"/></g>
+
+</svg>

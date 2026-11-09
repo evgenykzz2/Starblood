@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Малая Руна Превращения">
+<defs><radialGradient id="bg-malaya-runa-prevrascheni" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-malaya-runa-prevrascheni" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-malaya-runa-prevrascheni)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M37.5 21.6 L39.6 25.0 M64.6 14.0 L64.6 18.0 M91.6 22.3 L87.2 29.0 M109.7 43.8 L106.1 45.4 M113.4 71.7 L105.5 70.5 M101.4 97.2 L95.4 91.9 M77.5 112.1 L75.3 104.4 M49.3 111.8 L51.7 104.1 M25.8 96.3 L28.9 93.7 M14.4 70.5 L18.4 70.0 M18.8 42.7 L26.0 46.1" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-malaya-runa-prevrascheni)"><path d="M36 64 Q36 36 64 36 Q86 36 86 58 Q86 74 70 74 Q58 74 58 64 M92 64 Q92 92 64 92 Q42 92 42 70 Q42 54 58 54"/></g>
+<circle cx="59" cy="114" r="3.5" fill="#4f9a46"/><circle cx="69" cy="114" r="3.5" fill="#4f9a46"/>
+</svg>

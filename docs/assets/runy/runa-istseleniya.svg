@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Исцеления">
+<defs><radialGradient id="bg-runa-istseleniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-istseleniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-istseleniya)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M16.4 79.5 L24.1 77.0 M14.7 55.6 L22.6 56.9 M24.3 33.6 L27.4 36.1 M42.9 18.7 L44.6 22.3 M66.4 14.1 L66.2 18.1 M89.3 20.9 L87.3 24.3 M106.5 37.6 L103.1 39.7 M113.9 60.4 L109.9 60.7 M109.8 84.0 L102.5 80.8 M95.3 103.0 L90.3 96.7 M73.6 113.1 L72.8 109.1 M49.7 111.9 L50.8 108.1 M29.1 99.8 L31.9 96.9" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-istseleniya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 32 L64 96 M32 64 L96 64"/><circle cx="64" cy="64" r="22"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M40 64 Q40 32 64 32 Q88 32 88 64 L82 72 L82 88 L46 88 L46 72 Z"/><circle cx="54" cy="60" r="6"/><circle cx="74" cy="60" r="6"/><path d="M58 88 L58 98 M70 88 L70 98"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#9fb0c4"/>
+</svg>

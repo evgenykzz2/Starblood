@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Пути">
+<defs><radialGradient id="bg-runa-puti" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-puti" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-puti)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M79.5 111.6 L78.2 107.7 M55.6 113.3 L56.9 105.4 M33.6 103.7 L38.5 97.4 M18.7 85.1 L22.3 83.4 M14.1 61.6 L18.1 61.8 M20.9 38.7 L24.3 40.7 M37.6 21.5 L39.7 24.9 M60.4 14.1 L60.7 18.1 M84.0 18.2 L82.4 21.8 M103.0 32.7 L96.7 37.7 M113.1 54.4 L105.2 55.9 M111.9 78.3 L108.1 77.2 M99.8 98.9 L96.9 96.1" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-puti)"><path d="M42 96 Q38 84 44 80 Q50 84 48 96 Z M60 72 Q56 60 62 56 Q68 60 66 72 Z M78 48 Q74 36 80 32 Q86 36 84 48 Z"/><path d="M30 104 Q64 80 98 26" stroke-dasharray="3 7"/></g>
+
+</svg>

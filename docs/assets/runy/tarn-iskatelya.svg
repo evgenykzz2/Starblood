@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Тарн Искателя">
+<defs><radialGradient id="bg-tarn-iskatelya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-tarn-iskatelya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-tarn-iskatelya)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M76.9 112.3 L74.9 104.6 M53.0 112.8 L53.9 108.9 M31.6 102.1 L34.2 99.0 M17.6 82.7 L21.3 81.2 M14.3 59.0 L18.2 59.4 M22.3 36.4 L25.6 38.6 M39.9 20.2 L43.7 27.2 M63.0 14.0 L63.1 18.0 M86.3 19.3 L82.8 26.4 M104.6 34.8 L101.3 37.1 M113.5 57.0 L109.5 57.5 M111.1 80.8 L107.3 79.4 M97.9 100.8 L95.2 97.8" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-tarn-iskatelya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M42 96 Q38 84 44 80 Q50 84 48 96 Z M60 72 Q56 60 62 56 Q68 60 66 72 Z M78 48 Q74 36 80 32 Q86 36 84 48 Z"/><path d="M30 104 Q64 80 98 26" stroke-dasharray="3 7"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M32 90 L36 46 L52 66 L64 36 L76 66 L92 46 L96 90 Z"/><path d="M36 102 L92 102"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#9fb0c4"/>
+</svg>

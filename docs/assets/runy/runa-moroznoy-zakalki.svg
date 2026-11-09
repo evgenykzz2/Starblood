@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Морозной Закалки">
+<defs><radialGradient id="bg-runa-moroznoy-zakalki" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-moroznoy-zakalki" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-moroznoy-zakalki)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M113.5 71.0 L105.6 69.8 M100.0 98.7 L97.1 96.0 M72.7 113.2 L72.0 109.3 M42.1 108.9 L43.8 105.3 M19.9 87.5 L23.4 85.6 M14.5 57.0 L18.4 57.6 M28.0 29.3 L33.8 34.8 M55.3 14.8 L56.0 18.7 M85.9 19.1 L82.4 26.3 M108.1 40.5 L104.6 42.4" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-moroznoy-zakalki)"><path d="M64 26 L64 102 M31 45 L97 83 M31 83 L97 45 M56 32 L64 40 L72 32 M56 96 L64 88 L72 96"/></g>
+
+</svg>

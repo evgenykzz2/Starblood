@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Психокинетика">
+<defs><radialGradient id="bg-psihokinetika" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-psihokinetika" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-psihokinetika)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M87.5 108.1 L83.7 101.1 M57.0 113.5 L57.6 109.6 M29.3 100.0 L34.8 94.2 M14.8 72.7 L22.6 71.3 M19.1 42.1 L22.7 43.8 M40.5 19.9 L42.4 23.4 M71.0 14.5 L70.4 18.4 M98.7 28.0 L96.0 30.9 M113.2 55.3 L105.4 56.7 M108.9 85.9 L105.3 84.2" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-psihokinetika)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M46 98 L44 60 M44 60 L44 40 M56 58 L56 30 M68 58 L68 32 M80 62 L80 42 M46 98 Q64 104 80 94 L92 70 Q92 62 86 62 L80 72"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="64" r="14" fill="currentColor"/></g></g></g>
+<circle cx="64" cy="114" r="5" fill="#9fb0c4"/>
+</svg>

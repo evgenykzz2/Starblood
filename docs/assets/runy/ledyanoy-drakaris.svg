@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ледяной Дракарис">
+<defs><radialGradient id="bg-ledyanoy-drakaris" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-ledyanoy-drakaris" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-ledyanoy-drakaris)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M28.6 28.6 L34.3 34.3 M47.5 16.8 L48.8 20.6 M69.6 14.3 L69.2 18.3 M90.6 21.7 L88.5 25.1 M106.3 37.4 L99.6 41.7 M113.7 58.4 L105.7 59.3 M111.2 80.5 L107.4 79.2 M99.4 99.4 L96.5 96.5 M80.5 111.2 L77.9 103.6 M58.4 113.7 L58.8 109.7 M37.4 106.3 L39.5 102.9 M21.7 90.6 L25.1 88.5 M14.3 69.6 L22.3 68.7 M16.8 47.5 L24.4 50.1" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-ledyanoy-drakaris)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M44 32 Q92 38 64 64 Q36 90 86 98"/><circle cx="44" cy="32" r="4"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 L64 102 M31 45 L97 83 M31 83 L97 45 M56 32 L64 40 L72 32 M56 96 L64 88 L72 96"/></g></g></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#d8a43a"/>
+</svg>

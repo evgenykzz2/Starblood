@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Забвения">
+<defs><radialGradient id="bg-runa-zabveniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-zabveniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-zabveniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M23.0 92.7 L26.3 90.4 M14.0 66.0 L18.0 65.8 M20.9 38.7 L24.3 40.7 M41.4 19.4 L45.1 26.5 M69.1 14.3 L68.7 18.2 M95.2 24.9 L90.2 31.2 M111.4 48.0 L107.6 49.3 M112.5 76.2 L104.7 74.2 M98.2 100.5 L95.5 97.5 M73.1 113.2 L72.3 109.2 M45.0 110.3 L46.6 106.6" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-zabveniya)"><path d="M26 58 Q64 92 102 58"/><path d="M38 70 L32 84 M52 78 L49 92 M76 78 L79 92 M90 70 L96 84"/></g>
+
+</svg>

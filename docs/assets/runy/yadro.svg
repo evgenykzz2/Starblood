@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ядро">
+<defs><radialGradient id="bg-yadro" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-yadro" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-yadro)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M43.7 109.7 L46.9 102.4 M19.1 85.9 L22.7 84.2 M15.5 51.9 L19.4 52.9 M34.6 23.5 L37.0 26.8 M67.5 14.1 L67.2 18.1 M98.7 28.0 L96.0 30.9 M113.7 58.8 L105.8 59.6 M105.5 92.0 L102.1 89.7 M77.8 112.1 L75.6 104.4" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-yadro)"><path d="M64 26 Q90 62 86 78 Q82 100 64 100 Q46 100 42 78 Q38 62 64 26 Z"/></g>
+
+</svg>

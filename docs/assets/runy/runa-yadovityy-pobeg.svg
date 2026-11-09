@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Ядовитый Побег">
+<defs><radialGradient id="bg-runa-yadovityy-pobeg" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-yadovityy-pobeg" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-yadovityy-pobeg)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M15.3 75.2 L19.2 74.3 M14.9 54.5 L22.8 56.0 M23.0 35.3 L26.3 37.6 M38.2 21.1 L40.3 24.6 M57.9 14.4 L58.4 18.3 M78.6 16.2 L76.3 23.8 M96.8 26.3 L94.2 29.3 M109.3 42.9 L105.7 44.6 M114.0 63.1 L110.0 63.2 M110.0 83.5 L102.7 80.4 M98.1 100.6 L95.4 97.6 M80.3 111.3 L79.0 107.5 M59.6 113.8 L60.0 109.8 M39.8 107.7 L43.6 100.7 M24.1 94.1 L27.3 91.7" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-yadovityy-pobeg)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 102 L64 40 M64 62 L46 46 M64 76 L84 60 M64 48 Q72 32 64 24 Q56 32 64 48"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 Q90 62 86 78 Q82 100 64 100 Q46 100 42 78 Q38 62 64 26 Z"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

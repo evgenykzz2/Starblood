@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Анор">
+<defs><radialGradient id="bg-runa-anor" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-anor" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-anor)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M39.0 107.3 L43.0 100.4 M19.6 86.9 L26.7 83.2 M14.2 59.2 L18.2 59.6 M24.7 33.1 L27.8 35.6 M47.6 16.7 L50.3 24.3 M75.8 15.4 L74.8 19.3 M100.2 29.5 L97.3 32.3 M113.1 54.5 L109.2 55.3 M110.4 82.6 L103.0 79.6 M93.0 104.7 L88.4 98.2 M66.4 113.9 L66.2 109.9" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-anor)"><path d="M72 24 L46 68 L64 68 L54 104 L86 54 L67 54 Z"/></g>
+
+</svg>

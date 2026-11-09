@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Домен Кровавого Феникса">
+<defs><radialGradient id="bg-domen-krovavogo-feniksa" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-domen-krovavogo-feniksa" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-domen-krovavogo-feniksa)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M43.7 18.3 L45.3 22.0 M81.9 17.3 L80.5 21.1 M109.7 43.7 L102.4 46.9 M110.7 81.9 L103.2 79.1 M84.3 109.7 L82.7 106.0 M46.1 110.7 L48.9 103.2 M18.3 84.3 L25.6 81.1 M17.3 46.1 L24.8 48.9" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-domen-krovavogo-feniksa)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M48 102 L52 46 L76 46 L80 102 Z M46 46 L46 30 L54 30 L54 37 L60 37 L60 30 L68 30 L68 37 L74 37 L74 30 L82 30 L82 46"/><path d="M60 102 L60 84 Q64 78 68 84 L68 102"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M28 84 Q46 40 100 34 Q82 48 86 56 Q68 58 72 66 Q56 68 58 76 Q44 76 28 84 Z"/></g></g></g>
+
+</svg>

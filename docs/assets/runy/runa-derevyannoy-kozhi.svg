@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Деревянной Кожи">
+<defs><radialGradient id="bg-runa-derevyannoy-kozhi" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-derevyannoy-kozhi" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-derevyannoy-kozhi)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M22.1 91.2 L25.4 89.1 M14.0 64.2 L18.0 64.2 M21.8 37.2 L28.6 41.5 M43.0 18.6 L46.4 25.9 M70.9 14.5 L70.3 18.4 M96.6 26.1 L91.4 32.1 M111.9 49.7 L108.1 50.8 M112.0 77.9 L108.2 76.7 M96.9 101.6 L94.3 98.6 M71.4 113.5 L70.8 109.5 M43.4 109.6 L46.7 102.3" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-derevyannoy-kozhi)"><path d="M64 28 L92 38 L88 72 Q80 92 64 100 Q48 92 40 72 L36 38 Z"/><path d="M64 40 L64 88"/></g>
+
+</svg>

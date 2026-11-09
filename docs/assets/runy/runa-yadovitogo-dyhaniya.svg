@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Ядовитого Дыхания">
+<defs><radialGradient id="bg-runa-yadovitogo-dyhaniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-yadovitogo-dyhaniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-yadovitogo-dyhaniya)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M27.4 29.9 L30.4 32.6 M62.3 14.0 L62.5 22.0 M98.1 27.4 L95.4 30.4 M114.0 62.3 L110.0 62.4 M100.6 98.1 L97.6 95.4 M65.7 114.0 L65.5 106.0 M29.9 100.6 L32.6 97.6 M14.0 65.7 L22.0 65.5" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-yadovitogo-dyhaniya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M30 70 Q30 54 46 56 Q50 40 66 44 Q78 34 90 46 Q104 50 98 64 Q100 78 84 76 L42 76 Q30 76 30 70 Z"/><path d="M40 88 L88 88 M50 98 L78 98"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 Q90 62 86 78 Q82 100 64 100 Q46 100 42 78 Q38 62 64 26 Z"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

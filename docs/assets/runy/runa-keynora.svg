@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Кейнора">
+<defs><radialGradient id="bg-runa-keynora" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-keynora" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-keynora)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M100.0 98.7 L94.2 93.2 M69.2 113.7 L68.8 109.7 M36.0 105.5 L38.3 102.1 M15.9 77.8 L19.8 76.7 M18.3 43.7 L22.0 45.3 M42.1 19.1 L45.6 26.3 M76.1 15.5 L75.1 19.4 M104.5 34.6 L98.0 39.3 M113.9 67.5 L105.9 66.9" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-keynora)"><path d="M88 88 L40 64 M40 64 L64 64 M88 64 L40 40"/><circle cx="40" cy="40" r="5"/></g>
+
+</svg>

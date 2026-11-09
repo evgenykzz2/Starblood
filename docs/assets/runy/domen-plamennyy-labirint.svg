@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Домен Пламенный Лабиринт">
+<defs><radialGradient id="bg-domen-plamennyy-labirint" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-domen-plamennyy-labirint" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-domen-plamennyy-labirint)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M14.6 71.8 L18.6 71.2 M15.7 51.1 L19.6 52.1 M25.1 32.5 L28.3 35.1 M41.3 19.4 L44.9 26.6 M61.4 14.1 L61.6 18.1 M81.9 17.3 L79.1 24.8 M99.4 28.6 L93.7 34.3 M110.7 46.1 L106.9 47.5 M113.9 66.6 L109.9 66.4 M108.6 86.7 L105.0 84.9 M95.5 102.9 L92.9 99.7 M76.9 112.3 L74.9 104.6 M56.2 113.4 L56.8 109.4 M36.8 105.9 L41.1 99.2 M22.1 91.2 L28.8 86.9" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-domen-plamennyy-labirint)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M48 102 L52 46 L76 46 L80 102 Z M46 46 L46 30 L54 30 L54 37 L60 37 L60 30 L68 30 L68 37 L74 37 L74 30 L82 30 L82 46"/><path d="M60 102 L60 84 Q64 78 68 84 L68 102"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 102 Q38 84 50 58 Q54 72 62 68 Q56 46 72 26 Q74 50 86 60 Q94 86 64 102 Z"/></g></g></g>
+
+</svg>

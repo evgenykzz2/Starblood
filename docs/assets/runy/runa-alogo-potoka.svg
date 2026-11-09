@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Алого Потока">
+<defs><radialGradient id="bg-runa-alogo-potoka" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-alogo-potoka" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-alogo-potoka)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M23.0 35.3 L26.3 37.6 M39.5 20.4 L43.5 27.4 M60.9 14.1 L61.1 18.1 M82.8 17.7 L81.3 21.4 M101.1 30.5 L98.1 33.1 M112.0 49.9 L104.3 52.1 M113.3 72.1 L109.4 71.4 M105.0 92.7 L98.4 88.1 M88.5 107.6 L86.5 104.1 M67.1 113.9 L66.6 105.9 M45.2 110.3 L46.7 106.6 M26.9 97.5 L29.9 94.9 M16.0 78.1 L19.9 77.0 M14.7 55.9 L22.6 57.2" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-alogo-potoka)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M26 50 Q38 40 50 50 T74 50 T98 50 M26 66 Q38 56 50 66 T74 66 T98 66 M26 82 Q38 72 50 82 T74 82 T98 82"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 L70 58 L102 64 L70 70 L64 102 L58 70 L26 64 L58 58 Z"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

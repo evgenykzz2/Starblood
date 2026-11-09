@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Светоча">
+<defs><radialGradient id="bg-runa-svetocha" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-svetocha" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-svetocha)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M105.0 92.7 L98.4 88.1 M90.9 106.2 L88.7 102.8 M72.7 113.2 L71.3 105.4 M53.2 112.8 L54.0 108.9 M35.3 105.0 L37.6 101.7 M21.8 90.9 L28.6 86.6 M14.8 72.7 L22.6 71.3 M15.2 53.2 L23.0 54.9 M23.0 35.3 L29.6 39.9 M37.1 21.8 L39.3 25.2 M55.3 14.8 L56.7 22.6 M74.8 15.2 L74.0 19.1 M92.7 23.0 L90.4 26.3 M106.2 37.1 L99.4 41.4 M113.2 55.3 L105.4 56.7 M112.8 74.8 L105.0 73.1" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-svetocha)"><circle cx="64" cy="64" r="16"/><path d="M64 26 L64 38 M64 90 L64 102 M26 64 L38 64 M90 64 L102 64 M37 37 L46 46 M82 82 L91 91 M37 91 L46 82 M82 46 L91 37"/></g>
+
+</svg>

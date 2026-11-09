@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Порыва Ветра">
+<defs><radialGradient id="bg-runa-poryva-vetra" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-poryva-vetra" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-poryva-vetra)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M15.1 74.4 L22.9 72.7 M19.9 40.5 L26.9 44.3 M45.3 17.6 L46.8 21.3 M79.5 16.4 L78.2 20.3 M106.4 37.5 L99.6 41.7 M113.5 71.0 L109.6 70.4 M97.5 101.2 L92.1 95.2 M65.7 114.0 L65.6 110.0 M33.2 103.4 L38.1 97.1" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-poryva-vetra)"><path d="M24 50 L84 50 M24 66 L100 66 M24 82 L76 82 M88 56 L100 66 L88 76"/></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#4f9a46"/>
+</svg>

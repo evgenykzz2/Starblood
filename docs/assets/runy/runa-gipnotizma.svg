@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Гипнотизма">
+<defs><radialGradient id="bg-runa-gipnotizma" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-gipnotizma" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-gipnotizma)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M31.9 25.7 L37.0 31.8 M60.5 14.1 L60.8 18.1 M90.5 21.6 L86.3 28.4 M110.4 45.3 L106.7 46.8 M112.5 76.1 L108.6 75.1 M96.1 102.3 L93.6 99.2 M67.5 113.9 L67.2 109.9 M37.5 106.4 L41.7 99.6 M17.6 82.7 L25.1 79.7 M15.5 51.9 L19.4 52.9" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-gipnotizma)"><path d="M64 64 m0 -6 a6 6 0 1 1 -6 6 a12 12 0 1 1 12 12 a18 18 0 1 1 -18 -18 a26 26 0 1 1 26 26"/></g>
+
+</svg>

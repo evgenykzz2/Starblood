@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Экзо-кодек">
+<defs><radialGradient id="bg-runa-ekzo-kodek" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ekzo-kodek" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ekzo-kodek)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M14.4 57.9 L18.3 58.4 M22.9 35.5 L26.2 37.8 M40.8 19.7 L44.5 26.8 M64.1 14.0 L64.1 22.0 M87.3 19.8 L85.4 23.3 M105.2 35.7 L101.9 37.9 M113.6 58.0 L109.7 58.5 M110.7 81.8 L103.3 78.9 M97.1 101.5 L94.5 98.5 M75.9 112.6 L74.9 108.7 M52.0 112.5 L53.9 104.8 M30.8 101.4 L36.1 95.4 M17.2 81.7 L21.0 80.3" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ekzo-kodek)"><circle cx="64" cy="64" r="11"/><circle cx="64" cy="64" r="3" fill="currentColor"/><path d="M56 56 L42 42 M72 56 L86 42 M56 72 L42 86 M72 72 L86 86"/><ellipse cx="38" cy="38" rx="11" ry="4"/><ellipse cx="90" cy="38" rx="11" ry="4"/><ellipse cx="38" cy="90" rx="11" ry="4"/><ellipse cx="90" cy="90" rx="11" ry="4"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#9fb0c4"/>
+</svg>

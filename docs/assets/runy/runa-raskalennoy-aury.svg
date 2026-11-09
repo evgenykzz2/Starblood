@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Раскаленной Ауры">
+<defs><radialGradient id="bg-runa-raskalennoy-aury" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-raskalennoy-aury" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-raskalennoy-aury)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M111.3 80.3 L103.7 77.7 M89.8 106.9 L87.7 103.4 M56.2 113.4 L56.8 109.4 M26.3 96.8 L29.3 94.2 M14.0 64.9 L18.0 64.8 M25.1 32.5 L28.3 35.1 M54.5 14.9 L55.2 18.8 M88.2 20.3 L86.3 23.8 M110.7 46.1 L103.2 48.9" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-raskalennoy-aury)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 26 L70 58 L102 64 L70 70 L64 102 L58 70 L26 64 L58 58 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 102 Q38 84 50 58 Q54 72 62 68 Q56 46 72 26 Q74 50 86 60 Q94 86 64 102 Z"/></g></g></g>
+<circle cx="64" cy="114" r="5" fill="#9fb0c4"/>
+</svg>

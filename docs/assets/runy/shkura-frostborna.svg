@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Шкура Фростбьорна">
+<defs><radialGradient id="bg-shkura-frostborna" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-shkura-frostborna" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-shkura-frostborna)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M41.3 108.6 L43.1 105.0 M24.2 94.3 L30.6 89.4 M15.0 74.0 L18.9 73.2 M15.5 51.8 L23.3 53.7 M25.6 32.0 L28.7 34.5 M43.3 18.5 L46.6 25.8 M65.1 14.0 L65.0 18.0 M86.7 19.4 L83.1 26.6 M103.8 33.7 L100.6 36.1 M113.0 54.0 L105.1 55.6 M112.5 76.2 L108.6 75.2 M102.4 96.0 L96.2 90.9 M84.7 109.5 L83.0 105.9 M62.9 114.0 L63.1 106.0" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-shkura-frostborna)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 28 L92 38 L88 72 Q80 92 64 100 Q48 92 40 72 L36 38 Z"/><path d="M64 40 L64 88"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 L64 102 M31 45 L97 83 M31 83 L97 45 M56 32 L64 40 L72 32 M56 96 L64 88 L72 96"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#a8682e"/>
+</svg>

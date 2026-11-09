@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Огненного Болида">
+<defs><radialGradient id="bg-runa-ognennogo-bolida" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ognennogo-bolida" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ognennogo-bolida)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M51.1 15.7 L52.1 19.6 M79.2 16.4 L78.0 20.2 M102.6 32.2 L96.4 37.3 M113.6 58.1 L109.7 58.5 M109.0 85.8 L105.4 84.1 M90.0 106.7 L87.9 103.3 M62.8 114.0 L63.0 106.0 M36.0 105.4 L38.2 102.1 M18.0 83.7 L21.7 82.1 M14.7 55.7 L18.6 56.4 M27.0 30.4 L32.9 35.7" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ognennogo-bolida)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 102 Q38 84 50 58 Q54 72 62 68 Q56 46 72 26 Q74 50 86 60 Q94 86 64 102 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 28 L92 38 L88 72 Q80 92 64 100 Q48 92 40 72 L36 38 Z"/><path d="M64 40 L64 88"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#9fb0c4"/>
+</svg>

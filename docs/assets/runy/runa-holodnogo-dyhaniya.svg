@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Холодного Дыхания">
+<defs><radialGradient id="bg-runa-holodnogo-dyhaniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-holodnogo-dyhaniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-holodnogo-dyhaniya)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M43.7 109.7 L45.3 106.0 M19.1 85.9 L22.7 84.2 M15.5 51.9 L23.2 53.8 M34.6 23.5 L37.0 26.8 M67.5 14.1 L67.2 18.1 M98.7 28.0 L96.0 30.9 M113.7 58.8 L105.8 59.6 M105.5 92.0 L102.1 89.7 M77.8 112.1 L76.7 108.2" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-holodnogo-dyhaniya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M30 70 Q30 54 46 56 Q50 40 66 44 Q78 34 90 46 Q104 50 98 64 Q100 78 84 76 L42 76 Q30 76 30 70 Z"/><path d="M40 88 L88 88 M50 98 L78 98"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 L64 102 M31 45 L97 83 M31 83 L97 45 M56 32 L64 40 L72 32 M56 96 L64 88 L72 96"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

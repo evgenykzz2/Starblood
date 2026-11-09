@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ледяная Бездна">
+<defs><radialGradient id="bg-ledyanaya-bezdna" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-ledyanaya-bezdna" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-ledyanaya-bezdna)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M96.8 101.7 L91.6 95.7 M75.5 112.7 L74.6 108.8 M51.6 112.4 L53.6 104.7 M30.5 101.1 L35.9 95.2 M17.1 81.3 L24.6 78.5 M14.4 57.5 L22.4 58.5 M23.1 35.2 L29.7 39.8 M41.2 19.5 L44.8 26.6 M64.5 14.0 L64.4 22.0 M87.7 19.9 L85.8 23.5 M105.4 36.0 L98.8 40.5 M113.7 58.4 L105.7 59.3 M110.6 82.2 L103.1 79.3" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-ledyanaya-bezdna)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><circle cx="64" cy="64" r="32"/><circle cx="64" cy="64" r="11"/><path d="M64 32 Q82 46 70 54 M96 64 Q82 82 74 70 M64 96 Q46 82 58 74 M32 64 Q46 46 54 58"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 26 L64 102 M31 45 L97 83 M31 83 L97 45 M56 32 L64 40 L72 32 M56 96 L64 88 L72 96"/></g></g></g>
+
+</svg>

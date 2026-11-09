@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Чужое Лицо">
+<defs><radialGradient id="bg-chuzhoe-litso" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-chuzhoe-litso" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-chuzhoe-litso)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M113.2 72.7 L109.3 72.0 M106.2 90.9 L102.8 88.7 M92.7 105.0 L90.4 101.7 M74.8 112.8 L74.0 108.9 M55.3 113.2 L56.0 109.3 M37.1 106.2 L39.3 102.8 M23.0 92.7 L26.3 90.4 M15.2 74.8 L19.1 74.0 M14.8 55.3 L18.7 56.0 M21.8 37.1 L25.2 39.3 M35.3 23.0 L37.6 26.3 M53.2 15.2 L54.0 19.1 M72.7 14.8 L72.0 18.7 M90.9 21.8 L88.7 25.2 M105.0 35.3 L101.7 37.6 M112.8 53.2 L108.9 54.0" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-chuzhoe-litso)"><path d="M28 40 Q50 32 72 40 Q74 70 50 84 Q26 70 28 40 Z M36 52 Q41 47 46 52 M54 52 Q59 47 64 52"/><path d="M56 48 Q78 40 100 48 Q102 78 78 92 Q54 78 56 48 Z M64 60 Q69 55 74 60 M82 60 Q87 55 92 60 M70 76 Q78 82 86 76"/></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#9fb0c4"/>
+</svg>

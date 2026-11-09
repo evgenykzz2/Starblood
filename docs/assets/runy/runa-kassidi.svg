@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Кассиди">
+<defs><radialGradient id="bg-runa-kassidi" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-kassidi" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-kassidi)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M113.9 67.5 L109.9 67.2 M108.7 86.3 L101.6 82.7 M96.8 101.7 L94.2 98.7 M79.9 111.4 L78.6 107.6 M60.5 113.9 L60.8 109.9 M41.7 108.7 L45.3 101.6 M26.3 96.8 L32.3 91.6 M16.6 79.9 L24.2 77.3 M14.1 60.5 L18.1 60.8 M19.3 41.7 L26.4 45.3 M31.2 26.3 L33.8 29.3 M48.1 16.6 L49.4 20.4 M67.5 14.1 L67.2 18.1 M86.3 19.3 L82.7 26.4 M101.7 31.2 L95.7 36.4 M111.4 48.1 L103.8 50.7" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-kassidi)"><path d="M88 64 L88 40 M40 40 L64 40 M64 40 L40 64 M64 88 L40 88"/><circle cx="40" cy="64" r="5"/></g>
+
+</svg>

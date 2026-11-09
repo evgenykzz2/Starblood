@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Малое Ядро">
+<defs><radialGradient id="bg-maloe-yadro" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-maloe-yadro" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-maloe-yadro)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M88.2 107.7 L84.4 100.7 M60.7 113.9 L61.0 109.9 M34.3 104.2 L36.7 101.0 M17.3 81.8 L24.7 78.9 M15.1 53.7 L19.0 54.5 M28.4 28.9 L31.3 31.7 M53.1 15.2 L53.9 19.1 M81.2 17.0 L78.4 24.6 M103.8 33.8 L97.5 38.6 M113.8 60.1 L109.9 60.4 M108.0 87.7 L104.5 85.8" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-maloe-yadro)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 26 Q90 62 86 78 Q82 100 64 100 Q46 100 42 78 Q38 62 64 26 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><rect x="44" y="44" width="40" height="40" transform="rotate(45 64 64)"/><rect x="50" y="50" width="28" height="28"/><circle cx="64" cy="64" r="6"/></g></g></g>
+
+</svg>

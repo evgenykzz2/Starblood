@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Великая Руна Усиления">
+<defs><radialGradient id="bg-velikaya-runa-usileniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-velikaya-runa-usileniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-velikaya-runa-usileniya)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M14.8 72.7 L22.6 71.3 M17.9 44.7 L21.6 46.2 M35.6 22.8 L40.2 29.4 M62.4 14.0 L62.7 22.0 M89.7 21.1 L87.6 24.5 M108.8 41.8 L105.2 43.6 M113.7 69.5 L109.7 69.1 M102.8 95.5 L99.7 93.0 M79.6 111.5 L77.1 103.9 M51.4 112.4 L52.4 108.5 M27.3 97.9 L33.1 92.5" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-velikaya-runa-usileniya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 32 L64 96 M32 64 L96 64" stroke-width="9"/><circle cx="64" cy="64" r="38" stroke-dasharray="4 8"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M32 90 L36 46 L52 66 L64 36 L76 66 L92 46 L96 90 Z"/><path d="M36 102 L92 102"/></g></g></g>
+<circle cx="59" cy="114" r="3.5" fill="#d8a43a"/><circle cx="69" cy="114" r="3.5" fill="#d8a43a"/>
+</svg>

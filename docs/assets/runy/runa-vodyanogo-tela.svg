@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Водяного Тела">
+<defs><radialGradient id="bg-runa-vodyanogo-tela" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-vodyanogo-tela" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-vodyanogo-tela)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M24.6 94.8 L30.9 89.9 M15.5 76.1 L23.2 74.2 M14.8 55.3 L18.7 56.0 M22.5 36.0 L25.9 38.3 M37.5 21.6 L39.6 25.0 M57.0 14.5 L57.6 18.4 M77.8 15.9 L75.6 23.6 M96.1 25.7 L93.6 28.8 M108.9 42.1 L101.7 45.6 M114.0 62.3 L106.0 62.5 M110.4 82.7 L106.7 81.2 M98.7 100.0 L96.0 97.1 M81.1 111.0 L79.7 107.2 M60.5 113.9 L60.8 109.9 M40.5 108.1 L44.3 101.1" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-vodyanogo-tela)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><circle cx="64" cy="32" r="9"/><path d="M64 42 L64 74 M44 54 L84 54 M64 74 L50 102 M64 74 L78 102"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M26 50 Q38 40 50 50 T74 50 T98 50 M26 66 Q38 56 50 66 T74 66 T98 66 M26 82 Q38 72 50 82 T74 82 T98 82"/></g></g></g>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Огненного Вихря">
+<defs><radialGradient id="bg-runa-ognennogo-vihrya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ognennogo-vihrya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ognennogo-vihrya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M29.3 28.0 L32.0 30.9 M54.2 15.0 L55.8 22.8 M82.3 17.5 L79.4 24.9 M104.5 34.7 L101.3 37.1 M113.9 61.3 L105.9 61.7 M107.5 88.7 L100.5 84.8 M87.2 108.3 L85.3 104.8 M59.6 113.8 L59.9 109.8 M33.3 103.5 L35.8 100.3 M16.9 80.7 L24.4 78.0 M15.3 52.5 L23.1 54.4" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ognennogo-vihrya)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M26 50 L80 50 Q94 50 92 38 Q88 28 78 34 M26 66 L92 66 M26 82 L70 82 Q84 82 82 94 Q78 104 68 98"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 102 Q38 84 50 58 Q54 72 62 68 Q56 46 72 26 Q74 50 86 60 Q94 86 64 102 Z"/></g></g></g>
+
+</svg>

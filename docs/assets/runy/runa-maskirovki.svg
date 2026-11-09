@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Маскировки">
+<defs><radialGradient id="bg-runa-maskirovki" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-maskirovki" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-maskirovki)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M76.1 112.5 L75.1 108.6 M50.2 112.1 L51.3 108.2 M28.0 98.7 L30.9 96.0 M15.5 76.1 L23.2 74.2 M15.9 50.2 L19.8 51.3 M29.3 28.0 L32.0 30.9 M51.9 15.5 L53.8 23.2 M77.8 15.9 L75.6 23.6 M100.0 29.3 L97.1 32.0 M112.5 51.9 L108.6 52.9 M112.1 77.8 L108.2 76.7 M98.7 100.0 L93.2 94.2" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-maskirovki)"><path d="M34 46 Q64 34 94 46 Q96 82 64 98 Q32 82 34 46 Z"/><path d="M44 60 Q50 54 56 60 M72 60 Q78 54 84 60 M54 80 Q64 86 74 80"/></g>
+
+</svg>

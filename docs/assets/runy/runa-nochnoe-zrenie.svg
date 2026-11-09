@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Ночное Зрение">
+<defs><radialGradient id="bg-runa-nochnoe-zrenie" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-nochnoe-zrenie" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-nochnoe-zrenie)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M113.9 66.6 L105.9 66.2 M104.6 93.2 L101.3 90.9 M82.4 110.5 L79.4 103.1 M54.3 113.1 L55.1 109.1 M29.3 100.0 L32.1 97.1 M15.4 75.6 L19.2 74.6 M16.8 47.4 L24.4 50.1 M33.3 24.6 L38.2 30.9 M59.5 14.2 L60.2 22.2 M87.1 19.7 L85.3 23.2 M107.4 39.2 L100.5 43.2" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-nochnoe-zrenie)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M28 64 Q64 30 100 64 Q64 98 28 64 Z"/><circle cx="64" cy="64" r="11"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M76 28 Q42 34 42 64 Q42 94 76 100 Q52 86 52 64 Q52 42 76 28 Z"/></g></g></g>
+<circle cx="64" cy="114" r="5" fill="#4f9a46"/>
+</svg>

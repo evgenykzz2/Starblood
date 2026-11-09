@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Невидимости">
+<defs><radialGradient id="bg-runa-nevidimosti" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-nevidimosti" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-nevidimosti)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M113.6 70.1 L109.7 69.6 M94.8 103.4 L92.3 100.2 M57.9 113.6 L58.4 109.7 M24.6 94.8 L27.8 92.3 M14.4 57.9 L18.3 58.4 M33.2 24.6 L35.7 27.8 M70.1 14.4 L69.6 18.3 M103.4 33.2 L97.1 38.1" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-nevidimosti)"><path d="M28 64 Q64 30 100 64 Q64 98 28 64 Z" stroke-dasharray="6 7"/><path d="M34 98 L94 30"/></g>
+
+</svg>

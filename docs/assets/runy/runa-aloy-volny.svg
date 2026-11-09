@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Алой Волны">
+<defs><radialGradient id="bg-runa-aloy-volny" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-aloy-volny" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-aloy-volny)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M34.6 23.5 L39.3 30.0 M56.8 14.5 L57.9 22.4 M80.6 16.8 L79.3 20.6 M100.6 29.9 L94.8 35.4 M112.2 50.9 L104.5 53.0 M112.8 74.8 L105.0 73.1 M102.2 96.2 L99.2 93.7 M82.9 110.3 L81.3 106.6 M59.2 113.8 L59.9 105.8 M36.6 105.8 L41.0 99.1 M20.3 88.3 L23.8 86.4 M14.0 65.2 L22.0 65.0 M19.2 41.8 L26.4 45.4" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-aloy-volny)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M26 50 Q38 40 50 50 T74 50 T98 50 M26 66 Q38 56 50 66 T74 66 T98 66 M26 82 Q38 72 50 82 T74 82 T98 82"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="34" cy="94" r="8"/><path d="M40 88 L100 28 M46 96 L102 48 M32 82 L80 26"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

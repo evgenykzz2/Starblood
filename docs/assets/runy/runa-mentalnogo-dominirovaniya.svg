@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Ментального Доминирования">
+<defs><radialGradient id="bg-runa-mentalnogo-dominiro" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-mentalnogo-dominiro" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-mentalnogo-dominiro)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M41.3 108.6 L43.1 105.0 M23.2 92.9 L29.7 88.3 M14.4 70.6 L22.4 69.6 M17.0 46.8 L24.6 49.6 M30.4 27.0 L35.8 32.9 M51.4 15.6 L52.5 19.5 M75.4 15.3 L74.5 19.2 M96.7 26.2 L91.5 32.2 M110.5 45.7 L106.8 47.2 M113.7 69.4 L105.8 68.6 M105.5 91.9 L98.9 87.4 M87.8 108.0 L84.0 101.0 M64.6 114.0 L64.5 106.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-mentalnogo-dominiro)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M32 90 L36 46 L52 66 L64 36 L76 66 L92 46 L96 90 Z"/><path d="M36 102 L92 102"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 64 m0 -6 a6 6 0 1 1 -6 6 a12 12 0 1 1 12 12 a18 18 0 1 1 -18 -18 a26 26 0 1 1 26 26"/></g></g></g>
+
+</svg>

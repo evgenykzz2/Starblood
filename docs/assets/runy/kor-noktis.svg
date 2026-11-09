@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Кор Ноктис">
+<defs><radialGradient id="bg-kor-noktis" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-kor-noktis" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-kor-noktis)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M55.3 113.2 L56.0 109.3 M31.9 102.3 L37.0 96.2 M17.0 81.1 L20.8 79.7 M14.8 55.3 L22.6 56.7 M25.7 31.9 L28.8 34.4 M46.9 17.0 L48.3 20.8 M72.7 14.8 L72.0 18.7 M96.1 25.7 L93.6 28.8 M111.0 46.9 L107.2 48.3 M113.2 72.7 L105.4 71.3 M102.3 96.1 L99.2 93.6 M81.1 111.0 L78.4 103.5" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-kor-noktis)"><circle cx="64" cy="64" r="32"/><circle cx="64" cy="64" r="11"/><path d="M64 32 Q82 46 70 54 M96 64 Q82 82 74 70 M64 96 Q46 82 58 74 M32 64 Q46 46 54 58"/></g>
+<rect x="58" y="110" width="12" height="9" fill="#d8a43a"/>
+</svg>

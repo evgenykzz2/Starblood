@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Уменьшения">
+<defs><radialGradient id="bg-runa-umensheniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-umensheniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-umensheniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M102.3 96.1 L99.2 93.6 M76.1 112.5 L75.1 108.6 M45.3 110.4 L46.8 106.7 M21.6 90.5 L25.0 88.4 M14.1 60.5 L18.1 60.8 M25.7 31.9 L28.8 34.4 M51.9 15.5 L53.8 23.2 M82.7 17.6 L81.2 21.3 M106.4 37.5 L103.0 39.6 M113.9 67.5 L109.9 67.2" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-umensheniya)"><path d="M64 28 L64 98 M42 76 L64 98 L86 76 M48 44 L80 44"/></g>
+
+</svg>

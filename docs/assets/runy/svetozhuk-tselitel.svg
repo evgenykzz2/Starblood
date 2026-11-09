@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Светожук-Целитель">
+<defs><radialGradient id="bg-svetozhuk-tselitel" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-svetozhuk-tselitel" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-svetozhuk-tselitel)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M85.1 109.3 L81.7 102.1 M61.7 113.9 L62.0 106.0 M38.7 107.1 L40.7 103.7 M21.6 90.4 L25.0 88.3 M14.1 67.7 L22.1 67.1 M18.1 44.1 L21.8 45.7 M32.6 25.1 L35.1 28.2 M54.3 14.9 L55.1 18.9 M78.2 16.1 L76.0 23.7 M98.9 28.2 L93.3 33.9 M111.5 48.5 L107.7 49.7 M113.3 72.4 L109.4 71.7 M103.8 94.3 L97.4 89.5" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-svetozhuk-tselitel)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><circle cx="64" cy="64" r="16"/><path d="M64 26 L64 38 M64 90 L64 102 M26 64 L38 64 M90 64 L102 64 M37 37 L46 46 M82 82 L91 91 M37 91 L46 82 M82 46 L91 37"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 32 L64 96 M32 64 L96 64"/><circle cx="64" cy="64" r="22"/></g></g></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#9fb0c4"/>
+</svg>

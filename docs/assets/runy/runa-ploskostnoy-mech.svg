@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Плоскостной Меч">
+<defs><radialGradient id="bg-runa-ploskostnoy-mech" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ploskostnoy-mech" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ploskostnoy-mech)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M19.9 40.5 L23.4 42.4 M39.6 20.4 L43.5 27.4 M67.0 14.1 L66.8 18.1 M93.5 23.6 L91.2 26.9 M110.7 46.0 L106.9 47.4 M113.0 74.1 L105.1 72.5 M99.7 99.0 L96.9 96.2 M75.2 112.7 L74.3 108.8 M47.0 111.0 L48.4 107.3 M24.3 94.4 L30.7 89.5 M14.2 68.1 L18.2 67.8" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ploskostnoy-mech)"><path d="M64 24 L72 36 L72 82 L56 82 L56 36 Z M42 82 L86 82 M64 82 L64 104"/></g>
+<rect x="58" y="110" width="12" height="9" fill="#9fb0c4"/>
+</svg>

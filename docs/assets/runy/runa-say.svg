@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Сай">
+<defs><radialGradient id="bg-runa-say" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-say" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-say)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M24.6 94.8 L27.8 92.3 M14.2 68.6 L18.2 68.2 M19.6 40.9 L23.2 42.8 M39.1 20.6 L41.1 24.1 M66.5 14.1 L66.3 18.1 M93.1 23.4 L90.8 26.6 M110.5 45.6 L103.0 48.5 M113.1 73.6 L109.1 72.8 M100.1 98.6 L97.2 95.8 M75.6 112.6 L74.7 108.7 M47.5 111.2 L48.8 107.4" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-say)"><path d="M88 88 L40 88 M88 64 L64 88 M88 64 L40 40"/><circle cx="88" cy="40" r="5"/></g>
+
+</svg>

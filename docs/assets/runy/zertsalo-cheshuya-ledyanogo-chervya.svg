@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Зерцало (Чешуя Ледяного Червя, ¼)">
+<defs><radialGradient id="bg-zertsalo-cheshuya-ledyan" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-zertsalo-cheshuya-ledyan" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-zertsalo-cheshuya-ledyan)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M15.5 76.1 L19.4 75.1 M17.6 45.3 L21.3 46.8 M37.5 21.6 L41.7 28.4 M67.5 14.1 L66.9 22.1 M96.1 25.7 L91.0 31.8 M112.5 51.9 L104.8 53.8 M110.4 82.7 L106.7 81.2 M90.5 106.4 L88.4 103.0 M60.5 113.9 L60.8 109.9 M31.9 102.3 L34.4 99.2" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-zertsalo-cheshuya-ledyan)"><path d="M64 28 L92 38 L88 72 Q80 92 64 100 Q48 92 40 72 L36 38 Z"/><path d="M46 52 Q52 60 58 52 Q64 60 70 52 Q76 60 82 52 M50 68 Q56 76 64 68 Q72 76 78 68 M56 84 Q64 92 72 84"/></g>
+<rect x="58" y="110" width="12" height="9" fill="#a8682e"/>
+</svg>

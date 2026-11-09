@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Золотой Змеи">
+<defs><radialGradient id="bg-runa-zolotoy-zmei" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-zolotoy-zmei" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-zolotoy-zmei)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M14.0 63.1 L18.0 63.2 M21.1 38.2 L24.6 40.3 M39.8 20.3 L41.7 23.8 M64.9 14.0 L64.8 18.0 M89.8 21.1 L85.6 28.0 M107.7 39.8 L104.2 41.7 M114.0 64.9 L106.0 64.7 M106.9 89.8 L100.0 85.6 M88.2 107.7 L86.3 104.2 M63.1 114.0 L63.2 110.0 M38.2 106.9 L40.3 103.4 M20.3 88.2 L23.8 86.3" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-zolotoy-zmei)"><circle cx="58" cy="32" r="8"/><path d="M58 40 L58 62 M44 48 L72 48 M58 62 Q40 72 52 84 Q70 94 86 82 Q98 72 88 64 Q80 60 78 68"/></g>
+
+</svg>

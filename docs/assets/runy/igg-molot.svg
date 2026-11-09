@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Игг-Молот (½)">
+<defs><radialGradient id="bg-igg-molot" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-igg-molot" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-igg-molot)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M103.4 94.8 L100.2 92.3 M88.6 107.5 L84.7 100.6 M70.1 113.6 L69.1 105.7 M50.6 112.2 L51.7 108.3 M33.2 103.4 L35.7 100.2 M20.5 88.6 L24.0 86.7 M14.4 70.1 L18.3 69.6 M15.8 50.6 L23.5 52.8 M24.6 33.2 L27.8 35.7 M39.4 20.5 L43.3 27.4 M57.9 14.4 L58.9 22.3 M77.4 15.8 L76.3 19.7 M94.8 24.6 L92.3 27.8 M107.5 39.4 L104.0 41.3 M113.6 57.9 L109.7 58.4 M112.2 77.4 L104.5 75.2" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-igg-molot)"><path d="M34 30 L94 30 L94 52 L34 52 Z M28 36 L28 46 M100 36 L100 46 M64 52 L64 104 M56 104 L72 104"/></g>
+<rect x="58" y="110" width="12" height="9" fill="#d8a43a"/>
+</svg>

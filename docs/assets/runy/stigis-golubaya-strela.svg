@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Стигис Голубая Стрела">
+<defs><radialGradient id="bg-stigis-golubaya-strela" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-stigis-golubaya-strela" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-stigis-golubaya-strela)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M97.5 101.2 L94.8 98.2 M79.5 111.6 L78.2 107.7 M58.8 113.7 L59.2 109.7 M39.0 107.3 L43.0 100.4 M23.5 93.4 L26.8 91.0 M15.1 74.4 L22.9 72.7 M15.1 53.6 L19.0 54.4 M23.5 34.6 L26.8 37.0 M39.0 20.7 L41.0 24.2 M58.8 14.3 L59.2 18.3 M79.5 16.4 L78.2 20.3 M97.5 26.8 L92.1 32.8 M109.7 43.7 L106.0 45.3 M114.0 64.0 L106.0 64.0 M109.7 84.3 L106.0 82.7" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-stigis-golubaya-strela)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 24 L74 52 L104 52 L80 70 L89 100 L64 82 L39 100 L48 70 L24 52 L54 52 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M46 28 Q98 64 46 100"/><path d="M46 28 L46 100 M34 64 L100 64 M88 54 L100 64 L88 74"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#d8a43a"/>
+</svg>

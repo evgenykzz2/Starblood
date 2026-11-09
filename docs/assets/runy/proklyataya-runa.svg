@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Проклятая Руна">
+<defs><radialGradient id="bg-proklyataya-runa" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-proklyataya-runa" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-proklyataya-runa)" stroke="#5d2b8f" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5d2b8f" stroke-width="1" opacity=".7"/>
+<path d="M111.0 81.1 L107.2 79.7 M94.3 103.8 L89.4 97.4 M68.0 113.8 L67.6 109.9 M40.4 108.1 L44.2 101.0 M20.3 88.3 L23.8 86.4 M14.1 60.8 L22.1 61.3 M23.7 34.4 L27.0 36.7 M46.2 17.3 L49.0 24.8 M74.2 15.1 L73.4 19.0 M99.1 28.4 L93.5 34.1 M112.8 53.0 L108.9 53.9" stroke="#5d2b8f" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#c08cff" color="#c08cff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-proklyataya-runa)"><path d="M40 64 Q40 32 64 32 Q88 32 88 64 L82 72 L82 88 L46 88 L46 72 Z"/><circle cx="54" cy="60" r="6"/><circle cx="74" cy="60" r="6"/><path d="M58 88 L58 98 M70 88 L70 98"/></g>
+<path d="M30 40 L44 52 L40 64 M98 86 L84 78 L88 66 M54 104 L60 92" stroke="#e0405a" stroke-width="2.5" fill="none"/>
+</svg>

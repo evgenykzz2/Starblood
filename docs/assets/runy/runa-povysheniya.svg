@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Повышения">
+<defs><radialGradient id="bg-runa-povysheniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-povysheniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-povysheniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M111.6 79.5 L103.9 77.0 M86.7 108.6 L84.9 105.0 M48.5 111.6 L49.8 107.7 M19.4 86.7 L23.0 84.9 M16.4 48.5 L20.3 49.8 M41.3 19.4 L44.9 26.6 M79.5 16.4 L78.2 20.3 M108.6 41.3 L105.0 43.1" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-povysheniya)"><path d="M38 94 L64 72 L90 94 M38 74 L64 52 L90 74 M38 54 L64 32 L90 54"/></g>
+
+</svg>

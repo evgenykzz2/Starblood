@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Запечатления">
+<defs><radialGradient id="bg-runa-zapechatleniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-zapechatleniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-zapechatleniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M39.0 20.7 L43.0 27.6 M57.5 14.4 L58.5 22.4 M76.9 15.7 L75.9 19.6 M94.4 24.3 L89.6 30.7 M107.3 39.0 L100.4 43.0 M113.6 57.5 L105.6 58.5 M112.3 76.9 L108.4 75.9 M103.7 94.4 L97.3 89.6 M89.0 107.3 L85.0 100.4 M70.5 113.6 L69.5 105.6 M51.1 112.3 L52.1 108.4 M33.6 103.7 L38.4 97.3 M20.7 89.0 L27.6 85.0 M14.4 70.5 L22.4 69.5 M15.7 51.1 L19.6 52.1 M24.3 33.6 L30.7 38.4" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-zapechatleniya)"><path d="M50 28 L78 28 L74 54 L92 62 L92 78 L36 78 L36 62 L54 54 Z M30 94 L98 94"/></g>
+
+</svg>

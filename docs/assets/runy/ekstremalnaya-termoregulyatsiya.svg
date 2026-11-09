@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Экстремальная Терморегуляция">
+<defs><radialGradient id="bg-ekstremalnaya-termoregul" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-ekstremalnaya-termoregul" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-ekstremalnaya-termoregul)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M92.0 105.5 L87.5 98.8 M62.3 114.0 L62.5 106.0 M33.2 103.4 L35.7 100.2 M15.9 77.8 L19.8 76.7 M17.0 46.9 L20.8 48.3 M36.0 22.5 L38.3 25.9 M65.7 14.0 L65.6 18.0 M94.8 24.6 L92.3 27.8 M112.1 50.2 L104.4 52.4 M111.0 81.1 L103.5 78.4" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-ekstremalnaya-termoregul)"><path d="M44 102 L44 48 Q64 20 84 48 L84 102"/><path d="M58 102 L58 66 Q64 56 70 66 L70 102"/></g>
+<circle cx="64" cy="114" r="5" fill="#9fb0c4"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Просьба Изгнанников">
+<defs><radialGradient id="bg-prosba-izgnannikov" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-prosba-izgnannikov" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-prosba-izgnannikov)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M101.7 96.8 L98.7 94.2 M75.2 112.7 L73.4 104.9 M44.5 110.0 L46.0 106.3 M21.1 89.8 L24.6 87.7 M14.2 59.6 L22.2 60.3 M26.3 31.2 L32.3 36.4 M52.8 15.3 L53.7 19.2 M83.5 18.0 L82.0 21.7 M106.9 38.2 L103.4 40.3 M113.8 68.4 L105.8 67.7" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-prosba-izgnannikov)"><circle cx="64" cy="32" r="9"/><path d="M64 42 L64 74 M44 54 L84 54 M64 74 L50 102 M64 74 L78 102"/></g>
+
+</svg>

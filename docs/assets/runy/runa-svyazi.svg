@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Связи">
+<defs><radialGradient id="bg-runa-svyazi" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-svyazi" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-svyazi)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M45.3 110.4 L46.8 106.7 M24.6 94.8 L27.8 92.3 M14.5 71.0 L22.4 69.8 M17.6 45.3 L21.3 46.8 M33.2 24.6 L35.7 27.8 M57.0 14.5 L57.6 18.4 M82.7 17.6 L81.2 21.3 M103.4 33.2 L97.1 38.1 M113.5 57.0 L109.6 57.6 M110.4 82.7 L106.7 81.2 M94.8 103.4 L89.9 97.1 M71.0 113.5 L70.4 109.6" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-svyazi)"><circle cx="52" cy="64" r="18"/><circle cx="76" cy="64" r="18"/></g>
+
+</svg>

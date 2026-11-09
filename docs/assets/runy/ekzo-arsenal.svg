@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Экзо-Арсенал">
+<defs><radialGradient id="bg-ekzo-arsenal" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-ekzo-arsenal" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-ekzo-arsenal)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M101.2 97.5 L98.2 94.8 M84.3 109.7 L81.1 102.4 M64.0 114.0 L64.0 110.0 M43.7 109.7 L46.9 102.4 M26.8 97.5 L29.8 94.8 M16.4 79.5 L24.1 77.0 M14.3 58.8 L22.2 59.6 M20.7 39.0 L24.2 41.0 M34.6 23.5 L37.0 26.8 M53.6 15.1 L55.3 22.9 M74.4 15.1 L73.6 19.0 M93.4 23.5 L88.7 30.0 M107.3 39.0 L103.8 41.0 M113.7 58.8 L105.8 59.6 M111.6 79.5 L103.9 77.0" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-ekzo-arsenal)"><path d="M64 28 L96 46 L96 84 L64 102 L32 84 L32 46 Z M32 46 L64 64 L96 46 M64 64 L64 102"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#9fb0c4"/>
+</svg>

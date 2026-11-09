@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Винсента">
+<defs><radialGradient id="bg-runa-vinsenta" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-vinsenta" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-vinsenta)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M16.4 48.5 L20.3 49.8 M27.9 29.4 L33.6 35.0 M46.4 17.2 L47.8 20.9 M68.5 14.2 L67.8 22.2 M89.6 21.1 L87.6 24.5 M105.7 36.5 L99.1 40.9 M113.5 57.3 L109.6 57.8 M111.6 79.5 L103.9 77.0 M100.1 98.6 L97.2 95.8 M81.6 110.8 L78.8 103.3 M59.5 113.8 L59.9 109.8 M38.4 106.9 L42.5 100.1 M22.3 91.5 L25.6 89.3 M14.5 70.7 L22.4 69.6" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-vinsenta)"><path d="M40 64 L64 40 M40 64 L64 40 M64 88 L40 40 M64 64 L64 40"/><circle cx="64" cy="40" r="5"/></g>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Стены Ветра">
+<defs><radialGradient id="bg-runa-steny-vetra" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-steny-vetra" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-steny-vetra)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M111.8 78.6 L104.2 76.3 M91.2 105.9 L89.1 102.6 M57.9 113.6 L58.9 105.7 M27.4 98.1 L30.4 95.4 M14.1 66.6 L18.1 66.4 M24.1 33.9 L30.5 38.7 M52.8 15.3 L54.6 23.1 M86.7 19.4 L83.1 26.6 M110.0 44.5 L102.7 47.6" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-steny-vetra)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M28 40 L100 40 L100 92 L28 92 Z M28 57 L100 57 M28 74 L100 74 M52 40 L52 57 M76 40 L76 57 M40 57 L40 74 M64 57 L64 74 M88 57 L88 74 M52 74 L52 92 M76 74 L76 92"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M26 50 L80 50 Q94 50 92 38 Q88 28 78 34 M26 66 L92 66 M26 82 L70 82 Q84 82 82 94 Q78 104 68 98"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

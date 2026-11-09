@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Дракон Звездного Света">
+<defs><radialGradient id="bg-drakon-zvezdnogo-sveta" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-drakon-zvezdnogo-sveta" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-drakon-zvezdnogo-sveta)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M39.0 20.7 L41.0 24.2 M60.3 14.1 L60.9 22.1 M82.3 17.5 L80.8 21.2 M100.7 30.0 L97.7 32.7 M111.8 49.3 L108.0 50.4 M113.4 71.5 L109.5 70.9 M105.3 92.2 L98.7 87.7 M89.0 107.3 L85.0 100.4 M67.7 113.9 L67.4 109.9 M45.7 110.5 L48.7 103.1 M27.3 98.0 L30.3 95.3 M16.2 78.7 L20.0 77.6 M14.6 56.5 L18.5 57.1 M22.7 35.8 L26.0 38.1" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-drakon-zvezdnogo-sveta)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M44 32 Q92 38 64 64 Q36 90 86 98"/><circle cx="44" cy="32" r="4"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="64" r="16"/><path d="M64 26 L64 38 M64 90 L64 102 M26 64 L38 64 M90 64 L102 64 M37 37 L46 46 M82 82 L91 91 M37 91 L46 82 M82 46 L91 37"/></g></g></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#9fb0c4"/>
+</svg>

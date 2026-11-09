@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Обломок Скрижали Восходящего">
+<defs><radialGradient id="bg-oblomok-skrizhali-voshod" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-oblomok-skrizhali-voshod" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-oblomok-skrizhali-voshod)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M113.5 71.0 L109.6 70.4 M101.9 96.6 L98.9 94.0 M78.2 111.9 L77.1 108.1 M50.1 112.0 L51.2 108.2 M26.3 96.9 L29.3 94.2 M14.5 71.3 L18.5 70.7 M18.5 43.4 L22.1 45.0 M36.8 22.0 L39.0 25.4 M63.8 14.0 L63.9 18.0 M90.9 21.9 L88.7 25.2 M109.4 43.1 L105.8 44.8" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-oblomok-skrizhali-voshod)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M34 30 L84 30 L92 52 L76 64 L86 98 L34 98 Z"/><path d="M46 46 L66 46 M46 60 L62 60 M46 76 L70 76"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M42 48 L56 32 L72 32 L86 48 L64 102 Z M42 48 L86 48 M56 32 L60 48 L64 102 M72 32 L68 48"/></g></g></g>
+
+</svg>

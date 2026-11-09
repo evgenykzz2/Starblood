@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Кислотная Жидкость">
+<defs><radialGradient id="bg-kislotnaya-zhidkost" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-kislotnaya-zhidkost" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-kislotnaya-zhidkost)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M50.2 15.9 L51.3 19.8 M76.1 15.5 L75.1 19.4 M98.7 28.0 L93.2 33.8 M112.1 50.2 L108.2 51.3 M112.5 76.1 L108.6 75.1 M100.0 98.7 L97.1 96.0 M77.8 112.1 L75.6 104.4 M51.9 112.5 L53.8 104.8 M29.3 100.0 L32.0 97.1 M15.9 77.8 L19.8 76.7 M15.5 51.9 L23.2 53.8 M28.0 29.3 L30.9 32.0" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-kislotnaya-zhidkost)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 26 Q90 62 86 78 Q82 100 64 100 Q46 100 42 78 Q38 62 64 26 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="32" r="9"/><path d="M64 42 L64 74 M44 54 L84 54 M64 74 L50 102 M64 74 L78 102"/></g></g></g>
+<circle cx="64" cy="114" r="5" fill="#9fb0c4"/>
+</svg>

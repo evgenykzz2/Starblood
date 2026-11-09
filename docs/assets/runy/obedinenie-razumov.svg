@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Объединение Разумов">
+<defs><radialGradient id="bg-obedinenie-razumov" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-obedinenie-razumov" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-obedinenie-razumov)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M105.5 92.0 L102.1 89.7 M85.9 108.9 L82.4 101.7 M60.5 113.9 L60.8 109.9 M36.0 105.5 L38.3 102.1 M19.1 85.9 L22.7 84.2 M14.1 60.5 L22.1 61.1 M22.5 36.0 L25.9 38.3 M42.1 19.1 L45.6 26.3 M67.5 14.1 L67.2 18.1 M92.0 22.5 L87.5 29.2 M108.9 42.1 L105.3 43.8 M113.9 67.5 L109.9 67.2" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-obedinenie-razumov)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><circle cx="52" cy="64" r="18"/><circle cx="76" cy="64" r="18"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 64 m0 -6 a6 6 0 1 1 -6 6 a12 12 0 1 1 12 12 a18 18 0 1 1 -18 -18 a26 26 0 1 1 26 26"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#9fb0c4"/>
+</svg>

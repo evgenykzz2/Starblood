@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Ложного Стигмата">
+<defs><radialGradient id="bg-runa-lozhnogo-stigmata" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-lozhnogo-stigmata" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-lozhnogo-stigmata)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M103.9 94.1 L100.7 91.7 M86.9 108.4 L85.1 104.9 M65.4 114.0 L65.3 110.0 M43.5 109.6 L45.2 106.0 M25.8 96.2 L28.8 93.7 M15.6 76.5 L19.5 75.5 M15.0 54.2 L18.9 55.0 M24.1 33.9 L27.3 36.3 M41.1 19.6 L42.9 23.1 M62.6 14.0 L62.7 18.0 M84.5 18.4 L82.8 22.0 M102.2 31.8 L99.2 34.3 M112.4 51.5 L108.5 52.5 M113.0 73.8 L109.1 73.0" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-lozhnogo-stigmata)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M46 98 L44 60 M44 60 L44 40 M56 58 L56 30 M68 58 L68 32 M80 62 L80 42 M46 98 Q64 104 80 94 L92 70 Q92 62 86 62 L80 72"/><circle cx="62" cy="78" r="6" fill="currentColor"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M34 46 Q64 34 94 46 Q96 82 64 98 Q32 82 34 46 Z"/><path d="M44 60 Q50 54 56 60 M72 60 Q78 54 84 60 M54 80 Q64 86 74 80"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#9fb0c4"/>
+</svg>

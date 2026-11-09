@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Поющий Кувшин">
+<defs><radialGradient id="bg-poyuschiy-kuvshin" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-poyuschiy-kuvshin" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-poyuschiy-kuvshin)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M14.8 72.7 L22.6 71.3 M20.7 39.0 L24.2 41.0 M46.9 17.0 L48.3 20.8 M81.1 17.0 L79.7 20.8 M107.3 39.0 L100.4 43.0 M113.2 72.7 L109.3 72.0 M96.1 102.3 L91.0 96.2 M64.0 114.0 L64.0 110.0 M31.9 102.3 L37.0 96.2" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-poyuschiy-kuvshin)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M50 30 L78 30 M54 30 L54 42 Q36 54 38 76 Q40 100 64 100 Q88 100 90 76 Q92 54 74 42 L74 30 M89 56 Q102 60 98 72 Q94 82 86 80"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M52 98 Q40 92 44 76 Q48 64 44 52 Q46 30 66 28 Q90 30 88 54 Q86 70 72 76 Q64 82 66 92"/><path d="M60 54 Q66 44 74 52 Q74 62 66 64"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#a8682e"/>
+</svg>

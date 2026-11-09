@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Кувшин Звездной Воды">
+<defs><radialGradient id="bg-kuvshin-zvezdnoy-vody" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-kuvshin-zvezdnoy-vody" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-kuvshin-zvezdnoy-vody)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M47.7 16.7 L50.3 24.3 M69.8 14.3 L69.4 18.3 M90.8 21.8 L88.7 25.2 M106.5 37.6 L103.1 39.7 M113.7 58.6 L105.8 59.5 M111.1 80.7 L107.3 79.4 M99.2 99.5 L93.6 93.8 M80.3 111.3 L79.0 107.5 M58.2 113.7 L59.1 105.7 M37.2 106.2 L39.3 102.8 M21.5 90.4 L24.9 88.3 M14.3 69.4 L18.3 68.9 M16.9 47.3 L24.4 49.9 M28.8 28.5 L31.6 31.3" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-kuvshin-zvezdnoy-vody)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M50 30 L78 30 M54 30 L54 42 Q36 54 38 76 Q40 100 64 100 Q88 100 90 76 Q92 54 74 42 L74 30 M89 56 Q102 60 98 72 Q94 82 86 80"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M26 50 Q38 40 50 50 T74 50 T98 50 M26 66 Q38 56 50 66 T74 66 T98 66 M26 82 Q38 72 50 82 T74 82 T98 82"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#9fb0c4"/>
+</svg>

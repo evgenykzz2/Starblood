@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Энтропии">
+<defs><radialGradient id="bg-runa-entropii" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-entropii" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-entropii)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M113.8 68.4 L109.8 68.0 M106.1 91.0 L99.3 86.7 M88.7 107.5 L86.7 104.0 M65.7 114.0 L65.4 106.0 M42.3 109.0 L45.7 101.8 M23.8 93.8 L27.0 91.4 M14.6 71.7 L18.5 71.1 M16.7 47.8 L20.5 49.1 M29.6 27.7 L32.4 30.6 M50.4 15.9 L52.6 23.6 M74.3 15.1 L73.5 19.0 M95.9 25.5 L90.8 31.6 M110.1 44.7 L102.7 47.8" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-entropii)"><path d="M64 30 A34 34 0 0 1 98 64 M90 86 A34 34 0 0 1 50 95 M34 78 A34 34 0 0 1 38 44"/><circle cx="62" cy="62" r="3"/><circle cx="76" cy="70" r="2.5"/><circle cx="52" cy="74" r="2.5"/><circle cx="70" cy="50" r="2"/></g>
+
+</svg>

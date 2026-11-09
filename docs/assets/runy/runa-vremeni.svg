@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Времени">
+<defs><radialGradient id="bg-runa-vremeni" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-vremeni" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-vremeni)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M76.9 112.3 L75.9 108.4 M54.7 113.1 L56.2 105.3 M34.3 104.2 L36.7 101.0 M19.8 87.4 L23.3 85.5 M14.0 65.9 L22.0 65.6 M18.2 44.0 L21.8 45.6 M31.4 26.1 L34.0 29.1 M51.1 15.7 L52.1 19.6 M73.3 14.9 L72.6 18.8 M93.7 23.8 L88.9 30.2 M108.2 40.6 L104.7 42.5 M114.0 62.1 L110.0 62.3 M109.8 84.0 L102.5 80.8 M96.6 101.9 L94.0 98.9" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-vremeni)"><path d="M44 30 L84 30 L64 64 L84 98 L44 98 L64 64 Z"/><path d="M40 30 L88 30 M40 98 L88 98"/></g>
+
+</svg>

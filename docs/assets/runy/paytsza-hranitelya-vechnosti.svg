@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Пайцза Хранителя Вечности">
+<defs><radialGradient id="bg-paytsza-hranitelya-vechn" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-paytsza-hranitelya-vechn" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-paytsza-hranitelya-vechn)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M26.8 97.5 L29.8 94.8 M16.4 79.5 L24.1 77.0 M14.3 58.8 L18.3 59.2 M20.7 39.0 L24.2 41.0 M34.6 23.5 L37.0 26.8 M53.6 15.1 L55.3 22.9 M74.4 15.1 L73.6 19.0 M93.4 23.5 L91.0 26.8 M107.3 39.0 L103.8 41.0 M113.7 58.8 L105.8 59.6 M111.6 79.5 L107.7 78.2 M101.2 97.5 L98.2 94.8 M84.3 109.7 L82.7 106.0 M64.0 114.0 L64.0 106.0 M43.7 109.7 L45.3 106.0" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-paytsza-hranitelya-vechn)"><rect x="44" y="28" width="40" height="74" rx="6"/><circle cx="64" cy="38" r="4"/><path d="M54 56 L74 56 L54 80 L74 80 M64 50 L64 90"/></g>
+<rect x="58" y="110" width="12" height="9" fill="#d8a43a"/>
+</svg>

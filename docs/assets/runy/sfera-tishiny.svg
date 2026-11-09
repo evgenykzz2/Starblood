@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Сфера Тишины">
+<defs><radialGradient id="bg-sfera-tishiny" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-sfera-tishiny" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-sfera-tishiny)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M113.1 73.5 L105.2 72.0 M92.0 105.5 L87.5 98.8 M54.5 113.1 L55.2 109.2 M22.5 92.0 L25.9 89.7 M14.9 54.5 L22.8 56.0 M36.0 22.5 L38.3 25.9 M73.5 14.9 L72.8 18.8 M105.5 36.0 L102.1 38.3" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-sfera-tishiny)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><circle cx="64" cy="64" r="26"/><ellipse cx="64" cy="64" rx="40" ry="12" transform="rotate(-20 64 64)"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M52 98 Q40 92 44 76 Q48 64 44 52 Q46 30 66 28 Q90 30 88 54 Q86 70 72 76 Q64 82 66 92"/><path d="M60 54 Q66 44 74 52 Q74 62 66 64"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

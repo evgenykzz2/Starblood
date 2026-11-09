@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ложное Дно">
+<defs><radialGradient id="bg-lozhnoe-dno" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-lozhnoe-dno" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-lozhnoe-dno)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M26.8 97.5 L29.8 94.8 M14.7 72.1 L18.6 71.4 M18.1 44.1 L21.8 45.7 M36.2 22.5 L38.4 25.8 M63.0 14.0 L63.1 18.0 M90.2 21.4 L88.1 24.8 M109.1 42.4 L105.5 44.1 M113.6 70.2 L109.6 69.7 M102.4 96.0 L99.3 93.5 M79.0 111.7 L77.8 107.9 M50.8 112.2 L51.9 108.4" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-lozhnoe-dno)"><path d="M30 52 L58 52 L58 96 L30 96 Z M30 52 Q44 38 58 52 M70 52 L98 52 L98 96 L70 96 Z M70 52 Q84 38 98 52 M44 66 L44 74 M84 66 L84 74"/></g>
+<circle cx="59" cy="114" r="3.5" fill="#d8a43a"/><circle cx="69" cy="114" r="3.5" fill="#d8a43a"/>
+</svg>

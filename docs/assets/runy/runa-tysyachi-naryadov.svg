@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Тысячи Нарядов">
+<defs><radialGradient id="bg-runa-tysyachi-naryadov" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-tysyachi-naryadov" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-tysyachi-naryadov)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M14.2 59.6 L18.2 60.0 M20.3 39.8 L23.8 41.7 M33.9 24.1 L36.3 27.3 M52.8 15.3 L53.7 19.2 M73.5 14.9 L72.8 18.8 M92.7 23.0 L90.4 26.3 M106.9 38.2 L100.0 42.4 M113.6 57.9 L109.7 58.4 M111.8 78.6 L108.0 77.4 M101.7 96.8 L98.7 94.2 M85.1 109.3 L83.4 105.7 M64.9 114.0 L64.8 110.0 M44.5 110.0 L46.0 106.3 M27.4 98.1 L30.4 95.4 M16.7 80.3 L24.3 77.7" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-tysyachi-naryadov)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M50 28 Q64 36 78 28 L94 46 L82 54 L82 100 L46 100 L46 54 L34 46 Z M64 34 L64 100"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="64" r="14" fill="currentColor"/></g></g></g>
+
+</svg>

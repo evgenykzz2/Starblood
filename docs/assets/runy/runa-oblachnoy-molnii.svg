@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Облачной Молнии">
+<defs><radialGradient id="bg-runa-oblachnoy-molnii" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-oblachnoy-molnii" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-oblachnoy-molnii)" stroke="#a8682e" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#a8682e" stroke-width="1" opacity=".7"/>
+<path d="M75.2 112.7 L74.3 108.8 M53.0 112.8 L54.8 105.0 M32.9 103.2 L37.9 96.9 M19.0 85.8 L22.6 84.1 M14.0 64.1 L22.0 64.1 M18.9 42.4 L26.1 45.9 M32.7 25.0 L35.2 28.1 M52.8 15.3 L54.6 23.1 M75.0 15.2 L74.1 19.1 M95.1 24.8 L90.1 31.1 M109.0 42.2 L101.8 45.7 M114.0 63.9 L110.0 63.9 M109.1 85.6 L101.9 82.1 M95.3 103.0 L90.3 96.8" stroke="#a8682e" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e0a060" color="#e0a060" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-oblachnoy-molnii)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M72 24 L46 68 L64 68 L54 104 L86 54 L67 54 Z"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M30 70 Q30 54 46 56 Q50 40 66 44 Q78 34 90 46 Q104 50 98 64 Q100 78 84 76 L42 76 Q30 76 30 70 Z"/><path d="M40 88 L88 88 M50 98 L78 98"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#a8682e"/>
+</svg>

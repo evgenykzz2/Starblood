@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Прерывания">
+<defs><radialGradient id="bg-runa-preryvaniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-preryvaniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-preryvaniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M101.2 97.5 L98.2 94.8 M74.4 112.9 L72.7 105.1 M43.7 109.7 L45.3 106.0 M20.7 89.0 L24.2 87.0 M14.3 58.8 L22.2 59.6 M26.8 30.5 L29.8 33.2 M53.6 15.1 L55.3 22.9 M84.3 18.3 L82.7 22.0 M107.3 39.0 L103.8 41.0 M113.7 69.2 L105.8 68.4" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-preryvaniya)"><path d="M32 38 L58 64 L32 90 M56 38 L82 64 L56 90 M80 46 L98 64 L80 82"/></g>
+
+</svg>

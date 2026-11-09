@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Копье Игг-Света">
+<defs><radialGradient id="bg-kope-igg-sveta" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-kope-igg-sveta" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-kope-igg-sveta)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M20.3 39.8 L23.8 41.7 M42.9 18.7 L44.6 22.3 M73.5 14.9 L72.0 22.8 M100.6 29.9 L94.7 35.4 M113.6 57.9 L105.7 58.9 M107.7 88.2 L104.2 86.3 M85.1 109.3 L81.7 102.1 M54.5 113.1 L55.2 109.2 M27.4 98.1 L30.4 95.4 M14.4 70.1 L18.3 69.6" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-kope-igg-sveta)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 24 L72 36 L72 82 L56 82 L56 36 Z M42 82 L86 82 M64 82 L64 104"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M64 102 L64 58 M64 76 L48 64 M64 70 L80 58"/><circle cx="64" cy="44" r="20"/></g></g></g>
+<rect x="58" y="110" width="12" height="9" fill="#d8a43a"/>
+</svg>

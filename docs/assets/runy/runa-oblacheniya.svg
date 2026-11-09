@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Облачения">
+<defs><radialGradient id="bg-runa-oblacheniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-oblacheniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-oblacheniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M80.3 111.3 L79.0 107.5 M58.2 113.7 L59.1 105.7 M37.2 106.2 L39.3 102.8 M21.5 90.4 L24.9 88.3 M14.3 69.4 L22.2 68.5 M16.9 47.3 L24.4 49.9 M28.8 28.5 L31.6 31.3 M47.7 16.7 L49.0 20.5 M69.8 14.3 L69.4 18.3 M90.8 21.8 L86.5 28.5 M106.5 37.6 L103.1 39.7 M113.7 58.6 L109.7 59.1 M111.1 80.7 L103.6 78.1 M99.2 99.5 L93.6 93.8" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-oblacheniya)"><path d="M50 28 Q64 36 78 28 L94 46 L82 54 L82 100 L46 100 L46 54 L34 46 Z M64 34 L64 100"/></g>
+
+</svg>

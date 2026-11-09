@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Рунный Мастер">
+<defs><radialGradient id="bg-runa-runnyy-master" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-runnyy-master" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-runnyy-master)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M57.9 113.6 L58.4 109.7 M32.0 102.5 L34.6 99.4 M16.3 79.1 L20.1 77.9 M15.7 50.9 L19.6 52.0 M30.5 26.9 L33.2 29.9 M55.9 14.7 L57.2 22.6 M83.8 18.1 L82.2 21.8 M105.5 36.1 L98.9 40.6 M114.0 63.0 L110.0 63.1 M106.6 90.2 L103.2 88.1 M85.7 109.0 L84.0 105.4" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-runnyy-master)"><path d="M40 36 L84 36 Q92 36 92 44 L92 84 M40 36 Q32 36 32 44 Q32 52 40 52 L40 92 Q40 100 48 100 L92 100 Q100 100 100 92 Q100 84 92 84 L48 84"/><path d="M50 54 L80 54 M50 66 L80 66"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#d8a43a"/>
+</svg>

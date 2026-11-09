@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Морвены">
+<defs><radialGradient id="bg-runa-morveny" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-morveny" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-morveny)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M111.8 78.6 L108.0 77.4 M102.6 95.8 L99.5 93.3 M87.5 108.1 L83.7 101.1 M68.8 113.8 L68.4 109.8 M49.4 111.8 L51.7 104.2 M32.2 102.6 L34.7 99.5 M19.9 87.5 L26.9 83.7 M14.2 68.8 L22.2 68.0 M16.2 49.4 L20.0 50.6 M25.4 32.2 L28.5 34.7 M40.5 19.9 L44.3 26.9 M59.2 14.2 L59.6 18.2 M78.6 16.2 L76.3 23.8 M95.8 25.4 L93.3 28.5 M108.1 40.5 L101.1 44.3 M113.8 59.2 L105.8 60.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-morveny)"><path d="M88 88 L64 64 M64 40 L40 40"/><circle cx="88" cy="64" r="5"/></g>
+
+</svg>

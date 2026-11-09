@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Звезды">
+<defs><radialGradient id="bg-runa-zvezdy" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-zvezdy" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-zvezdy)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M14.1 60.5 L18.1 60.8 M19.9 40.5 L26.9 44.3 M33.2 24.6 L35.7 27.8 M51.9 15.5 L52.9 19.4 M72.7 14.8 L71.3 22.6 M92.0 22.5 L89.7 25.9 M106.4 37.5 L103.0 39.6 M113.5 57.0 L105.6 58.2 M112.1 77.8 L108.2 76.7 M102.3 96.1 L96.2 91.0 M85.9 108.9 L84.2 105.3 M65.7 114.0 L65.6 110.0 M45.3 110.4 L48.3 102.9 M28.0 98.7 L30.9 96.0 M17.0 81.1 L20.8 79.7" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-zvezdy)"><path d="M64 24 L74 52 L104 52 L80 70 L89 100 L64 82 L39 100 L48 70 L24 52 L54 52 Z"/></g>
+<circle cx="59" cy="114" r="3.5" fill="#9fb0c4"/><circle cx="69" cy="114" r="3.5" fill="#9fb0c4"/>
+</svg>

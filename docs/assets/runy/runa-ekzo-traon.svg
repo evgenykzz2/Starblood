@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Экзо-траон">
+<defs><radialGradient id="bg-runa-ekzo-traon" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ekzo-traon" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ekzo-traon)" stroke="#9fb0c4" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#9fb0c4" stroke-width="1" opacity=".7"/>
+<path d="M91.2 105.9 L89.1 102.6 M64.2 114.0 L64.2 110.0 M37.2 106.2 L39.3 102.8 M18.6 85.0 L25.9 81.6 M14.5 57.1 L22.4 58.2 M26.1 31.4 L29.1 34.0 M49.7 16.1 L52.0 23.8 M77.9 16.0 L76.7 19.8 M101.6 31.1 L98.6 33.7 M113.5 56.6 L109.5 57.2 M109.6 84.6 L105.9 82.9" stroke="#9fb0c4" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#e8eef6" color="#e8eef6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ekzo-traon)"><ellipse cx="64" cy="62" rx="22" ry="14"/><path d="M48 70 L34 82 L30 98 M64 76 L62 92 L56 104 M80 70 L94 82 L98 98 M48 54 L34 44 L28 30 M64 48 L66 34 L72 24 M80 54 L94 44 L100 30"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#9fb0c4"/>
+</svg>

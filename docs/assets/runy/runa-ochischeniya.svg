@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Очищения">
+<defs><radialGradient id="bg-runa-ochischeniya" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-ochischeniya" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-ochischeniya)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M109.7 84.3 L106.0 82.7 M97.5 101.2 L94.8 98.2 M79.5 111.6 L78.2 107.7 M58.8 113.7 L59.2 109.7 M39.0 107.3 L41.0 103.8 M23.5 93.4 L30.0 88.7 M15.1 74.4 L19.0 73.6 M15.1 53.6 L22.9 55.3 M23.5 34.6 L26.8 37.0 M39.0 20.7 L41.0 24.2 M58.8 14.3 L59.2 18.3 M79.5 16.4 L78.2 20.3 M97.5 26.8 L94.8 29.8 M109.7 43.7 L102.4 46.9 M114.0 64.0 L110.0 64.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-ochischeniya)"><path d="M64 96 Q44 80 48 54 Q60 64 64 80 Q68 64 80 54 Q84 80 64 96 Z M64 80 Q56 56 64 34 Q72 56 64 80 M30 100 L98 100"/></g>
+
+</svg>

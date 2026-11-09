@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Домена">
+<defs><radialGradient id="bg-runa-domena" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-domena" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-domena)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M22.5 36.0 L25.9 38.3 M36.4 22.3 L38.6 25.6 M54.5 14.9 L55.2 18.8 M74.0 15.0 L72.4 22.8 M92.0 22.5 L87.5 29.2 M105.7 36.4 L102.4 38.6 M113.1 54.5 L109.2 55.2 M113.0 74.0 L109.1 73.2 M105.5 92.0 L102.1 89.7 M91.6 105.7 L89.4 102.4 M73.5 113.1 L72.8 109.2 M54.0 113.0 L55.6 105.2 M36.0 105.5 L40.5 98.8 M22.3 91.6 L25.6 89.4 M14.9 73.5 L18.8 72.8 M15.0 54.0 L18.9 54.8" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-domena)"><path d="M48 102 L52 46 L76 46 L80 102 Z M46 46 L46 30 L54 30 L54 37 L60 37 L60 30 L68 30 L68 37 L74 37 L74 30 L82 30 L82 46"/><path d="M60 102 L60 84 Q64 78 68 84 L68 102"/></g>
+
+</svg>

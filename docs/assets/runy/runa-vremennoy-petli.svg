@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Временной Петли">
+<defs><radialGradient id="bg-runa-vremennoy-petli" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-vremennoy-petli" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-vremennoy-petli)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M36.8 22.1 L41.1 28.8 M61.4 14.1 L61.8 22.1 M86.7 19.4 L84.9 23.0 M105.9 36.8 L99.2 41.1 M113.9 61.4 L109.9 61.6 M108.6 86.7 L105.0 84.9 M91.2 105.9 L89.1 102.6 M66.6 113.9 L66.4 109.9 M41.3 108.6 L44.9 101.4 M22.1 91.2 L28.8 86.9 M14.1 66.6 L18.1 66.4 M19.4 41.3 L26.6 44.9" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-vremennoy-petli)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 98 Q28 98 28 64 Q28 30 64 30 Q100 30 100 64 Q100 86 78 86 L62 86"/><path d="M72 76 L62 86 L72 96"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><path d="M44 30 L84 30 L64 64 L84 98 L44 98 L64 64 Z"/><path d="M40 30 L88 30 M40 98 L88 98"/></g></g></g>
+<path d="M64 108 L70 114 L64 120 L58 114 Z" fill="#d8a43a"/>
+</svg>

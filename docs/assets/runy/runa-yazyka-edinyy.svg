@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Языка (Единый)">
+<defs><radialGradient id="bg-runa-yazyka-edinyy" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-yazyka-edinyy" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-yazyka-edinyy)" stroke="#4f9a46" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#4f9a46" stroke-width="1" opacity=".7"/>
+<path d="M16.2 78.6 L20.0 77.4 M15.3 52.8 L19.2 53.7 M27.4 29.9 L33.3 35.4 M49.4 16.2 L50.6 20.0 M75.2 15.3 L74.3 19.2 M98.1 27.4 L95.4 30.4 M111.8 49.4 L108.0 50.6 M112.7 75.2 L104.9 73.4 M100.6 98.1 L97.6 95.4 M78.6 111.8 L77.4 108.0 M52.8 112.7 L54.6 104.9 M29.9 100.6 L32.6 97.6" stroke="#4f9a46" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#9be37a" color="#9be37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-yazyka-edinyy)"><path d="M30 40 Q30 30 40 30 L88 30 Q98 30 98 40 L98 70 Q98 80 88 80 L58 80 L40 98 L42 80 L40 80 Q30 80 30 70 Z"/><path d="M44 48 L84 48 M44 62 L72 62"/></g>
+
+</svg>

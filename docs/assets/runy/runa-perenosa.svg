@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Переноса">
+<defs><radialGradient id="bg-runa-perenosa" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-perenosa" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-perenosa)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M29.9 100.6 L32.6 97.6 M14.9 73.5 L18.8 72.8 M18.7 42.9 L22.3 44.6 M39.8 20.3 L43.6 27.3 M70.1 14.4 L69.6 18.3 M98.1 27.4 L95.4 30.4 M113.1 54.5 L109.2 55.2 M109.3 85.1 L105.7 83.4 M88.2 107.7 L86.3 104.2 M57.9 113.6 L58.4 109.7" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-perenosa)"><path d="M24 64 L96 64 M76 42 L100 64 L76 86 M24 64 L14 52 M24 64 L14 76 M38 64 L28 52 M38 64 L28 76"/></g>
+
+</svg>

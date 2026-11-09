@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Скрипторума Некролита">
+<defs><radialGradient id="bg-runa-skriptoruma-nekroli" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-skriptoruma-nekroli" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-skriptoruma-nekroli)" stroke="#d8a43a" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d8a43a" stroke-width="1" opacity=".7"/>
+<path d="M76.1 112.5 L75.1 108.6 M45.3 110.4 L48.3 102.9 M21.6 90.5 L25.0 88.4 M14.1 60.5 L22.1 61.1 M25.7 31.9 L28.8 34.4 M51.9 15.5 L53.8 23.2 M82.7 17.6 L79.7 25.1 M106.4 37.5 L103.0 39.6 M113.9 67.5 L109.9 67.2 M102.3 96.1 L96.2 91.0" stroke="#d8a43a" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#ffd36a" color="#ffd36a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-skriptoruma-nekroli)"><path d="M38 100 L38 56 Q38 28 64 28 Q90 28 90 56 L90 100 L82 92 L74 100 L64 92 L54 100 L46 92 Z"/><circle cx="54" cy="52" r="4"/><circle cx="74" cy="52" r="4"/><path d="M48 66 L80 66 L80 84 L48 84 Z M64 66 L64 84"/></g>
+<path d="M64 108 L71 120 L57 120 Z" fill="#d8a43a"/>
+</svg>
