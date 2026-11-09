@@ -311,6 +311,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Пролог](00-prolog.md) · [Оглавление](index.md)
+[← Пролог](00-prolog.md) · [Оглавление](index.md) · [Глава 2 →](02-glava-02.md)
 
 </nav>
