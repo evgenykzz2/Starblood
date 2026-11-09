@@ -8,6 +8,14 @@
   [![Винсент Кассиди: Пленник Колонны Безвременья](../assets/portrety/017_s.webp){ loading=lazy }](../assets/portrety/017.webp)
   <figcaption>Пленник Колонны Безвременья<br><small>ЗК-2, гл. 22 — ЗК-6, гл. 19</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Винсент Кассиди: Возвращённый рикс с Игг-Копьём](../assets/portrety/018_s.webp){ loading=lazy }](../assets/portrety/018.webp)
+  <figcaption>Возвращённый рикс с Игг-Копьём<br><small>ЗК-6, гл. 19 — ЗК-8</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Винсент Кассиди: В лед-доспехе, с драконьей Руной Мико](../assets/portrety/019_s.webp){ loading=lazy }](../assets/portrety/019.webp)
+  <figcaption>В лед-доспехе, с драконьей Руной Мико<br><small>ЗК-9 — ЗК-11</small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

@@ -90,6 +90,45 @@
   [![Винсент Кассиди: Пленник Колонны Безвременья](../assets/portrety/017_s.webp){ loading=lazy }](../assets/portrety/017.webp)
   <figcaption><a href="../vinsent/">Пленник Колонны Безвременья</a><br><small>ЗК-2, гл. 22 — ЗК-6, гл. 19</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Винсент Кассиди: Возвращённый рикс с Игг-Копьём](../assets/portrety/018_s.webp){ loading=lazy }](../assets/portrety/018.webp)
+  <figcaption><a href="../vinsent/">Возвращённый рикс с Игг-Копьём</a><br><small>ЗК-6, гл. 19 — ЗК-8</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Винсент Кассиди: В лед-доспехе, с драконьей Руной Мико](../assets/portrety/019_s.webp){ loading=lazy }](../assets/portrety/019.webp)
+  <figcaption><a href="../vinsent/">В лед-доспехе, с драконьей Руной Мико</a><br><small>ЗК-9 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Марк Кассиди («Мрак», «Мрак-подобный-Пламени»)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Марк Кассиди (Мрак): «Варвар», командир копья](../assets/portrety/020_s.webp){ loading=lazy }](../assets/portrety/020.webp)
+  <figcaption><a href="../mark-mrak/">«Варвар», командир копья</a><br><small>ЗК-1 — ЗК-6, гл. 26</small></figcaption>
+</figure>
+</div>
+
+## Лэндо Солнечное Крыло
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Лэндо Солнечное Крыло: Юный принц-лучник](../assets/portrety/022_s.webp){ loading=lazy }](../assets/portrety/022.webp)
+  <figcaption><a href="../lendo/">Юный принц-лучник</a><br><small>ЗК-1 — ЗК-6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Лэндо Солнечное Крыло: Возмужавший хейр, командир копья](../assets/portrety/023_s.webp){ loading=lazy }](../assets/portrety/023.webp)
+  <figcaption><a href="../lendo/">Возмужавший хейр, командир копья</a><br><small>ЗК-7+</small></figcaption>
+</figure>
+</div>
+
+## Минос (доктор Матиас Амин)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Минос (доктор Матиас Амин): Восходящий-«маг»](../assets/portrety/024_s.webp){ loading=lazy }](../assets/portrety/024.webp)
+  <figcaption><a href="../minos/">Восходящий-«маг»</a><br><small>ЗК-1, гл. 19–20; в рейдах ЗК-4, ЗК-6</small></figcaption>
+</figure>
 </div>
 
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный

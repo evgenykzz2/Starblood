@@ -219,3 +219,14 @@
 .md-typeset .portrait-grid figure > p, .md-typeset .portrait-grid figure > a { margin: 0; }
 .md-typeset .portrait-grid figcaption { margin: .5em 0 0 !important; font-size: .74rem; line-height: 1.3; max-width: none; text-align: center; }
 .md-typeset .portrait-grid figcaption small { opacity: .7; }
+
+/* Миниатюра портрета в таблицах указателей персонажей */
+.md-typeset img.idx-ico {
+  float: left;
+  width: 42px;
+  height: 63px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin: 0 .7em .2em 0;
+  border: 1px solid var(--md-accent-fg-color--transparent);
+}
