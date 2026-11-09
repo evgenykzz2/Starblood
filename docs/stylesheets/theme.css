@@ -151,23 +151,23 @@
 
 /* --- главная: заставка --- */
 .sb-hero {
-  position: relative; margin: -.8rem -.8rem 2rem; min-height: 340px; border-radius: 12px; overflow: hidden;
-  background: url("../assets/hero.svg") center 40% / cover no-repeat, #120c28;
+  position: relative; margin: -.8rem -.8rem 2rem; aspect-ratio: 1584 / 672; min-height: 300px; border-radius: 12px; overflow: hidden;
+  background: url("../assets/hero.webp") 60% 45% / cover no-repeat, #120c28;
   display: flex; align-items: flex-end; box-shadow: 0 10px 40px rgba(5, 3, 15, .5);
 }
 .sb-hero::after { content: ""; position: absolute; inset: 0;
-  background: linear-gradient(90deg, rgba(8, 6, 20, .82) 0%, rgba(8, 6, 20, .45) 45%, transparent 70%); }
-.sb-hero__text { position: relative; z-index: 1; padding: 2.2rem 2.4rem 2rem; max-width: 34rem; color: #ece6ff; }
+  background: linear-gradient(90deg, rgba(8, 6, 20, .6) 0%, rgba(8, 6, 20, .25) 40%, transparent 60%); }
+.sb-hero__text { position: relative; z-index: 1; padding: 2rem 2.4rem 1.8rem; max-width: 30rem; color: #ece6ff; }
 .md-typeset .sb-hero__kicker { margin: 0; font-family: var(--sb-head-font); letter-spacing: .25em; font-size: .8rem; color: var(--sb-blood);
   text-transform: uppercase; }
-.md-typeset .sb-hero h1.sb-hero__title { margin: .1em 0 .2em; font-size: 3.4rem; line-height: 1; color: #ffd98a;
+.md-typeset .sb-hero h1.sb-hero__title { margin: .1em 0 .2em; font-size: 3rem; line-height: 1; color: #ffd98a;
   text-shadow: 0 0 28px rgba(255, 200, 100, .45), 0 2px 0 rgba(0, 0, 0, .4); }
 .md-typeset .sb-hero__quote { margin: .6em 0 0; font-family: var(--sb-title-font); font-style: italic; font-size: 1.12rem; line-height: 1.4;
   color: rgba(236, 230, 255, .85); }
 .md-typeset .sb-hero__quote span { display: block; font-style: normal; font-size: .78rem; letter-spacing: .08em; margin-top: .4em;
   color: rgba(200, 190, 240, .7); }
 @media (max-width: 760px) {
-  .sb-hero { min-height: 300px; margin: -.8rem -.8rem 1.5rem; border-radius: 0; background-position: 72% 30%; }
+  .sb-hero { aspect-ratio: auto; min-height: 320px; margin: -.8rem -.8rem 1.5rem; border-radius: 0; background-image: url("../assets/hero-small.webp"); background-position: 74% 40%; }
   .sb-hero::after { background: linear-gradient(0deg, rgba(8, 6, 20, .92) 0%, rgba(8, 6, 20, .6) 55%, rgba(8, 6, 20, .15) 100%); }
   .sb-hero__text { padding: 1.4rem 1.2rem 1.2rem; }
   .md-typeset .sb-hero__kicker { font-size: .62rem; letter-spacing: .18em; }
