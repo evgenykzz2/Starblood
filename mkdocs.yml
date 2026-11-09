@@ -9,25 +9,23 @@ copyright: Неофициальный фанатский проект. Все п
 theme:
   name: material
   language: ru
+  logo: assets/logo.svg
   icon:
-    logo: material/star-four-points
     repo: fontawesome/brands/github
   favicon: assets/favicon.svg
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: amber
+    - scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
-        name: Светлая тема
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple
-      accent: amber
+        name: Светлая тема (пергамент)
+    - scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
-        name: Тёмная тема
+        name: Тёмная тема (ночь Единства)
   font:
     text: PT Sans
     code: PT Mono
@@ -77,7 +75,11 @@ markdown_extensions:
       alternate_style: true
 
 extra_css:
+  - stylesheets/theme.css
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/ranks.js
 
 nav:
   - Главная: index.md

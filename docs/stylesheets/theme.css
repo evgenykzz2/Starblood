@@ -1,0 +1,181 @@
+/* ==== Тема «Звездная Кровь»: лиловая ночь Единства, голубое сияние Крови, золото Игг-Древ ==== */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Cormorant+SC:wght@500;600;700&display=swap");
+
+:root {
+  --sb-gold: #e8c068;
+  --sb-gold-deep: #b98a2c;
+  --sb-blood: #7fd8ff;
+  --sb-blood-deep: #2f9bd6;
+  --sb-lilac: #a48cf0;
+  --sb-night: #0d0b1a;
+  --sb-head-font: "Cormorant SC", "Cormorant Garamond", Georgia, serif;
+  --sb-title-font: "Cormorant Garamond", Georgia, serif;
+  --sb-stars:
+    radial-gradient(1px 1px at 12% 30%, rgba(255,255,255,.8), transparent 60%),
+    radial-gradient(1px 1px at 28% 70%, rgba(255,255,255,.55), transparent 60%),
+    radial-gradient(1.5px 1.5px at 47% 22%, rgba(200,235,255,.9), transparent 60%),
+    radial-gradient(1px 1px at 63% 58%, rgba(255,255,255,.6), transparent 60%),
+    radial-gradient(1px 1px at 79% 18%, rgba(255,255,255,.75), transparent 60%),
+    radial-gradient(1.5px 1.5px at 91% 64%, rgba(255,240,200,.8), transparent 60%),
+    radial-gradient(1px 1px at 5% 85%, rgba(255,255,255,.5), transparent 60%);
+}
+
+/* --- тёмная тема: ночь под Небесным Троном --- */
+[data-md-color-scheme="slate"] {
+  --md-hue: 255;
+  --md-default-bg-color: #0d0b1a;
+  --md-default-bg-color--light: rgba(13, 11, 26, .54);
+  --md-default-fg-color: rgba(236, 232, 250, .90);
+  --md-default-fg-color--light: rgba(214, 206, 240, .66);
+  --md-default-fg-color--lighter: rgba(200, 190, 235, .34);
+  --md-default-fg-color--lightest: rgba(180, 165, 235, .13);
+  --md-primary-fg-color: #1a1433;
+  --md-primary-fg-color--light: #2a2050;
+  --md-primary-fg-color--dark: #110d24;
+  --md-primary-bg-color: #f1ecff;
+  --md-primary-bg-color--light: rgba(241, 236, 255, .7);
+  --md-accent-fg-color: #8fe0ff;
+  --md-accent-fg-color--transparent: rgba(127, 216, 255, .12);
+  --md-typeset-color: rgba(236, 232, 250, .90);
+  --md-typeset-a-color: #8fd9ff;
+  --md-code-bg-color: #17132c;
+  --md-code-fg-color: #e2dcf7;
+  --md-typeset-table-color: rgba(180, 165, 235, .16);
+  --md-footer-bg-color: #0a0815;
+  --md-footer-bg-color--dark: #07060f;
+  --sb-h1: var(--sb-gold);
+  --sb-h2: #efe6ff;
+  --sb-panel: rgba(32, 24, 64, .55);
+  --sb-panel-border: rgba(164, 140, 240, .22);
+}
+[data-md-color-scheme="slate"] body {
+  background:
+    radial-gradient(1100px 620px at 88% -8%, rgba(143, 108, 255, .16), transparent 62%),
+    radial-gradient(900px 520px at -12% 22%, rgba(63, 168, 255, .07), transparent 60%),
+    var(--sb-night);
+  background-attachment: fixed;
+}
+
+/* --- светлая тема: пергамент летописи --- */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f7f3ea;
+  --md-default-fg-color: rgba(28, 20, 50, .88);
+  --md-default-fg-color--light: rgba(28, 20, 50, .62);
+  --md-default-fg-color--lighter: rgba(28, 20, 50, .32);
+  --md-default-fg-color--lightest: rgba(60, 40, 100, .10);
+  --md-primary-fg-color: #241a46;
+  --md-primary-fg-color--light: #352866;
+  --md-primary-fg-color--dark: #170f30;
+  --md-primary-bg-color: #f6f1ff;
+  --md-accent-fg-color: #1f84c4;
+  --md-accent-fg-color--transparent: rgba(31, 132, 196, .1);
+  --md-typeset-a-color: #1d6fa8;
+  --md-code-bg-color: #efe8d8;
+  --sb-h1: #8a6418;
+  --sb-h2: #2a1d52;
+  --sb-panel: rgba(255, 252, 244, .8);
+  --sb-panel-border: rgba(80, 60, 140, .18);
+}
+
+/* --- шапка и вкладки: звездное небо --- */
+.md-header, .md-tabs {
+  background: var(--sb-stars), linear-gradient(100deg, #0f0a24 0%, #1d1440 45%, #2d1d58 100%);
+  color: #f1ecff;
+}
+.md-header { box-shadow: 0 1px 0 rgba(127, 216, 255, .25), 0 6px 24px rgba(5, 3, 15, .45); }
+.md-header__title { font-family: var(--sb-head-font); font-size: 1.05rem; letter-spacing: .04em; }
+.md-header__button.md-logo img { height: 1.7rem; filter: drop-shadow(0 0 6px rgba(127, 216, 255, .7)); }
+.md-tabs__link { font-family: var(--sb-head-font); font-size: .82rem; letter-spacing: .05em; opacity: .75; }
+.md-tabs__item--active .md-tabs__link, .md-tabs__link:hover { color: var(--sb-gold); opacity: 1; }
+.md-search__form { background: rgba(255, 255, 255, .08); border: 1px solid rgba(164, 140, 240, .25); }
+
+/* --- заголовки --- */
+.md-typeset h1 {
+  font-family: var(--sb-head-font); font-weight: 700; color: var(--sb-h1);
+  letter-spacing: .02em; text-shadow: 0 0 22px rgba(232, 192, 104, .22);
+}
+.md-typeset h2 {
+  font-family: var(--sb-title-font); font-weight: 700; font-size: 1.55em; color: var(--sb-h2);
+  padding-bottom: .25em; border-bottom: 1px solid transparent;
+  border-image: linear-gradient(90deg, var(--sb-gold), var(--sb-blood) 35%, transparent 80%) 1;
+}
+.md-typeset h2::before { content: "✦"; color: var(--sb-blood); font-size: .6em; margin-right: .45em; vertical-align: .25em;
+  text-shadow: 0 0 8px var(--sb-blood); }
+.md-typeset h3 { font-family: var(--sb-title-font); font-weight: 700; font-size: 1.3em; color: var(--sb-h2); }
+.md-typeset h4 { color: var(--sb-gold-deep); letter-spacing: .02em; }
+[data-md-color-scheme="slate"] .md-typeset h4 { color: var(--sb-gold); }
+
+/* --- ссылки: свечение Звездной Крови --- */
+[data-md-color-scheme="slate"] .md-typeset a:hover { text-shadow: 0 0 10px rgba(127, 216, 255, .55); }
+.md-nav__link--active, .md-nav__item .md-nav__link--active { color: var(--md-accent-fg-color) !important; font-weight: 700; }
+[data-md-color-scheme="slate"] .md-nav__link--active { text-shadow: 0 0 10px rgba(127, 216, 255, .45); }
+.md-nav__title { font-family: var(--sb-head-font); letter-spacing: .04em; }
+
+/* --- таблицы --- */
+.md-typeset table:not([class]) { border: 1px solid var(--sb-panel-border); border-radius: 6px; overflow: hidden; }
+.md-typeset table:not([class]) th { background: linear-gradient(180deg, rgba(90, 64, 170, .35), rgba(60, 40, 120, .22));
+  font-family: var(--sb-title-font); font-size: 1.05em; letter-spacing: .02em; }
+[data-md-color-scheme="default"] .md-typeset table:not([class]) th { background: rgba(60, 40, 120, .08); }
+.md-typeset table:not([class]) tbody tr:hover { background: rgba(127, 216, 255, .05); }
+
+/* --- карточки главной: стекло и сияние --- */
+.md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
+  background: var(--sb-panel); border: 1px solid var(--sb-panel-border); border-radius: 10px;
+  transition: border-color .2s, box-shadow .2s, transform .2s;
+}
+.md-typeset .grid.cards > ul > li:hover, .md-typeset .grid > .card:hover {
+  border-color: rgba(127, 216, 255, .55); transform: translateY(-2px);
+  box-shadow: 0 0 0 1px rgba(127, 216, 255, .15), 0 8px 28px rgba(80, 160, 255, .14);
+}
+.md-typeset .grid.cards > ul > li > p:first-child strong { font-family: var(--sb-title-font); font-size: 1.25em; }
+.md-typeset .grid.cards .twemoji svg { fill: var(--sb-gold); }
+.md-typeset .grid.cards hr { border-color: var(--sb-panel-border); }
+
+/* --- врезки --- */
+.md-typeset .admonition, .md-typeset details { border-radius: 8px; background: var(--sb-panel); }
+[data-md-color-scheme="slate"] .md-typeset .admonition.tip, [data-md-color-scheme="slate"] .md-typeset details.tip { border-color: var(--sb-blood); }
+
+/* --- метки рангов (js/ranks.js) --- */
+.md-typeset .rank { display: inline-block; padding: 0 .55em; border-radius: 1em; font-weight: 700; font-size: .92em;
+  border: 1px solid currentColor; white-space: nowrap; line-height: 1.6; }
+.rank--derevo { color: #6fc456; background: rgba(111, 196, 86, .12); }
+.rank--bronza { color: #d08a48; background: rgba(208, 138, 72, .12); }
+.rank--serebro { color: #a9b8cc; background: rgba(169, 184, 204, .12); }
+.rank--zoloto { color: #e2b04a; background: rgba(226, 176, 74, .14); }
+.rank--nebo { color: #5fc6f2; background: rgba(95, 198, 242, .13); }
+.rank--musor, .rank--obychnaya { color: #a6a59e; background: rgba(166, 165, 158, .1); }
+.rank--merzost { color: #b884ff; background: rgba(120, 50, 180, .18); }
+[data-md-color-scheme="slate"] .rank--serebro { color: #dfe7f2; }
+[data-md-color-scheme="slate"] .rank--zoloto { color: #ffd36a; text-shadow: 0 0 8px rgba(255, 211, 106, .35); }
+[data-md-color-scheme="slate"] .rank--nebo { color: #8fe3ff; text-shadow: 0 0 8px rgba(143, 227, 255, .4); }
+
+/* --- главная: заставка --- */
+.sb-hero {
+  position: relative; margin: -.8rem -.8rem 2rem; min-height: 340px; border-radius: 12px; overflow: hidden;
+  background: url("../assets/hero.svg") center 40% / cover no-repeat, #120c28;
+  display: flex; align-items: flex-end; box-shadow: 0 10px 40px rgba(5, 3, 15, .5);
+}
+.sb-hero::after { content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, rgba(8, 6, 20, .82) 0%, rgba(8, 6, 20, .45) 45%, transparent 70%); }
+.sb-hero__text { position: relative; z-index: 1; padding: 2.2rem 2.4rem 2rem; max-width: 34rem; color: #ece6ff; }
+.md-typeset .sb-hero__kicker { margin: 0; font-family: var(--sb-head-font); letter-spacing: .25em; font-size: .8rem; color: var(--sb-blood);
+  text-transform: uppercase; }
+.md-typeset .sb-hero h1.sb-hero__title { margin: .1em 0 .2em; font-size: 3.4rem; line-height: 1; color: #ffd98a;
+  text-shadow: 0 0 28px rgba(255, 200, 100, .45), 0 2px 0 rgba(0, 0, 0, .4); }
+.md-typeset .sb-hero__quote { margin: .6em 0 0; font-family: var(--sb-title-font); font-style: italic; font-size: 1.12rem; line-height: 1.4;
+  color: rgba(236, 230, 255, .85); }
+.md-typeset .sb-hero__quote span { display: block; font-style: normal; font-size: .78rem; letter-spacing: .08em; margin-top: .4em;
+  color: rgba(200, 190, 240, .7); }
+@media (max-width: 760px) {
+  .sb-hero { min-height: 300px; margin: -.8rem -.8rem 1.5rem; border-radius: 0; background-position: 72% 30%; }
+  .sb-hero::after { background: linear-gradient(0deg, rgba(8, 6, 20, .92) 0%, rgba(8, 6, 20, .6) 55%, rgba(8, 6, 20, .15) 100%); }
+  .sb-hero__text { padding: 1.4rem 1.2rem 1.2rem; }
+  .md-typeset .sb-hero__kicker { font-size: .62rem; letter-spacing: .18em; }
+  .md-typeset .sb-hero h1.sb-hero__title { font-size: 2.3rem; }
+  .md-typeset .sb-hero__quote { font-size: .95rem; }
+}
+
+/* --- подвал --- */
+.md-footer-meta { background: var(--sb-stars), #07060f; }
+.md-footer__title, .md-footer__direction { font-family: var(--sb-title-font); }
+.md-content:has(.sb-hero) .md-content__button { display: none; }
