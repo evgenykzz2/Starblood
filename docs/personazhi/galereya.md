@@ -142,6 +142,83 @@
   [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Телохранительница рикса](../assets/portrety/026_s.webp){ loading=lazy }](../assets/portrety/026.webp)
   <figcaption><a href="../fyuri/">Телохранительница рикса</a><br><small>ЗК-4 — ЗК-6</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Второй пилот «Грифона»](../assets/portrety/027_s.webp){ loading=lazy }](../assets/portrety/027.webp)
+  <figcaption><a href="../fyuri/">Второй пилот «Грифона»</a><br><small>ЗК-6 — ЗК-10, гл. 22</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Кристина Фальк, «Ледяная Лилия», агент Альфы](../assets/portrety/028_s.webp){ loading=lazy }](../assets/portrety/028.webp)
+  <figcaption><a href="../fyuri/">Кристина Фальк, «Ледяная Лилия», агент Альфы</a><br><small>ЗК-10, гл. 23 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Эйрик Мастер Зверей
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Эйрик: Хозяин ранчо](../assets/portrety/029_s.webp){ loading=lazy }](../assets/portrety/029.webp)
+  <figcaption><a href="../eirik/">Хозяин ранчо</a><br><small>ЗК-4 — ЗК-11; единый облик</small></figcaption>
+</figure>
+</div>
+
+## Динамит (Дмитрий Воронин)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Динамит (Дмитрий Воронин): Командир копья](../assets/portrety/030_s.webp){ loading=lazy }](../assets/portrety/030.webp)
+  <figcaption><a href="../dinamit/">Командир копья</a><br><small>ЗК-1 — ЗК-6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Динамит (Дмитрий Воронин): Воскрешённый «квадратный бульдозер»](../assets/portrety/031_s.webp){ loading=lazy }](../assets/portrety/031.webp)
+  <figcaption><a href="../dinamit/">Воскрешённый «квадратный бульдозер»</a><br><small>ЗК-9, гл. 15 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Толя Грохот (Анатолий Горохов)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): Десантник с гаусс-пулемётом](../assets/portrety/032_s.webp){ loading=lazy }](../assets/portrety/032.webp)
+  <figcaption><a href="../grohot/">Десантник с гаусс-пулемётом</a><br><small>ЗК-1 — ЗК-4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): В рунном Боевом Доспехе («Гоплит»)](../assets/portrety/033_s.webp){ loading=lazy }](../assets/portrety/033.webp)
+  <figcaption><a href="../grohot/">В рунном Боевом Доспехе («Гоплит»)</a><br><small>ЗК-7 — ЗК-11</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): Пленник Альфы](../assets/portrety/034_s.webp){ loading=lazy }](../assets/portrety/034.webp)
+  <figcaption><a href="../grohot/">Пленник Альфы</a><br><small>ЗК-11, гл. 6</small></figcaption>
+</figure>
+</div>
+
+## Инь и Янь (близнецы-азио)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Инь (и Янь): Близнецы-новички](../assets/portrety/035_s.webp){ loading=lazy }](../assets/portrety/035.webp)
+  <figcaption><a href="../in-yan/">Близнецы-новички</a><br><small>ЗК-1 — ЗК-7</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Инь (и Янь): Окрепший бронзовый Инь](../assets/portrety/036_s.webp){ loading=lazy }](../assets/portrety/036.webp)
+  <figcaption><a href="../in-yan/">Окрепший бронзовый Инь</a><br><small>ЗК-8 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Юки (Танцующая-в-Тени → Тень → Тень-из-Неба)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): Трэль в Расколотых Землях](../assets/portrety/037_s.webp){ loading=lazy }](../assets/portrety/037.webp)
+  <figcaption><a href="../yuki/">Трэль в Расколотых Землях</a><br><small>ЗК-3, гл. 4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): Проводница в земном комбинезоне](../assets/portrety/038_s.webp){ loading=lazy }](../assets/portrety/038.webp)
+  <figcaption><a href="../yuki/">Проводница в земном комбинезоне</a><br><small>ЗК-3, гл. 5 — эпилог</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): «Тень», скаут копья](../assets/portrety/039_s.webp){ loading=lazy }](../assets/portrety/039.webp)
+  <figcaption><a href="../yuki/">«Тень», скаут копья</a><br><small>ЗК-7 — ЗК-11</small></figcaption>
+</figure>
 </div>
 
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный

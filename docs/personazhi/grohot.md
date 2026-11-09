@@ -13,6 +13,25 @@
 
 ---
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): Десантник с гаусс-пулемётом](../assets/portrety/032_s.webp){ loading=lazy }](../assets/portrety/032.webp)
+  <figcaption>Десантник с гаусс-пулемётом<br><small>ЗК-1 — ЗК-4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): В рунном Боевом Доспехе («Гоплит»)](../assets/portrety/033_s.webp){ loading=lazy }](../assets/portrety/033.webp)
+  <figcaption>В рунном Боевом Доспехе («Гоплит»)<br><small>ЗК-7 — ЗК-11</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Грохот (Анатолий «Толя»): Пленник Альфы](../assets/portrety/034_s.webp){ loading=lazy }](../assets/portrety/034.webp)
+  <figcaption>Пленник Альфы<br><small>ЗК-11, гл. 6</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Личность, мотивация, слабости
 
 **Первое впечатление.** Пьяница и драчун: при знакомстве «ночует в каталажке», «фляга у него слегка подтекает» (Динамит, ЗК-1, гл. 17). Местная «достопримечательность и притча во языцех» (там же).

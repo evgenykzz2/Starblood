@@ -21,6 +21,14 @@
   [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Телохранительница рикса](../assets/portrety/026_s.webp){ loading=lazy }](../assets/portrety/026.webp)
   <figcaption>Телохранительница рикса<br><small>ЗК-4 — ЗК-6</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Второй пилот «Грифона»](../assets/portrety/027_s.webp){ loading=lazy }](../assets/portrety/027.webp)
+  <figcaption>Второй пилот «Грифона»<br><small>ЗК-6 — ЗК-10, гл. 22</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Фьюри (Лилия ван дер Саар / Кристина Фальк, «Ледяная Лилия»): Кристина Фальк, «Ледяная Лилия», агент Альфы](../assets/portrety/028_s.webp){ loading=lazy }](../assets/portrety/028.webp)
+  <figcaption>Кристина Фальк, «Ледяная Лилия», агент Альфы<br><small>ЗК-10, гл. 23 — ЗК-11</small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

@@ -13,6 +13,25 @@
 
 ---
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): Трэль в Расколотых Землях](../assets/portrety/037_s.webp){ loading=lazy }](../assets/portrety/037.webp)
+  <figcaption>Трэль в Расколотых Землях<br><small>ЗК-3, гл. 4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): Проводница в земном комбинезоне](../assets/portrety/038_s.webp){ loading=lazy }](../assets/portrety/038.webp)
+  <figcaption>Проводница в земном комбинезоне<br><small>ЗК-3, гл. 5 — эпилог</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Юки (Танцующая-в-Тени, «Тень»): «Тень», скаут копья](../assets/portrety/039_s.webp){ loading=lazy }](../assets/portrety/039.webp)
+  <figcaption>«Тень», скаут копья<br><small>ЗК-7 — ЗК-11</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Личность, мотивация, слабости
 
 ### До стирания памяти (ЗК-3)
