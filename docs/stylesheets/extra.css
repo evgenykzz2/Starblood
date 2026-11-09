@@ -1,0 +1,9 @@
+:root { --md-text-font: "PT Sans"; }
+.md-typeset .char-portrait { float: right; width: min(300px, 45%); margin: 0 0 1em 1.2em; border-radius: 6px; box-shadow: 0 4px 18px rgba(0,0,0,.35); }
+.md-typeset .char-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: .8em; margin: 1em 0 1.5em; clear: both; }
+.md-typeset .char-gallery figure { margin: 0; }
+.md-typeset .char-gallery img { border-radius: 6px; width: 100%; }
+.md-typeset .char-gallery figcaption { font-size: .75em; margin-top: .3em; }
+.md-typeset table:not([class]) { font-size: .72rem; }
+.atlas-frame { width: 100%; height: 82vh; min-height: 560px; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; }
+@media (max-width: 600px) { .md-typeset .char-portrait { float: none; display: block; width: 100%; margin: 0 0 1em; } }

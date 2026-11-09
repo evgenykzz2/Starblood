@@ -1,0 +1,164 @@
+site_name: Звездная Кровь — Вики
+site_description: Неофициальная фанатская энциклопедия вселенной «Звездная Кровь» и «Тысяча Братьев» Романа Прокофьева
+site_url: https://evgenykzz2.github.io/Starblood/
+repo_url: https://github.com/evgenykzz2/Starblood
+repo_name: evgenykzz2/Starblood
+edit_uri: edit/main/docs/
+copyright: Неофициальный фанатский проект. Все права на произведения принадлежат Роману Прокофьеву.
+
+theme:
+  name: material
+  language: ru
+  icon:
+    logo: material/star-four-points
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+  font:
+    text: PT Sans
+    code: PT Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.action.edit
+
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+
+hooks:
+  - hooks/character_images.py
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Главная: index.md
+  - Мир:
+      - "Механика Восхождения": mir/mekhanika.md
+      - "Космология и история": mir/kosmologiya-i-istoriya.md
+      - "Народы, фракции, существа": mir/narody-i-frakcii.md
+      - "География": mir/geografiya.md
+      - "Руны и предметы": mir/runy.md
+  - Карта: karta/index.md
+  - Персонажи:
+      - "Указатель: Звездная Кровь": personazhi/zvezdnaya-krov.md
+      - "Указатель: Тысяча Братьев": personazhi/tysyacha-bratev.md
+      - "Копьё Сигурда": personazhi/kopyo-sigurda.md
+      - Все персонажи:
+        - "Аврора Мартинс": personazhi/avrora.md
+        - "Адамант (Крис Свенсон)": personazhi/adamant.md
+        - "Азимандия Визу Аран (Аммос)": personazhi/azimandiya.md
+        - "Андре Кроу («Птица» → Ворон)": personazhi/krou.md
+        - "Ассоль (Патриция Эванс)": personazhi/assol.md
+        - "Бабушка Яшма": personazhi/yashma.md
+        - "Белый Дьявол / Дарующий Молнии / Пламени Подобный": personazhi/belyj_dyavol.md
+        - "Великие Караваны в TB-05: Обочина, Вешка, Подкова, Найра, Вейн": personazhi/karavanshchiki.md
+        - "Великие Черви и их слуги (как персонажи)": personazhi/velikie_chervi.md
+        - "Вероника «Ника» Максвелл": personazhi/veronika.md
+        - "Винсент «Винс» Кассиди": personazhi/vinsent.md
+        - "Гай Флоу (и Келли Флоу)": personazhi/gai-flou.md
+        - "Говорящая-с-Травами": personazhi/govoryashchaya.md
+        - "Грай": personazhi/grai.md
+        - "Динамит (Дмитрий Воронин)": personazhi/dinamit.md
+        - "Дирк Кондор": personazhi/kondor.md
+        - "Дом Ноктис: Марисса Золотая Змея, Эверент, Онора и эрды Корпуса": personazhi/dom_noktis.md
+        - "Единые и высшие силы (как их видят персонажи TB)": personazhi/edinye.md
+        - "Жабник (доктор Деврадж Мукерджи)": personazhi/zhabnik.md
+        - "Иниэсс Зелёный Лист": personazhi/iniess.md
+        - "Инь и Янь (близнецы-азио)": personazhi/in-yan.md
+        - "Йан Воглер (капитан «Хельги»)": personazhi/vogler.md
+        - "Каласса Огненная-как-Ветер": personazhi/kalassa.md
+        - "Кейнор — Ледяной Кузнец": personazhi/kejnor.md
+        - "Кель-рода Курганов Янтандера: хранители, ключники, предки": personazhi/kel_roda_kurganov.md
+        - "Кнут (Кнуд Ларссон)": personazhi/knut.md
+        - "Коготь-как-Серебро": personazhi/kogot-kak-serebro.md
+        - "Копьё Мрака: Свирель, Рэнди, Мик, Песчанка": personazhi/kopyo-mraka.md
+        - "Кыш": personazhi/kysh.md
+        - "Лохмач (и «второй Лохмач»)": personazhi/lohmach.md
+        - "Лэндо Солнечное Крыло": personazhi/lendo.md
+        - "Марк Кассиди («Мрак», «Мрак-подобный-Пламени»)": personazhi/mark-mrak.md
+        - "Мико (драконья Руна-когитор Ордена Истинных)": personazhi/miko.md
+        - "Минос (доктор Матиас Амин)": personazhi/minos.md
+        - "Морвейн кель'Талас (Морвена)": personazhi/morvejn.md
+        - "Моргейн — Владычица Путей и Порталов": personazhi/morgejn.md
+        - "Найра Эль-Кадис": personazhi/nayra.md
+        - "Найтфир (Ночной Страх) — Королева Снов": personazhi/najtfir.md
+        - "Народ Теней / Народ Молний — вожди и знать (TB-03…TB-04)": personazhi/narod_tenej.md
+        - "Народы Круга Элтанир в цикле TB: риксы, кинги и спутники (кроме Теней)": personazhi/narody_tb.md
+        - "Олег Рашидов": personazhi/rashidov.md
+        - "Орин Огненный Клинок": personazhi/orin.md
+        - "Предатель — Арвейн Размыкатель": personazhi/arvejn_predatel.md
+        - "Провидица — Ида Сторн": personazhi/providica.md
+        - "Псы Вечности — Небесный, Драконоборец, Всполох (Тэйлисс)": personazhi/psy_vechnosti.md
+        - "Райан и Риан Максвелл (близнецы Вероники и Эйрика)": personazhi/maksvell.md
+        - "Сатори «Морская Роза» и Осьминог": personazhi/satori.md
+        - "Серена Лафайет": personazhi/serena.md
+        - "Сестра Солнца (как она показана в основной серии)": personazhi/sestra-solntsa.md
+        - "Сигурд (Сигварт Морозов)": personazhi/sigurd.md
+        - "Скай («Скай 2.0»)": personazhi/skay.md
+        - "Существа-Руны и разумы на службе Пламени Подобного": personazhi/sushchestva_skrizhali.md
+        - "Тайна (Аю Лакшми)": personazhi/tajna.md
+        - "Толя Грохот (Анатолий Горохов)": personazhi/grohot.md
+        - "Травинка-на-Ветру (Адель Кассиди)": personazhi/travinka.md
+        - "Трейв Уитли (и его сын Тревор Моримото «Мажор»)": personazhi/trejv.md
+        - "Тысяча Братьев (и Сестёр) — общий файл": personazhi/tysyacha_bratev.md
+        - "Флекс Торий": personazhi/flex-torij.md
+        - "Фьюри (Кристина Фальк / Лилия ван дер Саар)": personazhi/fyuri.md
+        - "Хитрейший (Хранитель Вечности, Хозяин Контракции)": personazhi/hitreyshiy.md
+        - "Хранители Вечности (и их слуги)": personazhi/hraniteli.md
+        - "Эдри (Эд Ри Саттар, «Честный Странник»)": personazhi/edri.md
+        - "Эйрик Мастер Зверей": personazhi/eirik.md
+        - "Элли (Элеонора) Кардо": personazhi/kardo.md
+        - "Эрда Онора (Онора Эверент Ноктис кел Аммос)": personazhi/onora.md
+        - "Эрин Ледяная Искра": personazhi/erin.md
+        - "Юки (Танцующая-в-Тени → Тень → Тень-из-Неба)": personazhi/yuki.md
+  - Словарь: slovar.md
+  - "Обозначения и книги": oboznacheniya.md
+  - "О вики": o-vike.md
