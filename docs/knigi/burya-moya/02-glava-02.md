@@ -317,6 +317,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 1](01-glava-01.md) · [Оглавление](index.md)
+[← Глава 1](01-glava-01.md) · [Оглавление](index.md) · [Интерлюдия. Тени шепчут →](03-interlyudiya.md)
 
 </nav>
