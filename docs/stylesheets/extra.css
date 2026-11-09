@@ -15,3 +15,9 @@
 .md-typeset .rune-card { margin: 1em 0 1em 1.6em; padding: .7em 1em; border-left: 3px solid var(--md-accent-fg-color); background: var(--md-code-bg-color); font-family: var(--md-code-font-family); font-size: .82em; line-height: 1.6; border-radius: 0 6px 6px 0; }
 .md-typeset .chapter-subtitle { max-width: 40em; margin: -.6em auto 1.6em; font-style: italic; color: var(--md-default-fg-color--light); }
 .md-typeset .book-nav { max-width: 40em; margin: 2.5em auto 0; padding-top: 1em; border-top: 1px solid var(--md-default-fg-color--lightest); text-align: center; }
+.md-typeset .book-cover { float: right; width: min(300px, 42%); margin: 0 0 1em 1.5em; border-radius: 4px; box-shadow: 0 6px 24px rgba(0,0,0,.45); }
+.md-typeset .book-card { display: grid; grid-template-columns: 140px 1fr; gap: .2em 1.2em; align-items: start; margin: 1em 0; }
+.md-typeset .book-card > p { grid-column: 2; margin: .1em 0; }
+.md-typeset .book-card > p:first-child { grid-column: 1; grid-row: 1 / span 4; margin: 0; }
+.md-typeset .book-thumb { width: 140px; border-radius: 3px; box-shadow: 0 4px 14px rgba(0,0,0,.4); }
+@media (max-width: 600px) { .md-typeset .book-cover { float: none; display: block; width: 70%; margin: 0 auto 1em; } }
