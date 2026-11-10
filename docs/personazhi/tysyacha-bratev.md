@@ -76,7 +76,7 @@
 | ![](../assets/portrety/092_face.webp){ .idx-ico loading=lazy } Эрин Ледяная Искра | Лед-кузнец, возлюбленная БД | ТБ-2 | Жива | [досье](../personazhi/erin.md) |
 | Марисса Золотая Змея | Эвгина Ноктис, драконья Руна Кейнора | ЗК-8, ТБ-2, ТБ-4 | Жива (Руна) | [досье](../personazhi/dom_noktis.md) |
 | Эверент Ноктис Кел Аммос | Экзарх Корпуса, авгур | ЗК-8, ТБ-2 | Жив | [досье](../personazhi/dom_noktis.md) |
-| Онора | Эрда Корпуса | ЗК-8, ТБ-2, ТБ-4 | Жива | [досье](../personazhi/dom_noktis.md), [досье](../personazhi/onora.md) |
+| Онора | Эрда Корпуса | ЗК-8, ТБ-2, ТБ-4 | Жива | [Дом Ноктис](../personazhi/dom_noktis.md), [Эрда Онора](../personazhi/onora.md) |
 | Обочина, Вешка, Подкова | Караванщики рода Фел | ТБ-5 | Обочина и Подкова мертвы; Вешка — Руна | [досье](../personazhi/karavanshchiki.md) |
 | Найра Эль-Кадис, Вейн Эль-Керр | Великий Караван | ЗК-10, ТБ-5 | Живы | [досье](../personazhi/karavanshchiki.md) |
 | ![](../assets/portrety/053_face.webp){ .idx-ico loading=lazy } Флекс Торий | Душеторговец Вечности | ЗК-5–06 | Казнён (отражение) | [досье](../personazhi/flex-torij.md) |
@@ -99,10 +99,10 @@
 ### 1.6. Древние силы
 | Имя | Кто | Статус | Досье |
 |---|---|---|---|
-| ![](../assets/portrety/057_face.webp){ .idx-ico loading=lazy } Хитрейший | Хранитель, Контракция | Действует | [досье](../personazhi/hraniteli.md), [досье](../personazhi/hitreyshiy.md) |
+| ![](../assets/portrety/057_face.webp){ .idx-ico loading=lazy } Хитрейший | Хранитель, Контракция | Действует | [Хранители Вечности](../personazhi/hraniteli.md), [Хитрейший](../personazhi/hitreyshiy.md) |
 | Полководец | Хранитель, Гармония | Маска казнена, сам жив | [досье](../personazhi/hraniteli.md) |
 | Палач | Хранительница Закона, хозяйка Псов | Действует | [досье](../personazhi/hraniteli.md) |
-| ![](../assets/portrety/056_face.webp){ .idx-ico loading=lazy } Сестра Солнца | Четвёртая Хранительница, Золотые Варвары | Действует | [досье](../personazhi/hraniteli.md), [досье](../personazhi/sestra-solntsa.md) |
+| ![](../assets/portrety/056_face.webp){ .idx-ico loading=lazy } Сестра Солнца | Четвёртая Хранительница, Золотые Варвары | Действует | [Хранители Вечности](../personazhi/hraniteli.md), [Сестра Солнца](../personazhi/sestra-solntsa.md) |
 | Предвестник | Первый Хранитель, Хронос | Действует | [досье](../personazhi/hraniteli.md) |
 | Посланник/Посланница | Дом Норн, Храмы | Действует | [досье](../personazhi/hraniteli.md) |
 | Странник | Убийца Шелеста | Неизвестно где | [досье](../personazhi/hraniteli.md) |
@@ -111,7 +111,7 @@
 | Драконоборец | Пёс | Мёртв | [досье](../personazhi/psy_vechnosti.md) |
 | Всполох (Тэйлисс Кел Эммис) | Пёс, предательница Дарующего | Трэль без Крови | [досье](../personazhi/psy_vechnosti.md) |
 | Великие Черви (Мерзость, Гибель и др.) | Потомки Тварей Извне | Гибель жив | [досье](../personazhi/velikie_chervi.md) |
-| ![](../assets/portrety/151_face.webp){ .idx-ico loading=lazy } Бабушка Яшма | Тень Творящей? | Появляется | [досье](../personazhi/yashma.md), [досье](../personazhi/yashma.md) |
+| ![](../assets/portrety/151_face.webp){ .idx-ico loading=lazy } Бабушка Яшма | Тень Творящей? | Появляется | [досье](../personazhi/yashma.md) |
 | Единые (7), Наблюдатель, Орден Истинных | Высшие силы | — | [досье](../personazhi/edinye.md) |
 
 ## 2. Схемы
