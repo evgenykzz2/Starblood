@@ -2,6 +2,45 @@
 
 > Круг Семи Древ (**Янтандер**). См. также: [Морвейн](../personazhi/morvejn.md) · [Моргейн](../personazhi/morgejn.md) · [Предатель Арвейн](../personazhi/arvejn_predatel.md) · [Тысяча Братьев](../personazhi/tysyacha_bratev.md) · [Караванщики](../personazhi/karavanshchiki.md)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![кель-рода: кель-страж](../assets/portrety/130_s.webp){ loading=lazy }](../assets/portrety/130.webp)
+  <figcaption>кель-страж<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Илиана кель'Саар: Хранительница Саар (гл. 12–18)](../assets/portrety/131_s.webp){ loading=lazy }](../assets/portrety/131.webp)
+  <figcaption>Хранительница Саар (гл. 12–18)<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Эльвейн кель'Талас (дочь Морвейн; ~100–140 циклов): основной облик](../assets/portrety/132_s.webp){ loading=lazy }](../assets/portrety/132.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Морри (Морвейн кель'Талас-младшая): основной облик](../assets/portrety/133_s.webp){ loading=lazy }](../assets/portrety/133.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Духи рода Талас: Итта](../assets/portrety/134_s.webp){ loading=lazy }](../assets/portrety/134.webp)
+  <figcaption>Итта<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Духи рода Талас: Эйр-Талас](../assets/portrety/135_s.webp){ loading=lazy }](../assets/portrety/135.webp)
+  <figcaption>Эйр-Талас<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Духи рода Талас: Талар](../assets/portrety/136_s.webp){ loading=lazy }](../assets/portrety/136.webp)
+  <figcaption>Талар<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Прочие хранители: лже-Амарис](../assets/portrety/137_s.webp){ loading=lazy }](../assets/portrety/137.webp)
+  <figcaption>лже-Амарис<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Общее
 - Вокруг рубинового Игг-Древа **Арандар (Алый Корень)** — шесть Курганов с Малыми Древами (Аран-Талас, Аран-Саар, Аран-Майр…), корни которых оплетают саркофаги Братьев; у каждого — Замок кель-рода. Курганы насыпали «тысячи циклов назад, когда Семь Древ были Ростками»; основатели родов пришли с небесным воинством (ТБ-5). Курган — капкан о трёх Рубежах (Живой, Мёртвый, Теневой); взять его можно лишь изнутри; при неудаче родов Храм у **Медных Башен** зовёт охотников Небесного Трона (ТБ-5, гл. 4, 6, 17). Седьмой Курган — под корнями Арандара, тайный, «для Брата, который придёт освобождать других» — на деле гробница-засада Предателя (ТБ-5, гл. 10, 15). Над Кругом — небесное плетение «рэйя» на шести Замках (ТБ-5, гл. 19).
 - **Кто они:** полукровки Аммос, присягнувшие Небесному Трону; только они в Круге получают стигматы; перекрещивают кровь; у хранительницы несколько **стражей-консортов**; различают духовную и плотскую любовь разными словами. Иерархия: **Хранитель (Первый Ключ)** → **Привратник** → **ключники** → **стражи** (ранг — алые звенья под сигной) → **затворы** (рядовые). Женщины носят хэлио; посмертные серебряные маски — в главном зале (ТБ-5, разд. 7). Заветы: «Тысяча приходит не с мечом, но со словом, и слово это будет — выбирай» (гл. 9); «Стойте и не отворяйте…» (гл. 15). По гл. 20 — **Народ (потомки) Предателя Арвейна**, который сам написал заветы.

@@ -13,6 +13,18 @@
   [![Азимандия Визу Аран Аммос: Руна-пленница](../assets/portrety/061_s.webp){ loading=lazy }](../assets/portrety/061.webp)
   <figcaption>Руна-пленница<br><small>ЗК-3 — ЗК-6</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Азимандия Визу Аран: Хозяйка Серебряного Замка](../assets/portrety/099_s.webp){ loading=lazy }](../assets/portrety/099.webp)
+  <figcaption>Хозяйка Серебряного Замка<br><small>ЗК-2, гл. 18–23</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Азимандия Визу Аран: Руна-Существо в Шевелящемся Доспехе](../assets/portrety/100_s.webp){ loading=lazy }](../assets/portrety/100.webp)
+  <figcaption>Руна-Существо в Шевелящемся Доспехе<br><small>ТБ-1 – ТБ-5</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Азимандия Визу Аран: Её Руны-Существа — свита](../assets/portrety/101_s.webp){ loading=lazy }](../assets/portrety/101.webp)
+  <figcaption>Её Руны-Существа — свита<br><small></small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

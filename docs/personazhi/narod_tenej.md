@@ -2,6 +2,49 @@
 
 > См. также: [Белый Дьявол](../personazhi/belyj_dyavol.md) · [Найтфир](../personazhi/najtfir.md) · [Каласса](../personazhi/kalassa.md) · [Великие Черви](../personazhi/velikie_chervi.md) · [Существа Скрижали](../personazhi/sushchestva_skrizhali.md) (Аур-Тален, Эсмерра). Травинка, Говорящая, Коготь в ЗК, Марк — досье основной серии: [Травинка-на-Ветру (Адель Кассиди)](../personazhi/travinka.md), [Говорящая-с-Травами](../personazhi/govoryashchaya.md), [Коготь-как-Серебро](../personazhi/kogot-kak-serebro.md), [Марк Кассиди («Мрак», «Мрак-подобный-Пламени»)](../personazhi/mark-mrak.md).
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Шелковая Тень, Шепот-в-Ночи, Коготь, Острый-как-Шип, Режущий Руны, Серебряное Облако: Шелковая Тень](../assets/portrety/107_s.webp){ loading=lazy }](../assets/portrety/107.webp)
+  <figcaption>Шелковая Тень<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Шелковая Тень, Шепот-в-Ночи, Коготь, Острый-как-Шип, Режущий Руны, Серебряное Облако: Шепот-в-Ночи](../assets/portrety/108_s.webp){ loading=lazy }](../assets/portrety/108.webp)
+  <figcaption>Шепот-в-Ночи<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Шелковая Тень, Шепот-в-Ночи, Коготь, Острый-как-Шип, Режущий Руны, Серебряное Облако: Острый-как-Шип](../assets/portrety/109_s.webp){ loading=lazy }](../assets/portrety/109.webp)
+  <figcaption>Острый-как-Шип<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Шелковая Тень, Шепот-в-Ночи, Коготь, Острый-как-Шип, Режущий Руны, Серебряное Облако: Коготь-как-Серебро](../assets/portrety/110_s.webp){ loading=lazy }](../assets/portrety/110.webp)
+  <figcaption>Коготь-как-Серебро<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Шелковая Тень, Шепот-в-Ночи, Коготь, Острый-как-Шип, Режущий Руны, Серебряное Облако: Режущий Руны](../assets/portrety/111_s.webp){ loading=lazy }](../assets/portrety/111.webp)
+  <figcaption>Режущий Руны<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Вожди других Народов: Иниэсс](../assets/portrety/152_s.webp){ loading=lazy }](../assets/portrety/152.webp)
+  <figcaption>Иниэсс<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Вожди других Народов: Сторм](../assets/portrety/153_s.webp){ loading=lazy }](../assets/portrety/153.webp)
+  <figcaption>Сторм<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Вожди других Народов: Аурвак](../assets/portrety/154_s.webp){ loading=lazy }](../assets/portrety/154.webp)
+  <figcaption>Аурвак<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Вожди других Народов: Форель](../assets/portrety/155_s.webp){ loading=lazy }](../assets/portrety/155.webp)
+  <figcaption>Форель<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Народ
 - **Происхождение.** Потомки жителей Эстэ — Кел Аммос, «смешавшихся с низшими в жуткие времена Раскола», и «детей» Дарующего Молнии; после падения Эстэ беглецы ушли в тени и стали изгоями (ТБ-1; ТБ-3, гл. 4; ТБ-4, гл. 3). Белый Дьявол — их «Отец», клятва «Кровью Белого Дьявола» (ЗК-3). Кингом может быть **только носитель крови Дарующего** (ТБ-3; ЗК-9). Народ Реки — тоже потомки Эстэ (ТБ-1, гл. 4/7).
 - **Септы:** Каменные Луки (сильнейшая; астролит Кел Аммос), Небесные Когти, Серые Шипы (слабейшая, из изгоев), Лунные Тени (Луноликие), Тёмные Грозы (Кузница Молний; искусство перековки молний), Черепа (три септы — Чёрные Черепа и др.; Кровавые Черепа). Раскол на восемь септ; нашествие на Пылающий Рог при кинге Поющем-о-Смерти — погибли три септы (ТБ-3, разд. 10, 12).

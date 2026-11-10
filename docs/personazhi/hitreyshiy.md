@@ -20,6 +20,10 @@
   [![Хитрейший (Хранитель Вечности): основной облик](../assets/portrety/057_s.webp){ loading=lazy }](../assets/portrety/057.webp)
   <figcaption>основной облик<br><small></small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Хитрейший (хозяин Контракции): основной облик](../assets/portrety/138_s.webp){ loading=lazy }](../assets/portrety/138.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

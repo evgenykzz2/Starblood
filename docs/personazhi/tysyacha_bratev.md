@@ -2,6 +2,29 @@
 
 > Отдельные досье: [Белый Дьявол / Пламени Подобный](../personazhi/belyj_dyavol.md) · [Кейнор, Ледяной Кузнец](../personazhi/kejnor.md) · [Моргейн](../personazhi/morgejn.md) · [Предатель Арвейн](../personazhi/arvejn_predatel.md) · [Орин](../personazhi/orin.md) · [Сатори и Осьминог](../personazhi/satori.md). Здесь — сама Тысяча и все остальные названные Братья.
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Черный Крест («Владыка Легионов»): основной облик](../assets/portrety/117_s.webp){ loading=lazy }](../assets/portrety/117.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Соловей-в-Ночи (Нор-Аэль, Звездный Соловей): основной облик](../assets/portrety/118_s.webp){ loading=lazy }](../assets/portrety/118.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Гнилая Садовница (Цветок, Цветущая): основной облик](../assets/portrety/119_s.webp){ loading=lazy }](../assets/portrety/119.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Братья, которых в книгах не показывают: Черное Крыло](../assets/portrety/123_s.webp){ loading=lazy }](../assets/portrety/123.webp)
+  <figcaption>Черное Крыло<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Что такое Тысяча (итоговая версия + эволюция)
 
 - **Осколки Забытого.** Тот-Кто-Забыт (один из Семи Единых) «предвидя будущее, сам разделил себя на тысячу осколков, Тысячу Братьев и Сестёр» (версия сторонников, ТБ-1, пролог); по версии Вечности — «тысяча демонов», осколки «разорванного» Врага (ТБ-1, пролог). Каждый осколок несёт часть разбитого дара Забытого — Дракон, Ночной Соловей, Янтандер, Предатель… (ТБ-5, гл. 19). Единый «сплавил в себе миллионы душ»; Тысяча «никогда не была едина, блага или справедлива» (ТБ-5, пролог).

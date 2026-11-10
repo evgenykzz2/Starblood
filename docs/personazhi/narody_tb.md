@@ -2,6 +2,21 @@
 
 > Народ Теней — [Народ Теней / Народ Молний — вожди и знать (ТБ-3…ТБ-4)](../personazhi/narod_tenej.md); Иниэсс — [Иниэсс Зелёный Лист](../personazhi/iniess.md); караванщики — [Великие Караваны в ТБ-5: Обочина, Вешка, Подкова, Найра, Вейн](../personazhi/karavanshchiki.md). Земляне (Винсент, Аврора, Минос, Сигурд и др.) — досье основной серии.
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Народы как расы: Народ Теней (групповой портрет](../assets/portrety/160_s.webp){ loading=lazy }](../assets/portrety/160.webp)
+  <figcaption>Народ Теней (групповой портрет<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Народы как расы: Кел (Аммос), эталон](../assets/portrety/161_s.webp){ loading=lazy }](../assets/portrety/161.webp)
+  <figcaption>Кел (Аммос), эталон<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Народ Реки (клан Мёртвой Рыбы и соседи)
 Потомки Эстэ, как и Тени (ТБ-1, гл. 4). Речь — водные метафоры и жаргон.
 

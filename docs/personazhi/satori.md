@@ -2,6 +2,25 @@
 
 > См. также: [Тысяча Братьев](../personazhi/tysyacha_bratev.md) · [Кейнор](../personazhi/kejnor.md) · [Белый Дьявол](../personazhi/belyj_dyavol.md)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Сатори «Морская Роза» и Осьминог: 1](../assets/portrety/114_s.webp){ loading=lazy }](../assets/portrety/114.webp)
+  <figcaption>1<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сатори «Морская Роза» и Осьминог: 2](../assets/portrety/115_s.webp){ loading=lazy }](../assets/portrety/115.webp)
+  <figcaption>2<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Сатори «Морская Роза» и Осьминог: основной облик](../assets/portrety/116_s.webp){ loading=lazy }](../assets/portrety/116.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Сатори
 
 | Поле | Значение |

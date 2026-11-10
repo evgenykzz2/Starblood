@@ -2,6 +2,33 @@
 
 > См. также: [Белый Дьявол](../personazhi/belyj_dyavol.md) · [Кель-рода Курганов](../personazhi/kel_roda_kurganov.md) (Талар, Эльвейн, Морри, Итта) · [Флекс Торий](../personazhi/flex-torij.md) · [Моргейн](../personazhi/morgejn.md) · [Тысяча Братьев](../personazhi/tysyacha_bratev.md) (Янтандер) · [Предатель Арвейн](../personazhi/arvejn_predatel.md)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Морвейн кель'Талас: Морвена, «живой труп» в Вечности](../assets/portrety/094_s.webp){ loading=lazy }](../assets/portrety/094.webp)
+  <figcaption>Морвена, «живой труп» в Вечности<br><small>ЗК-5, гл. 12–14</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Морвейн кель'Талас: Новое живое тело](../assets/portrety/095_s.webp){ loading=lazy }](../assets/portrety/095.webp)
+  <figcaption>Новое живое тело<br><small>ТБ-1, гл. 4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Морвейн кель'Талас: Руна Пламени Подобного: тёмно-синее асари, Знак Трёх Молний, Воющий Кувшин](../assets/portrety/096_s.webp){ loading=lazy }](../assets/portrety/096.webp)
+  <figcaption>Руна Пламени Подобного: тёмно-синее асари, Знак Трёх Молний, Воющий Кувшин<br><small>ТБ-1, гл. 16 – ТБ-4</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Морвейн кель'Талас: Золотая хранительница кель-рода Талас](../assets/portrety/097_s.webp){ loading=lazy }](../assets/portrety/097.webp)
+  <figcaption>Золотая хранительница кель-рода Талас<br><small>ТБ-5, гл. 6–19</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Морвейн кель'Талас: Сосуд Янтандера](../assets/portrety/098_s.webp){ loading=lazy }](../assets/portrety/098.webp)
+  <figcaption>Сосуд Янтандера<br><small>ТБ-5, гл. 20</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Шапка
 
 | Поле | Значение |

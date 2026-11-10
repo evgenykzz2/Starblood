@@ -26,6 +26,82 @@
   [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)](../assets/portrety/072_s.webp){ loading=lazy }](../assets/portrety/072.webp)
   <figcaption>Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)<br><small></small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Последний бой и склеп (падение Эстэ; SK-01, Интерлюдия «Белый Дьявол», гл. 6) — склеп](../assets/portrety/073_s.webp){ loading=lazy }](../assets/portrety/073.webp)
+  <figcaption>Последний бой и склеп (падение Эстэ; SK-01, Интерлюдия «Белый Дьявол», гл. 6) — склеп<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Голос](../assets/portrety/074_s.webp){ loading=lazy }](../assets/portrety/074.webp)
+  <figcaption>Голос<br><small>ЗК-1 – ЗК-6: бестелесный дух в теле Сигурда</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Марк Кассиди («Мрак») до вселения (SK-01 – SK-06): тело-«наследство»](../assets/portrety/075_s.webp){ loading=lazy }](../assets/portrety/075.webp)
+  <figcaption>Марк Кассиди («Мрак») до вселения (SK-01 – SK-06): тело-«наследство»<br><small>ЗК-1 – ЗК-6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Однорукий изгой](../assets/portrety/076_s.webp){ loading=lazy }](../assets/portrety/076.webp)
+  <figcaption>Однорукий изгой<br><small>ТБ-1, гл. 1–9</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Изгой со стигматом в культе; хейр Мертвой Рыбы](../assets/portrety/077_s.webp){ loading=lazy }](../assets/portrety/077.webp)
+  <figcaption>Изгой со стигматом в культе; хейр Мертвой Рыбы<br><small>ТБ-1, гл. 10–13</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Рука отрастает; Аспект Холодное Пламя](../assets/portrety/078_s.webp){ loading=lazy }](../assets/portrety/078.webp)
+  <figcaption>Рука отрастает; Аспект Холодное Пламя<br><small>ТБ-1, гл. 14–18</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Дикарь Ледяной Бездны](../assets/portrety/079_s.webp){ loading=lazy }](../assets/portrety/079.webp)
+  <figcaption>Дикарь Ледяной Бездны<br><small>ТБ-2, гл. 5–12</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Гость Эргиаля](../assets/portrety/080_s.webp){ loading=lazy }](../assets/portrety/080.webp)
+  <figcaption>Гость Эргиаля<br><small>ТБ-2, гл. 13–21</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Рикс Каменных Луков, кинг Народа Теней-Молний](../assets/portrety/081_s.webp){ loading=lazy }](../assets/portrety/081.webp)
+  <figcaption>Рикс Каменных Луков, кинг Народа Теней-Молний<br><small>ТБ-3 – ТБ-4; ТБ-5, гл. 1–6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: «Тёмный Уголь», слуга под Чужим Лицом](../assets/portrety/082_s.webp){ loading=lazy }](../assets/portrety/082.webp)
+  <figcaption>«Тёмный Уголь», слуга под Чужим Лицом<br><small>ТБ-5, гл. 7–14</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Золотой Восходящий: Холодное Солнце](../assets/portrety/083_s.webp){ loading=lazy }](../assets/portrety/083.webp)
+  <figcaption>Золотой Восходящий: Холодное Солнце<br><small>ТБ-5, гл. 14–20</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Аспекты, формы и оружие героя (отдельные промпты) — Холодное Пламя](../assets/portrety/084_s.webp){ loading=lazy }](../assets/portrety/084.webp)
+  <figcaption>Аспекты, формы и оружие героя (отдельные промпты) — Холодное Пламя<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Аспекты, формы и оружие героя (отдельные промпты) — Холодное Солнце](../assets/portrety/085_s.webp){ loading=lazy }](../assets/portrety/085.webp)
+  <figcaption>Аспекты, формы и оружие героя (отдельные промпты) — Холодное Солнце<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Аспекты, формы и оружие героя (отдельные промпты) — Воплощение Небесного Огня](../assets/portrety/086_s.webp){ loading=lazy }](../assets/portrety/086.webp)
+  <figcaption>Аспекты, формы и оружие героя (отдельные промпты) — Воплощение Небесного Огня<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Аспекты, формы и оружие героя (отдельные промпты) — Игг-Феникс](../assets/portrety/087_s.webp){ loading=lazy }](../assets/portrety/087.webp)
+  <figcaption>Аспекты, формы и оружие героя (отдельные промпты) — Игг-Феникс<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Аспекты, формы и оружие героя (отдельные промпты) — Драконий Клинок](../assets/portrety/088_s.webp){ loading=lazy }](../assets/portrety/088.webp)
+  <figcaption>Аспекты, формы и оружие героя (отдельные промпты) — Драконий Клинок<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Существа-отражения Эстэ: Архитектор](../assets/portrety/148_s.webp){ loading=lazy }](../assets/portrety/148.webp)
+  <figcaption>Архитектор<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Существа-отражения Эстэ: Эсмерра](../assets/portrety/149_s.webp){ loading=lazy }](../assets/portrety/149.webp)
+  <figcaption>Эсмерра<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Существа-отражения Эстэ: Аур-Тален](../assets/portrety/150_s.webp){ loading=lazy }](../assets/portrety/150.webp)
+  <figcaption>Аур-Тален<br><small></small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

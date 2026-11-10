@@ -2,6 +2,25 @@
 
 > См. также: [Белый Дьявол](../personazhi/belyj_dyavol.md) · [Эрин](../personazhi/erin.md) · [Дом Ноктис / Марисса](../personazhi/dom_noktis.md) · [Тысяча Братьев](../personazhi/tysyacha_bratev.md) · [Великие Черви](../personazhi/velikie_chervi.md) · [Хранители](../personazhi/hraniteli.md)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Кейнор, Ледяной Кузнец: Владыка Эргиаля в простом асари](../assets/portrety/089_s.webp){ loading=lazy }](../assets/portrety/089.webp)
+  <figcaption>Владыка Эргиаля в простом асари<br><small>ТБ-2, гл. 13–16</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Кейнор, Ледяной Кузнец: Небесный Кузнец в черном хэлио с амулетом-снежинкой](../assets/portrety/090_s.webp){ loading=lazy }](../assets/portrety/090.webp)
+  <figcaption>Небесный Кузнец в черном хэлио с амулетом-снежинкой<br><small>ТБ-2, гл. 17 – ТБ-5</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Кейнор, Ледяной Кузнец: Лед-кузнецы (Народ Эргиаля) — боевая звезда](../assets/portrety/091_s.webp){ loading=lazy }](../assets/portrety/091.webp)
+  <figcaption>Лед-кузнецы (Народ Эргиаля) — боевая звезда<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Шапка
 
 | Поле | Значение |
