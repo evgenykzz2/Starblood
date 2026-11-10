@@ -87,6 +87,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 20](20-glava-20.md) · [Оглавление](index.md)
+[← Глава 20](22-glava-20.md) · [Оглавление](index.md)
 
 </nav>

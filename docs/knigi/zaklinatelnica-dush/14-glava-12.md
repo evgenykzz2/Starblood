@@ -195,6 +195,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 11](11-glava-11.md) · [Оглавление](index.md) · [Глава 13 →](13-glava-13.md)
+[← Интерлюдия. Эльвейн](13-interlyudiya-elveyn.md) · [Оглавление](index.md) · [Глава 13 →](15-glava-13.md)
 
 </nav>

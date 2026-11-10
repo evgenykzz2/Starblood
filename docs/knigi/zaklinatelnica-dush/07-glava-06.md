@@ -255,6 +255,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 5](05-glava-05.md) · [Оглавление](index.md) · [Глава 7 →](07-glava-07.md)
+[← Глава 5](06-glava-05.md) · [Оглавление](index.md) · [Глава 7 →](08-glava-07.md)
 
 </nav>

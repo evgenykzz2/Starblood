@@ -295,6 +295,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 4](04-glava-04.md) · [Оглавление](index.md) · [Глава 6 →](06-glava-06.md)
+[← Глава 4](05-glava-04.md) · [Оглавление](index.md) · [Глава 6 →](07-glava-06.md)
 
 </nav>

@@ -299,6 +299,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 3](03-glava-03.md) · [Оглавление](index.md) · [Глава 5 →](05-glava-05.md)
+[← Интерлюдия. Эльвейн](04-interlyudiya-elveyn.md) · [Оглавление](index.md) · [Глава 5 →](06-glava-05.md)
 
 </nav>

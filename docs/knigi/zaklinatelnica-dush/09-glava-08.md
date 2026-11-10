@@ -243,6 +243,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 7](07-glava-07.md) · [Оглавление](index.md) · [Глава 9 →](09-glava-09.md)
+[← Глава 7](08-glava-07.md) · [Оглавление](index.md) · [Глава 9 →](10-glava-09.md)
 
 </nav>

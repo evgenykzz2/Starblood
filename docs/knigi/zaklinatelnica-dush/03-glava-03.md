@@ -273,6 +273,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 2](02-glava-02.md) · [Оглавление](index.md) · [Глава 4 →](04-glava-04.md)
+[← Глава 2](02-glava-02.md) · [Оглавление](index.md) · [Интерлюдия. Эльвейн →](04-interlyudiya-elveyn.md)
 
 </nav>

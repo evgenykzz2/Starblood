@@ -201,6 +201,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 16](16-glava-16.md) · [Оглавление](index.md) · [Глава 18 →](18-glava-18.md)
+[← Глава 16](18-glava-16.md) · [Оглавление](index.md) · [Глава 18 →](20-glava-18.md)
 
 </nav>

@@ -287,6 +287,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 6](06-glava-06.md) · [Оглавление](index.md) · [Глава 8 →](08-glava-08.md)
+[← Глава 6](07-glava-06.md) · [Оглавление](index.md) · [Глава 8 →](09-glava-08.md)
 
 </nav>

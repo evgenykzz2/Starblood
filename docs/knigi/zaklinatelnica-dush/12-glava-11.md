@@ -247,6 +247,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 10](10-glava-10.md) · [Оглавление](index.md) · [Глава 12 →](12-glava-12.md)
+[← Глава 10](11-glava-10.md) · [Оглавление](index.md) · [Интерлюдия. Эльвейн →](13-interlyudiya-elveyn.md)
 
 </nav>

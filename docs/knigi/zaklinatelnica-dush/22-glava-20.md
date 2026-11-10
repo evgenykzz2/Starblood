@@ -215,6 +215,6 @@ hide:
 
 <nav class="book-nav" markdown>
 
-[← Глава 19](19-glava-19.md) · [Оглавление](index.md) · [Эпилог. Гость →](21-epilog.md)
+[← Глава 19](21-glava-19.md) · [Оглавление](index.md) · [Эпилог. Гость →](23-epilog.md)
 
 </nav>
