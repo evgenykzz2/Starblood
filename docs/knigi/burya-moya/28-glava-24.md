@@ -5,7 +5,7 @@ hide:
 
 # Глава 24
 
-<p class="chapter-subtitle">Пятнадцать циклов назад</p>
+<p class="chapter-subtitle">Шестнадцать циклов назад</p>
 
 <div class="book-text" markdown>
 
