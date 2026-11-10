@@ -8,6 +8,10 @@
   [![Марк Кассиди (Мрак): «Варвар», командир копья](../assets/portrety/020_s.webp){ loading=lazy }](../assets/portrety/020.webp)
   <figcaption>«Варвар», командир копья<br><small>ЗК-1 — ЗК-6, гл. 26</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Марк Кассиди (Мрак): Осуждённый изгнанник, без руки](../assets/portrety/021_s.webp){ loading=lazy }](../assets/portrety/021.webp)
+  <figcaption>Осуждённый изгнанник, без руки<br><small>ЗК-6, гл. 27–28</small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

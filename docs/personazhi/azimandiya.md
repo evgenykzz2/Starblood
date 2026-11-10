@@ -2,6 +2,21 @@
 
 > См. также: [Белый Дьявол](../personazhi/belyj_dyavol.md) · [Провидица / Ида Сторн](../personazhi/providica.md) · [Морвейн](../personazhi/morvejn.md) · [Флекс Торий](../personazhi/flex-torij.md) · [Моргейн](../personazhi/morgejn.md) (казнь Визуандии) · [Существа Скрижали](../personazhi/sushchestva_skrizhali.md)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Азимандия Визу Аран Аммос: Хозяйка Домена](../assets/portrety/060_s.webp){ loading=lazy }](../assets/portrety/060.webp)
+  <figcaption>Хозяйка Домена<br><small>ЗК-2, гл. 18–23</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Азимандия Визу Аран Аммос: Руна-пленница](../assets/portrety/061_s.webp){ loading=lazy }](../assets/portrety/061.webp)
+  <figcaption>Руна-пленница<br><small>ЗК-3 — ЗК-6</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Шапка
 
 | Поле | Значение |

@@ -1,6 +1,17 @@
 # Говорящая-с-Травами
 
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Говорящая-с-Травами: Говорящая-с-Травами](../assets/portrety/066_s.webp){ loading=lazy }](../assets/portrety/066.webp)
+  <figcaption>Говорящая-с-Травами<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## 1. Шапка
 
 | | |

@@ -107,6 +107,10 @@
   [![Марк Кассиди (Мрак): «Варвар», командир копья](../assets/portrety/020_s.webp){ loading=lazy }](../assets/portrety/020.webp)
   <figcaption><a href="../mark-mrak/">«Варвар», командир копья</a><br><small>ЗК-1 — ЗК-6, гл. 26</small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Марк Кассиди (Мрак): Осуждённый изгнанник, без руки](../assets/portrety/021_s.webp){ loading=lazy }](../assets/portrety/021.webp)
+  <figcaption><a href="../mark-mrak/">Осуждённый изгнанник, без руки</a><br><small>ЗК-6, гл. 27–28</small></figcaption>
+</figure>
 </div>
 
 ## Лэндо Солнечное Крыло
@@ -326,13 +330,154 @@
   [![Гай Флоу: основной облик](../assets/portrety/052_s.webp){ loading=lazy }](../assets/portrety/052.webp)
   <figcaption><a href="../gai-flou/">основной облик</a><br><small></small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Келли Флоу: Келли Флоу](../assets/portrety/069_s.webp){ loading=lazy }](../assets/portrety/069.webp)
+  <figcaption><a href="../gai-flou/">Келли Флоу</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Флекс Торий
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Флекс Торий: основной облик](../assets/portrety/053_s.webp){ loading=lazy }](../assets/portrety/053.webp)
+  <figcaption><a href="../flex-torij/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Йан Воглер (капитан «Хельги»)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Йан Воглер (капитан «Хельги»): основной облик](../assets/portrety/054_s.webp){ loading=lazy }](../assets/portrety/054.webp)
+  <figcaption><a href="../vogler/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Скай («Скай 2.0»)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Скай: основной облик](../assets/portrety/055_s.webp){ loading=lazy }](../assets/portrety/055.webp)
+  <figcaption><a href="../skay/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Сестра Солнца (как она показана в основной серии)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Сестра Солнца: основной облик](../assets/portrety/056_s.webp){ loading=lazy }](../assets/portrety/056.webp)
+  <figcaption><a href="../sestra-solntsa/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Хитрейший (Хранитель Вечности, Хозяин Контракции)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Хитрейший (Хранитель Вечности): основной облик](../assets/portrety/057_s.webp){ loading=lazy }](../assets/portrety/057.webp)
+  <figcaption><a href="../hitreyshiy/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Кыш
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Кыш (йурр): основной облик](../assets/portrety/058_s.webp){ loading=lazy }](../assets/portrety/058.webp)
+  <figcaption><a href="../kysh/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Лохмач (и «второй Лохмач»)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Лохмач: основной облик](../assets/portrety/059_s.webp){ loading=lazy }](../assets/portrety/059.webp)
+  <figcaption><a href="../lohmach/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Азимандия Визу Аран (Аммос)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Азимандия Визу Аран Аммос: Хозяйка Домена](../assets/portrety/060_s.webp){ loading=lazy }](../assets/portrety/060.webp)
+  <figcaption><a href="../azimandiya/">Хозяйка Домена</a><br><small>ЗК-2, гл. 18–23</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Азимандия Визу Аран Аммос: Руна-пленница](../assets/portrety/061_s.webp){ loading=lazy }](../assets/portrety/061.webp)
+  <figcaption><a href="../azimandiya/">Руна-пленница</a><br><small>ЗК-3 — ЗК-6</small></figcaption>
+</figure>
 </div>
 
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный
 
 <div class="portrait-grid" markdown>
 <figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Чёрный скелет в склепе](../assets/portrety/062_s.webp){ loading=lazy }](../assets/portrety/062.webp)
+  <figcaption><a href="../belyj_dyavol/">Чёрный скелет в склепе</a><br><small>ЗК-1, гл. 6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Владыка Аммос при жизни (видения; SK-01, Интерлюдия; SK-07, гл. 5)](../assets/portrety/063_s.webp){ loading=lazy }](../assets/portrety/063.webp)
+  <figcaption><a href="../belyj_dyavol/">Владыка Аммос при жизни (видения; SK-01, Интерлюдия; SK-07, гл. 5)</a><br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): В теле Марка, «осколок Единого»](../assets/portrety/064_s.webp){ loading=lazy }](../assets/portrety/064.webp)
+  <figcaption><a href="../belyj_dyavol/">В теле Марка, «осколок Единого»</a><br><small>ЗК-8, гл. 17 — ЗК-9</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Пламени Подобный в белом плаще-доспехе](../assets/portrety/065_s.webp){ loading=lazy }](../assets/portrety/065.webp)
+  <figcaption><a href="../belyj_dyavol/">Пламени Подобный в белом плаще-доспехе</a><br><small>ЗК-10, гл. 3 — ЗК-11</small></figcaption>
+</figure>
+<figure markdown="span">
   [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)](../assets/portrety/072_s.webp){ loading=lazy }](../assets/portrety/072.webp)
   <figcaption><a href="../belyj_dyavol/">Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Говорящая-с-Травами
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Говорящая-с-Травами: Говорящая-с-Травами](../assets/portrety/066_s.webp){ loading=lazy }](../assets/portrety/066.webp)
+  <figcaption><a href="../govoryashchaya/">Говорящая-с-Травами</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Шон Макдональд
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Шон Макдональд: Шон Макдональд](../assets/portrety/067_s.webp){ loading=lazy }](../assets/portrety/067.webp)
+  <figcaption>Шон Макдональд<br><small></small></figcaption>
+</figure>
+</div>
+
+## Майкл
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Майкл: Майкл](../assets/portrety/068_s.webp){ loading=lazy }](../assets/portrety/068.webp)
+  <figcaption>Майкл<br><small></small></figcaption>
+</figure>
+</div>
+
+## Найра Эль-Кадис
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Найра Эль-Кадис: Найра Эль-Кадис](../assets/portrety/070_s.webp){ loading=lazy }](../assets/portrety/070.webp)
+  <figcaption><a href="../nayra/">Найра Эль-Кадис</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Дирк Кондор
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Дирк Кондор: Дирк Кондор](../assets/portrety/071_s.webp){ loading=lazy }](../assets/portrety/071.webp)
+  <figcaption><a href="../kondor/">Дирк Кондор</a><br><small></small></figcaption>
 </figure>
 </div>

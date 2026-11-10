@@ -8,6 +8,10 @@
   [![Гай Флоу: основной облик](../assets/portrety/052_s.webp){ loading=lazy }](../assets/portrety/052.webp)
   <figcaption>основной облик<br><small></small></figcaption>
 </figure>
+<figure markdown="span">
+  [![Келли Флоу: Келли Флоу](../assets/portrety/069_s.webp){ loading=lazy }](../assets/portrety/069.webp)
+  <figcaption>Келли Флоу<br><small></small></figcaption>
+</figure>
 </div>
 
 Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.

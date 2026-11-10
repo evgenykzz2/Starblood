@@ -1,5 +1,16 @@
 # Лохмач (и «второй Лохмач»)
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Лохмач: основной облик](../assets/portrety/059_s.webp){ loading=lazy }](../assets/portrety/059.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Лохмач (первый)
 
 | | |

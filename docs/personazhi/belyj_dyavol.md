@@ -7,6 +7,22 @@
 
 <div class="portrait-grid" markdown>
 <figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Чёрный скелет в склепе](../assets/portrety/062_s.webp){ loading=lazy }](../assets/portrety/062.webp)
+  <figcaption>Чёрный скелет в склепе<br><small>ЗК-1, гл. 6</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Владыка Аммос при жизни (видения; SK-01, Интерлюдия; SK-07, гл. 5)](../assets/portrety/063_s.webp){ loading=lazy }](../assets/portrety/063.webp)
+  <figcaption>Владыка Аммос при жизни (видения; SK-01, Интерлюдия; SK-07, гл. 5)<br><small></small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): В теле Марка, «осколок Единого»](../assets/portrety/064_s.webp){ loading=lazy }](../assets/portrety/064.webp)
+  <figcaption>В теле Марка, «осколок Единого»<br><small>ЗК-8, гл. 17 — ЗК-9</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Белый Дьявол (как его видит Сигурд): Пламени Подобный в белом плаще-доспехе](../assets/portrety/065_s.webp){ loading=lazy }](../assets/portrety/065.webp)
+  <figcaption>Пламени Подобный в белом плаще-доспехе<br><small>ЗК-10, гл. 3 — ЗК-11</small></figcaption>
+</figure>
+<figure markdown="span">
   [![Белый Дьявол / Дарующий Молнии / Пламени Подобный: Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)](../assets/portrety/072_s.webp){ loading=lazy }](../assets/portrety/072.webp)
   <figcaption>Дарующий Молнии, владыка Эстэ (древность; видения в SK-03 и TB-04)<br><small></small></figcaption>
 </figure>
