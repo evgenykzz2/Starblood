@@ -221,6 +221,113 @@
 </figure>
 </div>
 
+## Аврора Мартинс
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Аврора Мартинс: Координатор](../assets/portrety/040_s.webp){ loading=lazy }](../assets/portrety/040.webp)
+  <figcaption><a href="../avrora/">Координатор</a><br><small>ЗК-5, Интерлюдия; ЗК-11</small></figcaption>
+</figure>
+</div>
+
+## Трейв Уитли (и его сын Тревор Моримото «Мажор»)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Трейв Уитли: «Джентльмен»](../assets/portrety/041_s.webp){ loading=lazy }](../assets/portrety/041.webp)
+  <figcaption><a href="../trejv/">«Джентльмен»</a><br><small>ЗК-1 — ЗК-6</small></figcaption>
+</figure>
+</div>
+
+## Грай
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Грай: Подросток из копья Гая](../assets/portrety/042_s.webp){ loading=lazy }](../assets/portrety/042.webp)
+  <figcaption><a href="../grai/">Подросток из копья Гая</a><br><small>ЗК-1 — ЗК-2</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Грай: Боец копья Сигурда, Древесный Доспех](../assets/portrety/043_s.webp){ loading=lazy }](../assets/portrety/043.webp)
+  <figcaption><a href="../grai/">Боец копья Сигурда, Древесный Доспех</a><br><small>ЗК-5 — ЗК-10</small></figcaption>
+</figure>
+</div>
+
+## Копьё Мрака: Свирель, Рэнди, Мик, Песчанка
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Рэнди: основной облик](../assets/portrety/044_s.webp){ loading=lazy }](../assets/portrety/044.webp)
+  <figcaption><a href="../kopyo-mraka/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Серена Лафайет
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Серена Лафайет: В экзоскелете](../assets/portrety/045_s.webp){ loading=lazy }](../assets/portrety/045.webp)
+  <figcaption><a href="../serena/">В экзоскелете</a><br><small>ЗК-1 — ЗК-8</small></figcaption>
+</figure>
+<figure markdown="span">
+  [![Серена Лафайет: Вне службы](../assets/portrety/046_s.webp){ loading=lazy }](../assets/portrety/046.webp)
+  <figcaption><a href="../serena/">Вне службы</a><br><small>ЗК-2, гл. 8</small></figcaption>
+</figure>
+</div>
+
+## Ассоль (Патриция Эванс)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Ассоль: основной облик](../assets/portrety/047_s.webp){ loading=lazy }](../assets/portrety/047.webp)
+  <figcaption><a href="../assol/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Андре Кроу («Птица» → Ворон)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Андре Кроу: основной облик](../assets/portrety/048_s.webp){ loading=lazy }](../assets/portrety/048.webp)
+  <figcaption><a href="../krou/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Элли (Элеонора) Кардо
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Элли (Элеонора) Кардо: основной облик](../assets/portrety/049_s.webp){ loading=lazy }](../assets/portrety/049.webp)
+  <figcaption><a href="../kardo/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Мико (драконья Руна-когитор Ордена Истинных)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Мико: основной облик](../assets/portrety/050_s.webp){ loading=lazy }](../assets/portrety/050.webp)
+  <figcaption><a href="../miko/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Эрда Онора (Онора Эверент Ноктис кел Аммос)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Эрда Онора: основной облик](../assets/portrety/051_s.webp){ loading=lazy }](../assets/portrety/051.webp)
+  <figcaption><a href="../onora/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
+## Гай Флоу (и Келли Флоу)
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Гай Флоу: основной облик](../assets/portrety/052_s.webp){ loading=lazy }](../assets/portrety/052.webp)
+  <figcaption><a href="../gai-flou/">основной облик</a><br><small></small></figcaption>
+</figure>
+</div>
+
 ## Белый Дьявол / Дарующий Молнии / Пламени Подобный
 
 <div class="portrait-grid" markdown>

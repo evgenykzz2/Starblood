@@ -1,6 +1,17 @@
 # Гай Флоу (и Келли Флоу)
 
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Гай Флоу: основной облик](../assets/portrety/052_s.webp){ loading=lazy }](../assets/portrety/052.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Гай Флоу
 
 | | |

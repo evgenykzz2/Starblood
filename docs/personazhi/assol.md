@@ -17,3 +17,14 @@
 - ЗК-11: командир копья.
 
 **Тайна:** детство одной из первых рождённых в Единстве (ЗК-7 §12).
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Ассоль: основной облик](../assets/portrety/047_s.webp){ loading=lazy }](../assets/portrety/047.webp)
+  <figcaption>основной облик<br><small></small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+

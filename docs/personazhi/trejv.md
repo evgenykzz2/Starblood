@@ -4,6 +4,17 @@
 
 ---
 
+## Облики на иллюстрациях
+
+<div class="portrait-grid" markdown>
+<figure markdown="span">
+  [![Трейв Уитли: «Джентльмен»](../assets/portrety/041_s.webp){ loading=lazy }](../assets/portrety/041.webp)
+  <figcaption>«Джентльмен»<br><small>ЗК-1 — ЗК-6</small></figcaption>
+</figure>
+</div>
+
+Иллюстрации созданы нейросетью по описаниям из книг; это трактовка, а не официальный арт.
+
 ## Часть 1. Трейв Уитли
 
 | | |
