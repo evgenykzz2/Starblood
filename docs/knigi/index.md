@@ -29,7 +29,7 @@
 </div>
 
 <div class="book-card" markdown>
-
+<a href="serebryanyj-zamok/"><img src="serebryanyj-zamok/cover.jpg" alt="Серебряный Замок" class="book-thumb"></a>
 
 **3. [Серебряный Замок](serebryanyj-zamok/index.md)**
 
