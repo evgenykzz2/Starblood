@@ -20,7 +20,7 @@ hide:
 
 Неофициальный фанфик-приквел к циклам «Звездная Кровь» и «Тысяча Братьев». Все права на мир и персонажей принадлежат Роману Прокофьеву.
 
-[Читать онлайн](00-prolog.md){ .md-button .md-button--primary } [Скачать FB2](serebryanyj-zamok.fb2){ .md-button } [FB2 с «ё»](serebryanyj-zamok-yo.fb2){ .md-button }
+[Читать онлайн](00-prolog.md){ .md-button .md-button--primary } [Скачать FB2](serebryanyj-zamok.fb2){ .md-button }
 
 ## Оглавление
 

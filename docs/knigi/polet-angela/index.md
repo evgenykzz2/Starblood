@@ -24,7 +24,7 @@ hide:
 
 Неофициальный фанфик-приквел к циклу «Звездная Кровь». Все права на мир и персонажей принадлежат Роману Прокофьеву.
 
-[Читать онлайн](00-prolog.md){ .md-button .md-button--primary } [Скачать FB2](polet-angela.fb2){ .md-button } [FB2 с «ё»](polet-angela-yo.fb2){ .md-button }
+[Читать онлайн](00-prolog.md){ .md-button .md-button--primary } [Скачать FB2](polet-angela.fb2){ .md-button }
 
 ## Оглавление
 
