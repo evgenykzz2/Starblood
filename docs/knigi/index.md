@@ -40,7 +40,7 @@
 </div>
 
 <div class="book-card" markdown>
-
+<a href="polet-angela/"><img src="polet-angela/cover.jpg" alt="Полет Ангела" class="book-thumb"></a>
 
 **4. [Полет Ангела](polet-angela/index.md)**
 
