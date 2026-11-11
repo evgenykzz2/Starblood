@@ -1,0 +1,115 @@
+{
+ "slug": "polet-angela",
+ "order": 4,
+ "title": "Полет Ангела",
+ "index": "knigi/polet-angela/index.md",
+ "pages": [
+  [
+   "Пролог",
+   "knigi/polet-angela/00-prolog.md"
+  ],
+  [
+   "Глава 1",
+   "knigi/polet-angela/01-glava-01.md"
+  ],
+  [
+   "Интерлюдия. Полет Ангела",
+   "knigi/polet-angela/02-interlyudiya-polet-angela.md"
+  ],
+  [
+   "Глава 2",
+   "knigi/polet-angela/03-glava-02.md"
+  ],
+  [
+   "Глава 3",
+   "knigi/polet-angela/04-glava-03.md"
+  ],
+  [
+   "Глава 4",
+   "knigi/polet-angela/05-glava-04.md"
+  ],
+  [
+   "Глава 5",
+   "knigi/polet-angela/06-glava-05.md"
+  ],
+  [
+   "Глава 6",
+   "knigi/polet-angela/07-glava-06.md"
+  ],
+  [
+   "Глава 7",
+   "knigi/polet-angela/08-glava-07.md"
+  ],
+  [
+   "Глава 8",
+   "knigi/polet-angela/09-glava-08.md"
+  ],
+  [
+   "Глава 9",
+   "knigi/polet-angela/10-glava-09.md"
+  ],
+  [
+   "Глава 10",
+   "knigi/polet-angela/11-glava-10.md"
+  ],
+  [
+   "Глава 11",
+   "knigi/polet-angela/12-glava-11.md"
+  ],
+  [
+   "Глава 12",
+   "knigi/polet-angela/13-glava-12.md"
+  ],
+  [
+   "Глава 13",
+   "knigi/polet-angela/14-glava-13.md"
+  ],
+  [
+   "Глава 14",
+   "knigi/polet-angela/15-glava-14.md"
+  ],
+  [
+   "Глава 15",
+   "knigi/polet-angela/16-glava-15.md"
+  ],
+  [
+   "Интерлюдия. Рэйчел",
+   "knigi/polet-angela/17-interlyudiya-reychel.md"
+  ],
+  [
+   "Глава 16",
+   "knigi/polet-angela/18-glava-16.md"
+  ],
+  [
+   "Глава 17",
+   "knigi/polet-angela/19-glava-17.md"
+  ],
+  [
+   "Глава 18",
+   "knigi/polet-angela/20-glava-18.md"
+  ],
+  [
+   "Глава 19",
+   "knigi/polet-angela/21-glava-19.md"
+  ],
+  [
+   "Глава 20",
+   "knigi/polet-angela/22-glava-20.md"
+  ],
+  [
+   "Глава 21",
+   "knigi/polet-angela/23-glava-21.md"
+  ],
+  [
+   "Глава 22",
+   "knigi/polet-angela/24-glava-22.md"
+  ],
+  [
+   "Эпилог. Позывной",
+   "knigi/polet-angela/25-epilog.md"
+  ]
+ ],
+ "subtitle": "Рынок душ. Книга третья. Фанфик-приквел по циклу Романа Прокофьева «Звездная Кровь»",
+ "status": "Написан целиком: пролог, 22 главы, 2 интерлюдии и эпилог. Выверен по памятке проверок: канон, связность, ошибки, манера автора, термины мира, жесткость.",
+ "cover": false
+}
