@@ -18,7 +18,7 @@
 </div>
 
 <div class="book-card" markdown>
-
+<a href="zaklinatelnica-dush/"><img src="zaklinatelnica-dush/cover.jpg" alt="Заклинательница душ" class="book-thumb"></a>
 
 **2. [Заклинательница душ](zaklinatelnica-dush/index.md)**
 
