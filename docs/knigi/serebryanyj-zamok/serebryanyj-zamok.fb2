@@ -6,7 +6,7 @@
 <author><nickname>Starblood</nickname></author>
 <book-title>Серебряный Замок</book-title>
 <annotation><p>Тысячу циклов она не менялась. Двадцать восемь циклов назад ударил Колокол, и она украла тайну, за которую Хранители не прощают.</p><p>Теперь у нее есть Замок, дверь в который открывается только изнутри, и коллекция, где каждому гостю найдется место.</p><p>Кто придет, когда ключ повернется снаружи?</p><p>Неофициальный фанфик-приквел к циклам «Звездная Кровь» и «Тысяча Братьев». Все права на мир и персонажей принадлежат Роману Прокофьеву.</p><p>Написан целиком: пролог, 18 глав, интерлюдия и эпилог. Выверен по памятке проверок: канон, связность, ошибки, манера автора, жесткость.</p></annotation>
-<date value="2026-11-11">2026-11-11</date>
+<date value="2026-11-12">2026-11-12</date>
 <coverpage><image l:href="#cover.jpg"/></coverpage>
 <lang>ru</lang>
 <sequence name="Рынок душ" number="2"/>
@@ -14,7 +14,7 @@
 <document-info>
 <author><nickname>Starblood</nickname></author>
 <program-used>star-blood tools/build_book.py</program-used>
-<date value="2026-11-11">2026-11-11</date>
+<date value="2026-11-12">2026-11-12</date>
 <id>b03dfad1-ea44-560a-8c99-4407d2e29b05</id>
 <version>0.21</version>
 </document-info>

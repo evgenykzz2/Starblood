@@ -1,0 +1,107 @@
+{
+ "slug": "syn-buri",
+ "order": 2,
+ "title": "Сын бури",
+ "index": "knigi/syn-buri/index.md",
+ "pages": [
+  [
+   "Пролог",
+   "knigi/syn-buri/00-prolog.md"
+  ],
+  [
+   "Глава 1",
+   "knigi/syn-buri/01-glava-01.md"
+  ],
+  [
+   "Глава 2",
+   "knigi/syn-buri/02-glava-02.md"
+  ],
+  [
+   "Глава 3",
+   "knigi/syn-buri/03-glava-03.md"
+  ],
+  [
+   "Глава 4",
+   "knigi/syn-buri/04-glava-04.md"
+  ],
+  [
+   "Глава 5",
+   "knigi/syn-buri/05-glava-05.md"
+  ],
+  [
+   "Интерлюдия. Говорящая",
+   "knigi/syn-buri/06-interlyudiya-govoryashchaya.md"
+  ],
+  [
+   "Глава 6",
+   "knigi/syn-buri/07-glava-06.md"
+  ],
+  [
+   "Глава 7",
+   "knigi/syn-buri/08-glava-07.md"
+  ],
+  [
+   "Глава 8",
+   "knigi/syn-buri/09-glava-08.md"
+  ],
+  [
+   "Глава 9",
+   "knigi/syn-buri/10-glava-09.md"
+  ],
+  [
+   "Глава 10",
+   "knigi/syn-buri/11-glava-10.md"
+  ],
+  [
+   "Глава 11",
+   "knigi/syn-buri/12-glava-11.md"
+  ],
+  [
+   "Глава 12",
+   "knigi/syn-buri/13-glava-12.md"
+  ],
+  [
+   "Интерлюдия. Белая маска",
+   "knigi/syn-buri/14-interlyudiya-belaya-maska.md"
+  ],
+  [
+   "Глава 13",
+   "knigi/syn-buri/15-glava-13.md"
+  ],
+  [
+   "Глава 14",
+   "knigi/syn-buri/16-glava-14.md"
+  ],
+  [
+   "Глава 15",
+   "knigi/syn-buri/17-glava-15.md"
+  ],
+  [
+   "Глава 16",
+   "knigi/syn-buri/18-glava-16.md"
+  ],
+  [
+   "Глава 17",
+   "knigi/syn-buri/19-glava-17.md"
+  ],
+  [
+   "Интерлюдия. Гай",
+   "knigi/syn-buri/20-interlyudiya-gaj.md"
+  ],
+  [
+   "Глава 18",
+   "knigi/syn-buri/21-glava-18.md"
+  ],
+  [
+   "Интерлюдия. Травинка",
+   "knigi/syn-buri/22-interlyudiya-travinka.md"
+  ],
+  [
+   "Эпилог",
+   "knigi/syn-buri/23-epilog.md"
+  ]
+ ],
+ "subtitle": "Фанфик-продолжение «Бури моей» по циклу Романа Прокофьева «Звездная Кровь». Дилогия о Марке, книга первая",
+ "status": "Написан целиком: пролог, 18 глав, 4 интерлюдии и эпилог. Выверен по памятке проверок: канон, связность, ошибки, манера автора, жесткость.",
+ "cover": false
+}
