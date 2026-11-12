@@ -29,9 +29,20 @@
 </div>
 
 <div class="book-card" markdown>
+
+
+**3. [Мрак](mrak/index.md)**
+
+Фанфик-продолжение «Сына бури» по циклу Романа Прокофьева «Звездная Кровь». Дилогия о Марке, книга вторая
+
+Написан целиком: пролог, 18 глав, 4 интерлюдии и эпилог. Выверен по памятке проверок: канон, связность, ошибки, манера автора, жесткость.
+
+</div>
+
+<div class="book-card" markdown>
 <a href="zaklinatelnica-dush/"><img src="zaklinatelnica-dush/cover.jpg" alt="Заклинательница душ" class="book-thumb"></a>
 
-**3. [Заклинательница душ](zaklinatelnica-dush/index.md)**
+**4. [Заклинательница душ](zaklinatelnica-dush/index.md)**
 
 Рынок душ. Книга первая. Фанфик-приквел по циклам Романа Прокофьева «Звездная Кровь» и «Тысяча Братьев»
 
@@ -42,7 +53,7 @@
 <div class="book-card" markdown>
 <a href="serebryanyj-zamok/"><img src="serebryanyj-zamok/cover.jpg" alt="Серебряный Замок" class="book-thumb"></a>
 
-**4. [Серебряный Замок](serebryanyj-zamok/index.md)**
+**5. [Серебряный Замок](serebryanyj-zamok/index.md)**
 
 Рынок душ. Книга вторая. Фанфик-приквел по циклам Романа Прокофьева «Звездная Кровь» и «Тысяча Братьев»
 
@@ -53,7 +64,7 @@
 <div class="book-card" markdown>
 <a href="polet-angela/"><img src="polet-angela/cover.jpg" alt="Полет Ангела" class="book-thumb"></a>
 
-**5. [Полет Ангела](polet-angela/index.md)**
+**6. [Полет Ангела](polet-angela/index.md)**
 
 Рынок душ. Книга третья. Фанфик-приквел по циклу Романа Прокофьева «Звездная Кровь»
 

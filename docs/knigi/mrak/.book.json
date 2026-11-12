@@ -1,0 +1,107 @@
+{
+ "slug": "mrak",
+ "order": 3,
+ "title": "Мрак",
+ "index": "knigi/mrak/index.md",
+ "pages": [
+  [
+   "Пролог",
+   "knigi/mrak/00-prolog.md"
+  ],
+  [
+   "Глава 1",
+   "knigi/mrak/01-glava-01.md"
+  ],
+  [
+   "Глава 2",
+   "knigi/mrak/02-glava-02.md"
+  ],
+  [
+   "Интерлюдия. Свирель",
+   "knigi/mrak/03-interlyudiya-svirel.md"
+  ],
+  [
+   "Глава 3",
+   "knigi/mrak/04-glava-03.md"
+  ],
+  [
+   "Глава 4",
+   "knigi/mrak/05-glava-04.md"
+  ],
+  [
+   "Глава 5",
+   "knigi/mrak/06-glava-05.md"
+  ],
+  [
+   "Глава 6",
+   "knigi/mrak/07-glava-06.md"
+  ],
+  [
+   "Глава 7",
+   "knigi/mrak/08-glava-07.md"
+  ],
+  [
+   "Глава 8",
+   "knigi/mrak/09-glava-08.md"
+  ],
+  [
+   "Глава 9",
+   "knigi/mrak/10-glava-09.md"
+  ],
+  [
+   "Интерлюдия. Гай Флоу",
+   "knigi/mrak/11-interlyudiya-gaj.md"
+  ],
+  [
+   "Глава 10",
+   "knigi/mrak/12-glava-10.md"
+  ],
+  [
+   "Глава 11",
+   "knigi/mrak/13-glava-11.md"
+  ],
+  [
+   "Глава 12",
+   "knigi/mrak/14-glava-12.md"
+  ],
+  [
+   "Глава 13",
+   "knigi/mrak/15-glava-13.md"
+  ],
+  [
+   "Глава 14",
+   "knigi/mrak/16-glava-14.md"
+  ],
+  [
+   "Глава 15",
+   "knigi/mrak/17-glava-15.md"
+  ],
+  [
+   "Глава 16",
+   "knigi/mrak/18-glava-16.md"
+  ],
+  [
+   "Интерлюдия. Фламиника",
+   "knigi/mrak/19-interlyudiya-flaminika.md"
+  ],
+  [
+   "Глава 17",
+   "knigi/mrak/20-glava-17.md"
+  ],
+  [
+   "Интерлюдия. Лиза",
+   "knigi/mrak/21-interlyudiya-liza.md"
+  ],
+  [
+   "Глава 18",
+   "knigi/mrak/22-glava-18.md"
+  ],
+  [
+   "Эпилог",
+   "knigi/mrak/23-epilog.md"
+  ]
+ ],
+ "subtitle": "Фанфик-продолжение «Сына бури» по циклу Романа Прокофьева «Звездная Кровь». Дилогия о Марке, книга вторая",
+ "status": "Написан целиком: пролог, 18 глав, 4 интерлюдии и эпилог. Выверен по памятке проверок: канон, связность, ошибки, манера автора, жесткость.",
+ "cover": false
+}
