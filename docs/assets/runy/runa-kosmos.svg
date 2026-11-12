@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Космос">
+<defs><radialGradient id="bg-runa-kosmos" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-kosmos" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-kosmos)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M33.2 24.6 L35.7 27.8 M59.4 14.2 L59.8 18.2 M87.1 19.6 L85.2 23.2 M107.4 39.1 L103.9 41.1 M113.9 66.5 L109.9 66.3 M104.6 93.1 L101.4 90.8 M82.4 110.5 L81.0 106.8 M54.4 113.1 L55.9 105.2 M29.4 100.1 L32.2 97.2 M15.4 75.6 L19.3 74.7 M16.8 47.5 L20.6 48.8" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-kosmos)"><path d="M64 88 L40 40 M64 40 L88 40 M40 40 L40 88"/><circle cx="88" cy="40" r="5"/></g>
+
+</svg>

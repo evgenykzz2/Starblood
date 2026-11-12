@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Говорящей-с-Травами">
+<defs><radialGradient id="bg-runa-govoryaschey-s-trav" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-govoryaschey-s-trav" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-govoryaschey-s-trav)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M31.2 101.7 L33.8 98.7 M18.7 85.1 L22.3 83.4 M14.0 64.9 L22.0 64.7 M18.0 44.5 L21.7 46.0 M29.9 27.4 L35.4 33.3 M47.7 16.7 L50.3 24.3 M68.4 14.2 L68.0 18.2 M88.2 20.3 L84.4 27.3 M103.9 33.9 L100.7 36.3 M112.7 52.8 L108.8 53.7 M113.1 73.5 L105.2 72.0 M105.0 92.7 L101.7 90.4 M89.8 106.9 L85.6 100.0 M70.1 113.6 L69.1 105.7 M49.4 111.8 L50.6 108.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-govoryaschey-s-trav)"><path d="M64 102 L64 40 M64 62 L46 46 M64 76 L84 60 M64 48 Q72 32 64 24 Q56 32 64 48"/></g>
+
+</svg>

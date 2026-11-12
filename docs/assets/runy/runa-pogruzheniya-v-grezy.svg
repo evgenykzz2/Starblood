@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Руна Погружения-в-Грезы">
+<defs><radialGradient id="bg-runa-pogruzheniya-v-grez" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#1d1a2e"/><stop offset="1" stop-color="#07060d"/></radialGradient>
+<filter id="gl-runa-pogruzheniya-v-grez" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="64" cy="64" r="60" fill="url(#bg-runa-pogruzheniya-v-grez)" stroke="#5f7d8c" stroke-width="3.5"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#5f7d8c" stroke-width="1" opacity=".7"/>
+<path d="M35.3 23.0 L37.6 26.3 M64.9 14.0 L64.8 18.0 M94.1 24.1 L91.7 27.3 M111.8 49.4 L108.0 50.6 M111.3 80.3 L107.5 79.0 M92.7 105.0 L90.4 101.7 M63.1 114.0 L63.3 106.0 M33.9 103.9 L38.7 97.5 M16.2 78.6 L20.0 77.4 M16.7 47.7 L20.5 49.0" stroke="#5f7d8c" stroke-width="1.6" opacity=".9"/>
+<g fill="none" stroke="#a9c6d6" color="#a9c6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl-runa-pogruzheniya-v-grez)"><g transform="translate(58 70) scale(0.8) translate(-64 -64)"><path d="M64 28 L64 98 M42 76 L64 98 L86 76 M48 44 L80 44"/></g><g stroke-width="7.5"><g transform="translate(93 35) scale(0.36) translate(-64 -64)"><circle cx="64" cy="64" r="14" fill="currentColor"/></g></g></g>
+
+</svg>

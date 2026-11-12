@@ -397,7 +397,7 @@
 
 ![Универсальная Руна](../assets/runy/universalnaya-runa.svg){ .rune-ico-lg loading=lazy title="Может быть преобразована в любую Руну-Свойство равного качества." }
 <span class="rune-name">Универсальная Руна</span>
-<span class="rune-meta">ЗК-4, Глава 21</span>
+<span class="rune-meta">Руна-Свойство · ЗК-4, Глава 21</span>
 
 </div>
 
@@ -411,7 +411,7 @@
 
 </div>
 
-## Серебро <small>(44)</small>
+## Серебро <small>(45)</small>
 
 <div class="rune-grid" markdown>
 
@@ -449,7 +449,7 @@
 
 <div class="rune-item" markdown>
 
-![Домен Пламенный Лабиринт](../assets/runy/domen-plamennyy-labirint.svg){ .rune-ico-lg loading=lazy title="В лабиринте из вечного огня ты найдешь серебряное сокровище, если выдержишь испытания! А третья походила на птицу, распростершую крылья: Домен Кровавого Феникса Это смертельное испытание под сигной Кровавого Феникса. Тот, кто вошел, должен сразиться с другим Восходящим. Покинуть арену сможет только " }
+![Домен Пламенный Лабиринт](../assets/runy/domen-plamennyy-labirint.svg){ .rune-ico-lg loading=lazy title="В лабиринте из вечного огня ты найдешь серебряное сокровище, если выдержишь испытания! А третья походила на птицу, распростершую крылья:" }
 <span class="rune-name">Домен Пламенный Лабиринт</span>
 <span class="rune-meta">Руна-Башня · ЗК-6, Глава 16</span>
 
@@ -489,6 +489,14 @@
 
 <div class="rune-item" markdown>
 
+![Запечатанная Драконья Клетка Душ](../assets/runy/zapechatannaya-drakonya-kletka-dush.svg){ .rune-ico-lg loading=lazy title="С одержит сосуд-хранилище, созданный по древним технологиям Народа Кел. Улавливает и втягивает внутрь душу владельца (а также его Звездную Кровь) в момент смерти, не позволяя ей уйти за Грань. Может содержать неограниченное количество душ. Внимание: сосуд запечатан. При вскрытии печати все содержащи" }
+<span class="rune-name">Запечатанная Драконья Клетка Душ</span>
+<span class="rune-meta">Руна-Хранилище, Руна-Предмет · ЗК-8, Глава 15</span>
+
+</div>
+
+<div class="rune-item" markdown>
+
 ![Кислотная Жидкость](../assets/runy/kislotnaya-zhidkost.svg){ .rune-ico-lg loading=lazy title="Наделяет способностью выделять разъедающую органическую кислоту. Внимание: ее воздействие распространяется в том числе на ваше собственное тело. Применяйте с осторожностью." }
 <span class="rune-name">Кислотная Жидкость</span>
 <span class="rune-meta">Руна-Умение · ЗК-6, Глава 2</span>
@@ -497,7 +505,7 @@
 
 <div class="rune-item" markdown>
 
-![Колесо-в-Глубинах](../assets/runy/koleso-v-glubinah.svg){ .rune-ico-lg loading=lazy title="Восходящий должен пройти череду смертельных испытаний, вращая Колесо. Каждая его остановка — уникальное задание, которое может принести Руну… или смерть. Семя Домена Зародыш Домена, дарующий кристалл-сферу серебряного ранга, ведущую на камень в ее пустотной глубине. Получив его, Восходящий становитс" }
+![Колесо-в-Глубинах](../assets/runy/koleso-v-glubinah.svg){ .rune-ico-lg loading=lazy title="Восходящий должен пройти череду смертельных испытаний, вращая Колесо. Каждая его остановка — уникальное задание, которое может принести Руну… или смерть." }
 <span class="rune-name">Колесо-в-Глубинах</span>
 <span class="rune-meta">Руна-Башня · ТБ-2, Глава 5</span>
 
@@ -529,7 +537,7 @@
 
 <div class="rune-item" markdown>
 
-![Пещеры Древнего Света](../assets/runy/peschery-drevnego-sveta.svg){ .rune-ico-lg loading=lazy title="В этих Пещерах мерцают отблески Звездной Крови. Священные знания ждут паломников, желающих идти по великой лестнице Восхождения… Колесо-в-Глубинах Восходящий должен пройти череду смертельных испытаний, вращая Колесо. Каждая его остановка — уникальное задание, которое может принести Руну… или смерть." }
+![Пещеры Древнего Света](../assets/runy/peschery-drevnego-sveta.svg){ .rune-ico-lg loading=lazy title="В этих Пещерах мерцают отблески Звездной Крови. Священные знания ждут паломников, желающих идти по великой лестнице Восхождения…" }
 <span class="rune-name">Пещеры Древнего Света</span>
 <span class="rune-meta">Руна-Храм · ТБ-2, Глава 5</span>
 
@@ -809,7 +817,7 @@
 
 ![Расширенная Сумка Искателя](../assets/runy/rasshirennaya-sumka-iskatelya.svg){ .rune-ico-lg loading=lazy title="Используется для хранения. Не может хранить живое. Не может хранить вещи, размером превышающие человека. Не может хранить Руны-Предметы." }
 <span class="rune-name">Расширенная Сумка Искателя</span>
-<span class="rune-meta">ЗК-3, Глава 3</span>
+<span class="rune-meta">Руна-Хранилище · ЗК-3, Глава 3</span>
 
 </div>
 
@@ -905,7 +913,7 @@
 
 ![Руна Пылающих Рук](../assets/runy/runa-pylayuschih-ruk.svg){ .rune-ico-lg loading=lazy title="Создает обжигающую ауру, исходящую от ваших рук. Внимание: Любое прикосновение к посторонним объектам (в том числе к собственному телу) может повредить их." }
 <span class="rune-name">Руна Пылающих Рук</span>
-<span class="rune-meta">ЗК-3, Глава 5</span>
+<span class="rune-meta">Руна-Заклинание · ЗК-3, Глава 5</span>
 
 </div>
 
@@ -1055,7 +1063,7 @@
 
 ![Руна Боя-без-Оружия](../assets/runy/runa-boya-bez-oruzhiya.svg){ .rune-ico-lg loading=lazy title="При активации обучает навыку Боя-без-Оружия (качество дерево). После активации Руна исчезает." }
 <span class="rune-name">Руна Боя-без-Оружия</span>
-<span class="rune-meta">ЗК-1, Глава 14</span>
+<span class="rune-meta">Руна-Навык · ЗК-1, Глава 14</span>
 
 </div>
 
@@ -1095,7 +1103,7 @@
 
 ![Руна Языка (Единый)](../assets/runy/runa-yazyka-edinyy.svg){ .rune-ico-lg loading=lazy title="При активации обучает начальному Знанию Единого Языка. После активации Руна исчезает." }
 <span class="rune-name">Руна Языка (Единый)</span>
-<span class="rune-meta">ЗК-3, Глава 3</span>
+<span class="rune-meta">Руна-Навык · ЗК-3, Глава 3</span>
 
 </div>
 
@@ -1131,13 +1139,13 @@
 
 ![Руна Чуткого Уха](../assets/runy/runa-chutkogo-uha.svg){ .rune-ico-lg loading=lazy title="При активации значительно обостряет слуховое восприятие, позволяя слышать в большем радиусе и на ранее недоступных частотах." }
 <span class="rune-name">Руна Чуткого Уха</span>
-<span class="rune-meta">ЗК-1, Глава 8</span>
+<span class="rune-meta">Руна-Умение · ЗК-1, Глава 8</span>
 
 </div>
 
 </div>
 
-## Ранг в тексте не указан <small>(80)</small>
+## Ранг в тексте не указан <small>(84)</small>
 
 <div class="rune-grid" markdown>
 
@@ -1207,7 +1215,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Времени](../assets/runy/runa-vremeni.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 2" }
+![Руна Времени](../assets/runy/runa-vremeni.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 3" }
 <span class="rune-name">Руна Времени</span>
 <span class="rune-meta">ЗК-8, Глава 9, стр. 896</span>
 
@@ -1223,9 +1231,17 @@
 
 <div class="rune-item" markdown>
 
-![Руна Гипнотизма](../assets/runy/runa-gipnotizma.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 5" }
+![Руна Гипнотизма](../assets/runy/runa-gipnotizma.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 6" }
 <span class="rune-name">Руна Гипнотизма</span>
 <span class="rune-meta">ЗК-4, Глава 2, стр. 202</span>
+
+</div>
+
+<div class="rune-item" markdown>
+
+![Руна Говорящей-с-Травами](../assets/runy/runa-govoryaschey-s-travami.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 3" }
+<span class="rune-name">Руна Говорящей-с-Травами</span>
+<span class="rune-meta">ЗК-6, Глава 17, стр. 1672</span>
 
 </div>
 
@@ -1279,7 +1295,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Забвения](../assets/runy/runa-zabveniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 21" }
+![Руна Забвения](../assets/runy/runa-zabveniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 22" }
 <span class="rune-name">Руна Забвения</span>
 <span class="rune-meta">ЗК-3, Глава 16, стр. 1467</span>
 
@@ -1287,9 +1303,9 @@
 
 <div class="rune-item" markdown>
 
-![Руна Запечатления](../assets/runy/runa-zapechatleniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 3" }
+![Руна Запечатления](../assets/runy/runa-zapechatleniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 4" }
 <span class="rune-name">Руна Запечатления</span>
-<span class="rune-meta">ЗК-7, Глава 8, стр. 935</span>
+<span class="rune-meta">ЗК-4, Глава 14, стр. 1268</span>
 
 </div>
 
@@ -1353,7 +1369,15 @@
 
 ![Руна Кнута](../assets/runy/runa-knuta.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 3" }
 <span class="rune-name">Руна Кнута</span>
-<span class="rune-meta">ЗК-5, Глава 1, стр. 84</span>
+<span class="rune-meta">ЗК-4, Глава 24, стр. 2170</span>
+
+</div>
+
+<div class="rune-item" markdown>
+
+![Руна Космос](../assets/runy/runa-kosmos.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 2" }
+<span class="rune-name">Руна Космос</span>
+<span class="rune-meta">ЗК-12, Пролог. Великие Руны, стр. 26</span>
 
 </div>
 
@@ -1410,6 +1434,14 @@
 ![Руна Морозной Закалки](../assets/runy/runa-moroznoy-zakalki.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 2" }
 <span class="rune-name">Руна Морозной Закалки</span>
 <span class="rune-meta">ЗК-8, Глава 19, стр. 2009</span>
+
+</div>
+
+<div class="rune-item" markdown>
+
+![Руна Навыков](../assets/runy/runa-navykov.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 2" }
+<span class="rune-name">Руна Навыков</span>
+<span class="rune-meta">ЗК-2, Глава 18, стр. 1560</span>
 
 </div>
 
@@ -1511,7 +1543,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Очищения](../assets/runy/runa-ochischeniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 7" }
+![Руна Очищения](../assets/runy/runa-ochischeniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 8" }
 <span class="rune-name">Руна Очищения</span>
 <span class="rune-meta">ЗК-3, Глава 18, стр. 1597</span>
 
@@ -1535,9 +1567,17 @@
 
 <div class="rune-item" markdown>
 
-![Руна Повышения](../assets/runy/runa-povysheniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 17" }
+![Руна Повышения](../assets/runy/runa-povysheniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 18" }
 <span class="rune-name">Руна Повышения</span>
 <span class="rune-meta">ЗК-3, Глава 17, стр. 1544</span>
+
+</div>
+
+<div class="rune-item" markdown>
+
+![Руна Погружения-в-Грезы](../assets/runy/runa-pogruzheniya-v-grezy.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 3" }
+<span class="rune-name">Руна Погружения-в-Грезы</span>
+<span class="rune-meta">ЗК-9, Глава 6, стр. 579</span>
 
 </div>
 
@@ -1567,7 +1607,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Привязки](../assets/runy/runa-privyazki.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 4" }
+![Руна Привязки](../assets/runy/runa-privyazki.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 5" }
 <span class="rune-name">Руна Привязки</span>
 <span class="rune-meta">ЗК-3, Глава 18, стр. 1594</span>
 
@@ -1599,9 +1639,9 @@
 
 <div class="rune-item" markdown>
 
-![Руна Путеводной Звезды](../assets/runy/runa-putevodnoy-zvezdy.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 4" }
+![Руна Путеводной Звезды](../assets/runy/runa-putevodnoy-zvezdy.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 6" }
 <span class="rune-name">Руна Путеводной Звезды</span>
-<span class="rune-meta">ЗК-7, Глава 8, стр. 935</span>
+<span class="rune-meta">ЗК-4, Глава 14, стр. 1268</span>
 
 </div>
 
@@ -1719,7 +1759,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Уменьшения](../assets/runy/runa-umensheniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 14" }
+![Руна Уменьшения](../assets/runy/runa-umensheniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 15" }
 <span class="rune-name">Руна Уменьшения</span>
 <span class="rune-meta">ЗК-2, Глава 6, стр. 448</span>
 
@@ -1727,7 +1767,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Усиления](../assets/runy/runa-usileniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 44" }
+![Руна Усиления](../assets/runy/runa-usileniya.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 46" }
 <span class="rune-name">Руна Усиления</span>
 <span class="rune-meta">ЗК-2, Глава 6, стр. 448</span>
 
@@ -1735,7 +1775,7 @@
 
 <div class="rune-item" markdown>
 
-![Руна Хронос](../assets/runy/runa-hronos.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 16" }
+![Руна Хронос](../assets/runy/runa-hronos.svg){ .rune-ico-lg loading=lazy title="Упоминаний в тексте: 18" }
 <span class="rune-name">Руна Хронос</span>
 <span class="rune-meta">ЗК-2, Глава 1, стр. 35</span>
 
