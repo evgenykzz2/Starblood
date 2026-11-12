@@ -18,7 +18,7 @@
 </div>
 
 <div class="book-card" markdown>
-
+<a href="syn-buri/"><img src="syn-buri/cover.jpg" alt="Сын бури" class="book-thumb"></a>
 
 **2. [Сын бури](syn-buri/index.md)**
 
