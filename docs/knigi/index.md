@@ -29,7 +29,7 @@
 </div>
 
 <div class="book-card" markdown>
-
+<a href="mrak/"><img src="mrak/cover.jpg" alt="Мрак" class="book-thumb"></a>
 
 **3. [Мрак](mrak/index.md)**
 
