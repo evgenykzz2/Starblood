@@ -168,169 +168,40 @@ nav:
   - Словарь: slovar.md
   - Книги:
       - "Все книги": knigi/index.md
-      - "Буря моя":
+      - "Буря моя. Часть 1":
           - "О книге": knigi/burya-moya/index.md
           - "Пролог": knigi/burya-moya/00-prolog.md
           - "Глава 1": knigi/burya-moya/01-glava-01.md
           - "Глава 2": knigi/burya-moya/02-glava-02.md
-          - "Интерлюдия. Тени шепчут": knigi/burya-moya/03-interlyudiya.md
+          - "Интерлюдия. Уголек": knigi/burya-moya/03-interlyudiya-1.md
           - "Глава 3": knigi/burya-moya/04-glava-03.md
           - "Глава 4": knigi/burya-moya/05-glava-04.md
           - "Глава 5": knigi/burya-moya/06-glava-05.md
           - "Глава 6": knigi/burya-moya/07-glava-06.md
-          - "Глава 7": knigi/burya-moya/08-glava-07.md
-          - "Интерлюдия. Марк": knigi/burya-moya/09-interlyudiya-mark.md
+          - "Интерлюдия. Уголек": knigi/burya-moya/08-interlyudiya-2.md
+          - "Глава 7": knigi/burya-moya/09-glava-07.md
           - "Глава 8": knigi/burya-moya/10-glava-08.md
           - "Глава 9": knigi/burya-moya/11-glava-09.md
           - "Глава 10": knigi/burya-moya/12-glava-10.md
           - "Глава 11": knigi/burya-moya/13-glava-11.md
-          - "Глава 12": knigi/burya-moya/14-glava-12.md
-          - "Глава 13": knigi/burya-moya/15-glava-13.md
-          - "Глава 14": knigi/burya-moya/16-glava-14.md
-          - "Глава 15": knigi/burya-moya/17-glava-15.md
-          - "Глава 16": knigi/burya-moya/18-glava-16.md
-          - "Интерлюдия. Винсент": knigi/burya-moya/19-interlyudiya-vinsent.md
+          - "Интерлюдия. Уголек": knigi/burya-moya/14-interlyudiya-3.md
+          - "Глава 12": knigi/burya-moya/15-glava-12.md
+          - "Глава 13": knigi/burya-moya/16-glava-13.md
+          - "Глава 14": knigi/burya-moya/17-glava-14.md
+          - "Глава 15": knigi/burya-moya/18-glava-15.md
+          - "Глава 16": knigi/burya-moya/19-glava-16.md
           - "Глава 17": knigi/burya-moya/20-glava-17.md
           - "Глава 18": knigi/burya-moya/21-glava-18.md
-          - "Глава 19": knigi/burya-moya/22-glava-19.md
-          - "Глава 20": knigi/burya-moya/23-glava-20.md
-          - "Глава 21": knigi/burya-moya/24-glava-21.md
-          - "Глава 22": knigi/burya-moya/25-glava-22.md
-          - "Интерлюдия. Шелковая Тень": knigi/burya-moya/26-interlyudiya-shelkovaya.md
-          - "Глава 23": knigi/burya-moya/27-glava-23.md
-          - "Глава 24": knigi/burya-moya/28-glava-24.md
-          - "Глава 25": knigi/burya-moya/29-glava-25.md
-          - "Глава 26": knigi/burya-moya/30-glava-26.md
-          - "Глава 27": knigi/burya-moya/31-glava-27.md
-          - "Эпилог": knigi/burya-moya/32-epilog.md
-      - "Сын бури":
-          - "О книге": knigi/syn-buri/index.md
-          - "Пролог": knigi/syn-buri/00-prolog.md
-          - "Глава 1": knigi/syn-buri/01-glava-01.md
-          - "Глава 2": knigi/syn-buri/02-glava-02.md
-          - "Глава 3": knigi/syn-buri/03-glava-03.md
-          - "Глава 4": knigi/syn-buri/04-glava-04.md
-          - "Глава 5": knigi/syn-buri/05-glava-05.md
-          - "Интерлюдия. Говорящая": knigi/syn-buri/06-interlyudiya-govoryashchaya.md
-          - "Глава 6": knigi/syn-buri/07-glava-06.md
-          - "Глава 7": knigi/syn-buri/08-glava-07.md
-          - "Глава 8": knigi/syn-buri/09-glava-08.md
-          - "Глава 9": knigi/syn-buri/10-glava-09.md
-          - "Глава 10": knigi/syn-buri/11-glava-10.md
-          - "Глава 11": knigi/syn-buri/12-glava-11.md
-          - "Глава 12": knigi/syn-buri/13-glava-12.md
-          - "Интерлюдия. Белая маска": knigi/syn-buri/14-interlyudiya-belaya-maska.md
-          - "Глава 13": knigi/syn-buri/15-glava-13.md
-          - "Глава 14": knigi/syn-buri/16-glava-14.md
-          - "Глава 15": knigi/syn-buri/17-glava-15.md
-          - "Глава 16": knigi/syn-buri/18-glava-16.md
-          - "Глава 17": knigi/syn-buri/19-glava-17.md
-          - "Интерлюдия. Гай": knigi/syn-buri/20-interlyudiya-gaj.md
-          - "Глава 18": knigi/syn-buri/21-glava-18.md
-          - "Интерлюдия. Травинка": knigi/syn-buri/22-interlyudiya-travinka.md
-          - "Эпилог": knigi/syn-buri/23-epilog.md
-      - "Мрак":
-          - "О книге": knigi/mrak/index.md
-          - "Пролог": knigi/mrak/00-prolog.md
-          - "Глава 1": knigi/mrak/01-glava-01.md
-          - "Глава 2": knigi/mrak/02-glava-02.md
-          - "Интерлюдия. Свирель": knigi/mrak/03-interlyudiya-svirel.md
-          - "Глава 3": knigi/mrak/04-glava-03.md
-          - "Глава 4": knigi/mrak/05-glava-04.md
-          - "Глава 5": knigi/mrak/06-glava-05.md
-          - "Глава 6": knigi/mrak/07-glava-06.md
-          - "Глава 7": knigi/mrak/08-glava-07.md
-          - "Глава 8": knigi/mrak/09-glava-08.md
-          - "Глава 9": knigi/mrak/10-glava-09.md
-          - "Интерлюдия. Гай Флоу": knigi/mrak/11-interlyudiya-gaj.md
-          - "Глава 10": knigi/mrak/12-glava-10.md
-          - "Глава 11": knigi/mrak/13-glava-11.md
-          - "Глава 12": knigi/mrak/14-glava-12.md
-          - "Глава 13": knigi/mrak/15-glava-13.md
-          - "Глава 14": knigi/mrak/16-glava-14.md
-          - "Глава 15": knigi/mrak/17-glava-15.md
-          - "Глава 16": knigi/mrak/18-glava-16.md
-          - "Интерлюдия. Фламиника": knigi/mrak/19-interlyudiya-flaminika.md
-          - "Глава 17": knigi/mrak/20-glava-17.md
-          - "Интерлюдия. Лиза": knigi/mrak/21-interlyudiya-liza.md
-          - "Глава 18": knigi/mrak/22-glava-18.md
-          - "Эпилог": knigi/mrak/23-epilog.md
-      - "Заклинательница душ":
-          - "О книге": knigi/zaklinatelnica-dush/index.md
-          - "Пролог": knigi/zaklinatelnica-dush/00-prolog.md
-          - "Глава 1": knigi/zaklinatelnica-dush/01-glava-01.md
-          - "Глава 2": knigi/zaklinatelnica-dush/02-glava-02.md
-          - "Глава 3": knigi/zaklinatelnica-dush/03-glava-03.md
-          - "Интерлюдия. Эльвейн": knigi/zaklinatelnica-dush/04-interlyudiya-elveyn.md
-          - "Глава 4": knigi/zaklinatelnica-dush/05-glava-04.md
-          - "Глава 5": knigi/zaklinatelnica-dush/06-glava-05.md
-          - "Глава 6": knigi/zaklinatelnica-dush/07-glava-06.md
-          - "Глава 7": knigi/zaklinatelnica-dush/08-glava-07.md
-          - "Глава 8": knigi/zaklinatelnica-dush/09-glava-08.md
-          - "Глава 9": knigi/zaklinatelnica-dush/10-glava-09.md
-          - "Глава 10": knigi/zaklinatelnica-dush/11-glava-10.md
-          - "Глава 11": knigi/zaklinatelnica-dush/12-glava-11.md
-          - "Интерлюдия. Эльвейн": knigi/zaklinatelnica-dush/13-interlyudiya-elveyn.md
-          - "Глава 12": knigi/zaklinatelnica-dush/14-glava-12.md
-          - "Глава 13": knigi/zaklinatelnica-dush/15-glava-13.md
-          - "Глава 14": knigi/zaklinatelnica-dush/16-glava-14.md
-          - "Глава 15": knigi/zaklinatelnica-dush/17-glava-15.md
-          - "Глава 16": knigi/zaklinatelnica-dush/18-glava-16.md
-          - "Глава 17": knigi/zaklinatelnica-dush/19-glava-17.md
-          - "Глава 18": knigi/zaklinatelnica-dush/20-glava-18.md
-          - "Глава 19": knigi/zaklinatelnica-dush/21-glava-19.md
-          - "Глава 20": knigi/zaklinatelnica-dush/22-glava-20.md
-          - "Эпилог. Гость": knigi/zaklinatelnica-dush/23-epilog.md
-      - "Серебряный Замок":
-          - "О книге": knigi/serebryanyj-zamok/index.md
-          - "Пролог": knigi/serebryanyj-zamok/00-prolog.md
-          - "Глава 1": knigi/serebryanyj-zamok/01-glava-01.md
-          - "Глава 2": knigi/serebryanyj-zamok/02-glava-02.md
-          - "Глава 3": knigi/serebryanyj-zamok/03-glava-03.md
-          - "Интерлюдия. Сто Голосов": knigi/serebryanyj-zamok/04-interlyudiya-sto-golosov.md
-          - "Глава 4": knigi/serebryanyj-zamok/05-glava-04.md
-          - "Глава 5": knigi/serebryanyj-zamok/06-glava-05.md
-          - "Глава 6": knigi/serebryanyj-zamok/07-glava-06.md
-          - "Глава 7": knigi/serebryanyj-zamok/08-glava-07.md
-          - "Глава 8": knigi/serebryanyj-zamok/09-glava-08.md
-          - "Глава 9": knigi/serebryanyj-zamok/10-glava-09.md
-          - "Глава 10": knigi/serebryanyj-zamok/11-glava-10.md
-          - "Глава 11": knigi/serebryanyj-zamok/12-glava-11.md
-          - "Глава 12": knigi/serebryanyj-zamok/13-glava-12.md
-          - "Глава 13": knigi/serebryanyj-zamok/14-glava-13.md
-          - "Глава 14": knigi/serebryanyj-zamok/15-glava-14.md
-          - "Глава 15": knigi/serebryanyj-zamok/16-glava-15.md
-          - "Глава 16": knigi/serebryanyj-zamok/17-glava-16.md
-          - "Глава 17": knigi/serebryanyj-zamok/18-glava-17.md
-          - "Глава 18": knigi/serebryanyj-zamok/19-glava-18.md
-          - "Эпилог. Отражение неба": knigi/serebryanyj-zamok/20-epilog.md
-      - "Полет Ангела":
-          - "О книге": knigi/polet-angela/index.md
-          - "Пролог": knigi/polet-angela/00-prolog.md
-          - "Глава 1": knigi/polet-angela/01-glava-01.md
-          - "Интерлюдия. Полет Ангела": knigi/polet-angela/02-interlyudiya-polet-angela.md
-          - "Глава 2": knigi/polet-angela/03-glava-02.md
-          - "Глава 3": knigi/polet-angela/04-glava-03.md
-          - "Глава 4": knigi/polet-angela/05-glava-04.md
-          - "Глава 5": knigi/polet-angela/06-glava-05.md
-          - "Глава 6": knigi/polet-angela/07-glava-06.md
-          - "Глава 7": knigi/polet-angela/08-glava-07.md
-          - "Глава 8": knigi/polet-angela/09-glava-08.md
-          - "Глава 9": knigi/polet-angela/10-glava-09.md
-          - "Глава 10": knigi/polet-angela/11-glava-10.md
-          - "Глава 11": knigi/polet-angela/12-glava-11.md
-          - "Глава 12": knigi/polet-angela/13-glava-12.md
-          - "Глава 13": knigi/polet-angela/14-glava-13.md
-          - "Глава 14": knigi/polet-angela/15-glava-14.md
-          - "Глава 15": knigi/polet-angela/16-glava-15.md
-          - "Интерлюдия. Рэйчел": knigi/polet-angela/17-interlyudiya-reychel.md
-          - "Глава 16": knigi/polet-angela/18-glava-16.md
-          - "Глава 17": knigi/polet-angela/19-glava-17.md
-          - "Глава 18": knigi/polet-angela/20-glava-18.md
-          - "Глава 19": knigi/polet-angela/21-glava-19.md
-          - "Глава 20": knigi/polet-angela/22-glava-20.md
-          - "Глава 21": knigi/polet-angela/23-glava-21.md
-          - "Глава 22": knigi/polet-angela/24-glava-22.md
-          - "Эпилог. Позывной": knigi/polet-angela/25-epilog.md
+          - "Интерлюдия. Яростный": knigi/burya-moya/22-interlyudiya-4.md
+          - "Глава 19": knigi/burya-moya/23-glava-19.md
+          - "Глава 20": knigi/burya-moya/24-glava-20.md
+          - "Глава 21": knigi/burya-moya/25-glava-21.md
+          - "Глава 22": knigi/burya-moya/26-glava-22.md
+          - "Интерлюдия. Яростный": knigi/burya-moya/27-interlyudiya-5.md
+          - "Глава 23": knigi/burya-moya/28-glava-23.md
+          - "Глава 24": knigi/burya-moya/29-glava-24.md
+          - "Интерлюдия. Яростный": knigi/burya-moya/30-interlyudiya-6.md
+          - "Глава 25": knigi/burya-moya/31-glava-25.md
+          - "Глава 26": knigi/burya-moya/32-glava-26.md
   - "Обозначения и книги": oboznacheniya.md
   - "О вики": o-vike.md
